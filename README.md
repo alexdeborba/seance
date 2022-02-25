@@ -4,7 +4,6 @@ Welcome to the development repository for Séance.
 
 ![Séance](https://camo.githubusercontent.com/d14779b981fadc1aef6b3ea8a63bfc2bbbad95dce67adcc07ab8ac64c2f485d9/68747470733a2f2f616c65786465626f7262612e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30322f686f6d655f6865616465722d7363616c65642e6a7067)
 
-Please, read the contributors' [Code of Conduct](https://github.com/alexdeborba/seance/blob/main/CODE_OF_CONDUCT.md) and [Contributing](https://github.com/alexdeborba/seance/blob/main/CONTRIBUTING.md) for information about how to open bug reports, contribute patches, test changes, write documentation, or get involved in any way you can.
 
 ## Description
 
@@ -12,14 +11,16 @@ Séance was created to provide a solid monochromatic foundation embraced with an
 
 Remarkably lightweight, assertive, featuring colour palettes drawn to [accessibility](https://developer.wordpress.org/themes/functionality/accessibility/), and full-featured with dozens of carefully handcrafted [Gutenberg Block Patterns](https://developer.wordpress.org/block-editor/how-to-guides/themes/block-theme-overview/) that gently bring the strength of minimalistic visuals to content as if flipping pages of a book quickly with gentle fingertips while reading words with leisure.
 
-Fully customizable, Séance embraces the [Full Site Editing](https://make.wordpress.org/test/handbook/full-site-editing-outreach-experiment/) features introduced in [WordPress 5.9](https://wordpress.org/support/wordpress-version/version-5-9/) and, in its unusual manner, accommodates a new writing and visual experience.
+Fully customisable, Séance embraces the [Full Site Editing](https://make.wordpress.org/test/handbook/full-site-editing-outreach-experiment/) features introduced in [WordPress 5.9](https://wordpress.org/support/wordpress-version/version-5-9/) and, in its unusual manner, accommodates a new writing and visual experience.
 
 
 ## Contributing
 
-If you wish to contribute code, the list of [open issues](https://github.com/alexdeborba/seance/issues) is a superb place to start scrutinising for tasks. However, [pull requests](https://github.com/alexdeborba/seance/pulls) are preferred when linked to an existing issue.
+Before contributing, please read the contributors' [Code of Conduct](https://github.com/alexdeborba/seance/blob/main/CODE_OF_CONDUCT.md) and [Contributing](https://github.com/alexdeborba/seance/blob/main/CONTRIBUTING.md) for information about how to open bug reports, contribute patches, test changes, write documentation, or get involved in any way you can.
 
-Please be advised that contributing is not just for developers. I welcome anyone willing to contribute with code, [testing](#testing), triage, discussion, designing while building patterns and templates, making Séance more accessible, etcetera. So please, feel free to look through [open issues](https://github.com/alexdeborba/seance/issues), and join wherever you feel most comfortable.
+If after reading you still wish to contribute with code, the list of [open issues](https://github.com/alexdeborba/seance/issues) is a superb place to start scrutinising for tasks. However, [pull requests](https://github.com/alexdeborba/seance/pulls) are preferred when linked to an existing issue.
+
+Be advised that contributing is not just for developers. I welcome anyone willing to contribute with code, [testing](#testing), triage, discussion, designing while building patterns and templates, making Séance more accessible, etcetera. So please, feel free to look through [open issues](https://github.com/alexdeborba/seance/issues), and join wherever you feel most comfortable.
 
 ### Testing
 
