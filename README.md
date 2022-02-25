@@ -4,11 +4,13 @@ Welcome to the Séance development repository.
 
 ![Séance](https://camo.githubusercontent.com/d14779b981fadc1aef6b3ea8a63bfc2bbbad95dce67adcc07ab8ac64c2f485d9/68747470733a2f2f616c65786465626f7262612e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30322f686f6d655f6865616465722d7363616c65642e6a7067)
 
+
 ##### Table of Contents
 
+- [Introduction](#introduction)
 - [Description](#description)
 - [Getting Started with Séance](#getting-started-with-seance)
--- [Requirements](#requirements)
+- [Requirements](#requirements)
 - [Deploying WordPress Locally](#deploying-wordpress-locally)
 - [Development Environment Commands](#development-environment-commands)
 - [How to start the development environment for the first time](#how-to-start-the-development-environment-for-the-first-time)
@@ -26,6 +28,14 @@ Welcome to the Séance development repository.
 - [Roadmap](#roadmap)
 - [Credits](#credits)
 - [Suggestions?](#suggestions)
+
+
+## Introduction
+
+Séance is an uncommon name to a particular WordPress theme, but with a profound meaning behind its name and purpose, I am sure more than you initially thought.
+
+Séance meaning in a few words stands for “A séance or seance (/ˈseɪ.ɑːns/; French: [seɑ̃s]) is an attempt to communicate with spirits.”
+
 
 ## Description
 
