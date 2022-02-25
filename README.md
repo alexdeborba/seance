@@ -4,6 +4,7 @@ Welcome to the development repository for Séance.
 
 ![Séance](https://camo.githubusercontent.com/d14779b981fadc1aef6b3ea8a63bfc2bbbad95dce67adcc07ab8ac64c2f485d9/68747470733a2f2f616c65786465626f7262612e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30322f686f6d655f6865616465722d7363616c65642e6a7067)
 
+Please, read the contributors' [Code of Conduct](https://github.com/alexdeborba/seance/blob/main/CODE_OF_CONDUCT.md) and [Contributing](https://github.com/alexdeborba/seance/blob/main/CONTRIBUTING.md) for information about how to open bug reports, contribute patches, test changes, write documentation, or get involved in any way you can.
 
 ## Description
 
