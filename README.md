@@ -25,7 +25,7 @@ Welcome to the Séance development repository.
 - [Demos](#demos)
 - [Roadmap](#roadmap)
 - [Credits](#credits)
-- [Questions or Improvements?](#questions-or-improvements)
+- [Suggestions?](#suggestions)
 
 ## Description
 
@@ -234,6 +234,6 @@ The thumbnail on this README.md file:
 ["Person Holding Hand Mirror"](https://www.pexels.com/photo/person-holding-hand-mirror-2183445/) by Lisa Fotios, CCO
 
 
-## Questions or Improvements?
+## Suggestions?
 
 If you would wish to propose any improvements to this repository, please feel free to open an [issues](https://github.com/alexdeborba/seance/issues) or [pull requests](https://github.com/alexdeborba/seance/pulls).
