@@ -42,6 +42,8 @@ Truth be told, Séance was not planned. It never crossed my mind to get involved
 
 Besides this, I am an avid [WordPress Contributor](https://profiles.wordpress.org/alexdeborba/), Beta Tester for a few companies, and due to my narrative styling, I also write technical documentation for a few others. This, obviously, without mentioning my own company, which has been the driving force behind me through more than one decade, pushing me constantly to utter limits and fulfilling the significant part of my existence, pos-diagnosis.
 
+Séance came with the necessity of creating my website, in which I would make use to publish some personal content communed to my life — or death depends on how you see it — and while performing routinary procedures such as setting up DNS, generating the instance to install [WordPress 5.9.0](https://wordpress.org/news/2021/11/a-look-at-wordpress-5-9/), and opening the freshly new version of my dashboard, I could not help thinking how it would be to experiment with the new [Twenty Twenty-Two](https://make.wordpress.org/core/2021/10/06/introducing-twenty-twenty-two/) and see how far the new Full Site Editing would take theme development further.
+
 
 ## Description
 
