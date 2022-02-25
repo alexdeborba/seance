@@ -7,7 +7,23 @@ Welcome to the Séance development repository.
 ##### Table of Contents
 
 - [Description](#description)
-- [Getting Started](#getting-started)
+- [Getting Started with Séance](#getting-started-with-seance)
+-- [Requirements](#requirements)
+- [Deploying WordPress Locally](#deploying-wordpress-locally)
+-- [Development Environment Commands](#development-environment-commands)
+--- [How to start the development environment for the first time](#how-to-start-the-development-environment-for-the-first-time)
+--- [How to watch for changes](#how-to-watch-for-changes)
+--- [How to run a WP-CLI command](#how-to-run-a-wp-cli-command)
+--- [How to run the tests](#how-to-run-the-tests)
+--- [To restart the development environment](#how-to-restart-the-development-environment)
+--- [How to stop the development environment](#how-to-stop-the-development-environment)
+- [Credentials](#credentials)
+- [Contributing](#contributing)
+- [Development](#development)
+- [Resources](#resources)
+- [Demos](#demos)
+- [Roadmap](#roadmap)
+- [Credits](#credits)
 
 ## Description
 
@@ -18,35 +34,17 @@ Remarkably lightweight, assertive, featuring colour palettes drawn to [accessibi
 Fully customisable, Séance embraces the [Full Site Editing](https://make.wordpress.org/test/handbook/full-site-editing-outreach-experiment/) features introduced in [WordPress 5.9](https://wordpress.org/support/wordpress-version/version-5-9/) and, in its unusual manner, accommodates a new writing and visual experience.
 
 
-### Getting Started
+### Getting Started with Séance
 
 To get started with Séance development:
 
-1. Set up a [WordPress](https://wordpress.org/) instance. I would recommend [wp-env](https://developer.wordpress.org/block-editor/getting-started/devenv/), [Local](https://localwp.com/) or [DevKinsta](https://kinsta.com/devkinsta/).
+1. Set up a [WordPress](#deploying-wordpress-locally) instance.
 2. Download [Séance](https://github.com/alexdeborba/seance).
 3. Unzip, and upload this repository into your `/wp-content/themes/` directory.
 
+Just in case you find the method to install WordPress locally too overwhelming, then I would recommend experimenting with [wp-env](https://developer.wordpress.org/block-editor/getting-started/devenv/), [Local](https://localwp.com/) or [DevKinsta](https://kinsta.com/devkinsta/).
 
-
-
-## Contributing
-
-Before contributing, please read the contributors' [Code of Conduct](https://github.com/alexdeborba/seance/blob/main/CODE_OF_CONDUCT.md) and [Contributing](https://github.com/alexdeborba/seance/blob/main/CONTRIBUTING.md) for information about how to open bug reports, contribute patches, test changes, write documentation, or get involved in any way you can.
-
-If after reading you still wish to contribute with code, the list of [open issues](https://github.com/alexdeborba/seance/issues) is a superb place to start scrutinising for tasks. However, [pull requests](https://github.com/alexdeborba/seance/pulls) are preferred when linked to an existing issue.
-
-Be advised that contributing is not just for developers. I welcome anyone willing to contribute with code, [testing](#getting-started), triage, discussion, designing while building patterns and templates, making Séance more accessible, etcetera. So please, feel free to look through [open issues](https://github.com/alexdeborba/seance/issues), and join wherever you feel most comfortable.
-
-
-
-### Contributing
-  
-- Séance aims to load fewer assets as much as possible. With a very minimalistic approach, it relies on the [Block Editor](https://developer.wordpress.org/block-editor/how-to-guides/themes/block-theme-overview/) and [Global Styles](https://developer.wordpress.org/block-editor/how-to-guides/themes/theme-json/) to provide you with the visuals.
-- I strongly advise refraining from building any custom-built PHP or JavaScript-based workarounds for functionality that either Séance or the [Block Editor](https://developer.wordpress.org/block-editor/how-to-guides/themes/block-theme-overview/) might provide. Séance is the first of its kind, minimalistic, lightweight, and aimed at individuals with colour vision deficiency. So please, let us keep its code as simple as possible.
-- According to those last two points, Séance has no necessary build process.
-- If you have [contributed](CONTRIBUTORS.md) to Séance, due credit will be given. I will be updating [CONTRIBUTORS.md](CONTRIBUTORS.md) periodically with the names of contributors; however, feel free to open a [pull request](https://github.com/alexdeborba/seance/pulls) or [issue](https://github.com/alexdeborba/seance/issues) if I somehow omitted someone.
-
-## Requirements
+#### Requirements
 
 - [Séance](https://github.com/alexdeborba/seance)
 - [WordPress 5.9+](https://wordpress.org/download/)
@@ -70,9 +68,138 @@ The following test commands are then available:
 - `composer run standards:check` checks PHP for standards errors according to [WordPress Coding Standards](https://developer.wordpress.org/coding-standards/)
 - `composer run standards:fix` attempts to automatically fix errors
 
+### Deploying WordPress Locally
+
+Just in case you prefer to install WordPress from the ground up:
+
+You will need a basic understanding of how to use the command line on your computer. This will allow you to set up the local development environment, start it and stop it when necessary, and run the tests.
+
+You will need Node and npm installed on your computer. Node is a JavaScript runtime used for developer tooling, and npm is the package manager included with Node. If you have a package manager installed for your operating system, setup can be as straightforward as:
+
+* macOS: `brew install node`
+* Windows: `choco install nodejs`
+* Ubuntu: `apt install nodejs npm`
+
+If you are not using a package manager, please check the [Node.js download page](https://nodejs.org/en/download/) for installers and binaries.
+
+You will also need [Docker](https://www.docker.com/products/docker-desktop) installed and running on your computer. Docker is the virtualisation software that powers the local development environment. Docker can be installed just like any other regular application.
+
+### Development Environment Commands
+
+Ensure [Docker](https://www.docker.com/products/docker-desktop) is running before using these commands.
+
+#### How to start the development environment for the first time
+
+Start by cloning the current repository using `git clone https://github.com/WordPress/wordpress-develop.git`.
+
+Then in your terminal move to the repository folder `cd wordpress-develop` and run the following commands:
+
+```
+npm install
+npm run build:dev
+npm run env:start
+npm run env:install
+```
+
+Your WordPress site will accessible at http://localhost:8889. You can see or change configurations in the `.env` file located at the root of the project directory.
+
+#### To watch for changes
+
+If you are making changes to WordPress core files, you should start the file watcher in order to build or copy the files as necessary:
+
+```
+npm run dev
+```
+
+To stop the file watcher, please press `ctrl+c`.
+
+#### To run a [WP-CLI](https://make.wordpress.org/cli/handbook/) command
+
+```
+npm run env:cli <command>
+```
+
+WP-CLI has a plenty of [useful commands](https://developer.wordpress.org/cli/commands/) you can use to work on your WordPress site.
+
+Where the documentation mentions running `wp`, run `npm run env:cli` instead. For example:
+
+```
+npm run env:cli help
+```
+
+#### How to run the tests
+
+These commands run the PHP and end-to-end test suites, respectively:
+
+```
+npm run test:php
+npm run test:e2e
+```
+
+#### How to restart the development environment
+
+You may want to restart the environment if you have made changes to the configuration in the `docker-compose.yml` or `.env` files.
+
+You can restart the environment with:
+
+```
+npm run env:restart
+```
+
+#### How to stop the development environment
+
+You can stop the environment when you're not using it to preserve your computer's power and resources:
+
+```
+npm run env:stop
+```
+
+#### To start the development environment again
+
+Starting the environment again is a single command:
+
+```
+npm run env:start
+```
+
+## Credentials
+
+These are the default environment credentials:
+
+* Database Name: `wordpress_develop`
+* Username: `root`
+* Password: `password`
+
+To login to the site, navigate to http://localhost:8889/wp-admin.
+
+* Username: `admin`
+* Password: `password`
+
+To generate a new password (recommended):
+
+1. Go to the Dashboard.
+2. Click the Users menu on the left.
+3. Click the Edit link below the admin user.
+4. Scroll down and click 'Generate password'. Either use this password (recommended) or change it, then click 'Update User'. If you use the generated password be sure to save it somewhere (password manager, etc).
+
+## Contributing
+
+Before contributing, please read the contributors' [Code of Conduct](https://github.com/alexdeborba/seance/blob/main/CODE_OF_CONDUCT.md) and [Contributing](https://github.com/alexdeborba/seance/blob/main/CONTRIBUTING.md) for information about how to open bug reports, contribute patches, test changes, write documentation, or get involved in any way you can.
+
+If after reading you still wish to contribute with code, the list of [open issues](https://github.com/alexdeborba/seance/issues) is a superb place to start scrutinising for tasks. However, [pull requests](https://github.com/alexdeborba/seance/pulls) are preferred when linked to an existing issue.
+
+Be advised that contributing is not just for developers. I welcome anyone willing to contribute with code, [testing](#getting-started), triage, discussion, designing while building patterns and templates, making Séance more accessible, etcetera. So please, feel free to look through [open issues](https://github.com/alexdeborba/seance/issues), and join wherever you feel most comfortable.
+
+## Development
+  
+- Séance aims to load fewer assets as much as possible. With a very minimalistic approach, it relies on the [Block Editor](https://developer.wordpress.org/block-editor/how-to-guides/themes/block-theme-overview/) and [Global Styles](https://developer.wordpress.org/block-editor/how-to-guides/themes/theme-json/) to provide you with the visuals.
+- I strongly advise refraining from building any custom-built PHP or JavaScript-based workarounds for functionality that either Séance or the [Block Editor](https://developer.wordpress.org/block-editor/how-to-guides/themes/block-theme-overview/) might provide. Séance is the first of its kind, minimalistic, lightweight, and aimed at individuals with colour vision deficiency. So please, let us keep its code as simple as possible.
+- According to those last two points, Séance has no necessary build process.
+- If you have [contributed](CONTRIBUTORS.md) to Séance, due credit will be given. I will be updating [CONTRIBUTORS.md](CONTRIBUTORS.md) periodically with the names of contributors; however, feel free to open a [pull request](https://github.com/alexdeborba/seance/pulls) or [issue](https://github.com/alexdeborba/seance/issues) if I somehow omitted someone.
+
 ## Resources
 
-- [Setting up a development environment](https://developer.wordpress.org/block-editor/handbook/tutorials/devenv/)
+- [Setting up a development environment](#deploying-wordpress-locally)
 - [Block Theme documentation](https://developer.wordpress.org/block-editor/how-to-guides/themes/block-theme-overview)
 - [Global Styles and theme.json documentation](https://developer.wordpress.org/block-editor/how-to-guides/themes/theme-json/)
 
@@ -84,7 +211,7 @@ Unfortunately, I do not have any demos setup; however, you may look at [my site]
 
 Fortunately, Séance has a [public roadmap](https://trello.com/c/QEw6yBCP/18-introducting-seance) that can be accessed to observe both its development and progress.
 
-## Credit
+## Credits
 
 The thumbnail on this README.md file:
 
