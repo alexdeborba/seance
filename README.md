@@ -44,6 +44,10 @@ Besides this, I am an avid [WordPress Contributor](https://profiles.wordpress.or
 
 Séance came with the necessity of creating my website, in which I would make use to publish some personal content communed to my life — or death depends on how you see it — and while performing routinary procedures such as setting up DNS, generating the instance to install [WordPress 5.9.0](https://wordpress.org/news/2021/11/a-look-at-wordpress-5-9/), and opening the freshly new version of my dashboard, I could not help thinking how it would be to experiment with the new [Twenty Twenty-Two](https://make.wordpress.org/core/2021/10/06/introducing-twenty-twenty-two/) and see how far the new Full Site Editing would take theme development further.
 
+I am known for experimenting and taking things to a whole new dimension from what they initially intended to go, so it came naturally to use the default theme and know how it was supposed to work in a couple of hours.
+
+Pointless to say that the dev in me quickly got hyped and decided to open [Visual Studio Code](https://code.visualstudio.com/) and start coding its theme, extending, changing things around and building its [homepage](https://alexdeborba.com/)..
+
 
 ## Description
 
