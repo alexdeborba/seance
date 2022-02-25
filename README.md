@@ -20,6 +20,7 @@ Welcome to the Séance development repository.
 - [Credentials](#credentials)
 - [Contributing](#contributing)
 - [Development](#development)
+- [Experimenting](#experimenting)
 - [Resources](#resources)
 - [Demos](#demos)
 - [Roadmap](#roadmap)
@@ -197,6 +198,15 @@ Be advised that contributing is not just for developers. I welcome anyone willin
 - According to those last two points, Séance has no necessary build process.
 - If you have [contributed](CONTRIBUTORS.md) to Séance, due credit will be given. I will be updating [CONTRIBUTORS.md](CONTRIBUTORS.md) periodically with the names of contributors; however, feel free to open a [pull request](https://github.com/alexdeborba/seance/pulls) or [issue](https://github.com/alexdeborba/seance/issues) if I somehow omitted someone.
 
+## Experimenting
+
+If you wish to experiment with custom code, I will encourage you to install and use the Séance Child for further custom customisation, or further extend it with Code Snippets.
+
+| Repository | Description |
+| --- | --- |
+| [Séance Child Theme](https://github.com/alexdeborba/seance-child) | Official Séance Child Theme |
+| [Séance Code Snippets](https://github.com/alexdeborba/seance-snippets) | Official Séance Code Snippets |
+
 ## Resources
 
 - [Setting up a development environment](#deploying-wordpress-locally)
@@ -215,5 +225,4 @@ Fortunately, Séance has a [public roadmap](https://trello.com/c/QEw6yBCP/18-int
 
 The thumbnail on this README.md file:
 
-"Person Holding Hand Mirror" by Lisa Fotios, CCO
-https://www.pexels.com/photo/person-holding-hand-mirror-2183445/
+["Person Holding Hand Mirror"](https://www.pexels.com/photo/person-holding-hand-mirror-2183445/) by Lisa Fotios, CCO
