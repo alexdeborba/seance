@@ -36,6 +36,8 @@ Séance is an uncommon name to a particular WordPress theme, but with a profound
 
 Séance meaning in a few words stands for “A séance or seance (/ˈseɪ.ɑːns/; French: [seɑ̃s]) is an attempt to communicate with spirits.”
 
+In truth, it does have a very personal meaning to me, as uncanny as it may be, I am dying from [Lou Gehrig’s disease](https://en.wikipedia.org/wiki/Amyotrophic_lateral_sclerosis), so you can imagine how dearly and important Séance holds my essence in full.
+
 
 ## Description
 
