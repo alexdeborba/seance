@@ -38,6 +38,8 @@ Séance meaning in a few words stands for “A séance or seance (/ˈseɪ.ɑːns
 
 In truth, it does have a very personal meaning to me, as uncanny as it may be, I am dying from [Lou Gehrig’s disease](https://en.wikipedia.org/wiki/Amyotrophic_lateral_sclerosis), so you can imagine how dearly and important Séance holds my essence in full.
 
+Truth be told, Séance was not planned. It never crossed my mind to get involved on another theme besides [Olympus](https://wordpress.org/themes/olympuswp/) at this moment, as my time is quite limited to commit to anything else. Except for Olympus, my professional endeavours also include a plugin called [Zeus](https://wordpress.org/plugins/zeus-elementor/), which I co-lead with my dearest long-time friend [Nicolas Lecocq](https://profiles.wordpress.org/nicolaslecocq/) (yes, the very same that once created OceanWP, to which I was also part).
+
 
 ## Description
 
