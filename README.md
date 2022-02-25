@@ -25,6 +25,7 @@ Welcome to the Séance development repository.
 - [Demos](#demos)
 - [Roadmap](#roadmap)
 - [Credits](#credits)
+- [Questions or Improvements?](#questions-or-improvements)
 
 ## Description
 
@@ -209,9 +210,14 @@ If you wish to experiment with custom code, I will encourage you to install and 
 
 ## Resources
 
-- [Setting up a development environment](#deploying-wordpress-locally)
-- [Block Theme documentation](https://developer.wordpress.org/block-editor/how-to-guides/themes/block-theme-overview)
-- [Global Styles and theme.json documentation](https://developer.wordpress.org/block-editor/how-to-guides/themes/theme-json/)
+Here are some resources that may be helpful to context for learning more about developing block-based themes:
+
+- [Create a Block Theme (tutorial)](https://developer.wordpress.org/block-editor/how-to-guides/themes/create-block-theme/)
+- [Full site editing development in the Gutenberg Repository](https://github.com/WordPress/gutenberg/labels/%5BFeature%5D%20Full%20Site%20Editing)
+- [Block-based Theme Documentation](https://developer.wordpress.org/block-editor/how-to-guides/themes/block-theme-overview/)
+- [Global Styles and theme.json Documentation](https://developer.wordpress.org/block-editor/how-to-guides/themes/theme-json/)
+- [Global Styles development in the Gutenberg Repository](https://github.com/WordPress/gutenberg/issues?q=is%3Aissue+is%3Aopen+label%3A%22Global+Styles%22)
+- [theme.json Documentation](https://developer.wordpress.org/block-editor/how-to-guides/themes/theme-json/)
 
 ## Demos
 
@@ -226,3 +232,8 @@ Fortunately, Séance has a [public roadmap](https://trello.com/c/QEw6yBCP/18-int
 The thumbnail on this README.md file:
 
 ["Person Holding Hand Mirror"](https://www.pexels.com/photo/person-holding-hand-mirror-2183445/) by Lisa Fotios, CCO
+
+
+## Questions or Improvements?
+
+If you would wish to propose any improvements to this repository, please feel free to open an [issues](https://github.com/alexdeborba/seance/issues) or [pull requests](https://github.com/alexdeborba/seance/pulls).
