@@ -40,6 +40,8 @@ In truth, it does have a very personal meaning to me, as uncanny as it may be, I
 
 Truth be told, Séance was not planned. It never crossed my mind to get involved on another theme besides [Olympus](https://wordpress.org/themes/olympuswp/) at this moment, as my time is quite limited to commit to anything else. Except for Olympus, my professional endeavours also include a plugin called [Zeus](https://wordpress.org/plugins/zeus-elementor/), which I co-lead with my dearest long-time friend [Nicolas Lecocq](https://profiles.wordpress.org/nicolaslecocq/) (yes, the very same that once created OceanWP, to which I was also part).
 
+Besides this, I am an avid [WordPress Contributor](https://profiles.wordpress.org/alexdeborba/), Beta Tester for a few companies, and due to my narrative styling, I also write technical documentation for a few others. This, obviously, without mentioning my own company, which has been the driving force behind me through more than one decade, pushing me constantly to utter limits and fulfilling the significant part of my existence, pos-diagnosis.
+
 
 ## Description
 
