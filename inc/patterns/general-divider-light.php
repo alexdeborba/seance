@@ -1,6 +1,6 @@
 <?php
 /**
- * Séance: Divider with image and color light block pattern
+ * Séance: Divider with image and light color block pattern
  */
 return array(
 	'title'      => __( 'Divider with image and color (light)', 'seance' ),
