@@ -92,15 +92,15 @@ Additionally, if you wish to run tests locally, the following will be necessary:
 - [Node.js](https://nodejs.org/en/)
 - [Composer](https://getcomposer.org/)
 
-You can install the test-specific development dependencies by running `npm i && composer install`.
+To install the development dependencies specific to testing, execute the command: `npm i && composer install`
 
-The following test commands are then available:
+Upon completing the setup, you can use the following test commands:
 
-- `npm run lint:css` lints and autofixes where possible the CSS
-- `composer run analyze [filename.php]` statically analyzes PHP for bugs
-- `composer run lint` checks PHP for syntax errors
-- `composer run standards:check` checks PHP for standards errors according to [WordPress Coding Standards](https://developer.wordpress.org/coding-standards/)
-- `composer run standards:fix` attempts to automatically fix errors
+- `npm run lint:css` lints the CSS and automatically fixes any possible errors.
+- `composer run analyze [filename.php]` statically analyzes the PHP code for bugs.
+- `composer run lint` checks the PHP code for syntax errors.
+- `composer run standards:check` examines the PHP code for standards errors according to [WordPress Coding Standards](https://developer.wordpress.org/coding-standards/).
+- `composer run standards:fix` attempts to automatically correct these errors.
 
 
 ### Deploying WordPress Locally
