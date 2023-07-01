@@ -129,7 +129,9 @@ Ensure [Docker](https://www.docker.com/products/docker-desktop) is running befor
 
 Start by cloning the current repository using `git clone https://github.com/WordPress/wordpress-develop.git`.
 
-Then in your terminal move to the repository folder `cd wordpress-develop` and run the following commands:
+Next, in your terminal, navigate to the repository folder using `cd wordpress-develop`
+
+Run the subsequent commands:
 
 ```
 npm install
@@ -138,7 +140,7 @@ npm run env:start
 npm run env:install
 ```
 
-Your WordPress site will accessible at http://localhost:8889. You can see or change configurations in the `.env` file located at the root of the project directory.
+Your WordPress site will accessible at http://localhost:8889. The `.env` file, located at the root of the project directory, allows you to view or modify configurations.
 
 
 #### To watch for changes
