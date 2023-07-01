@@ -85,9 +85,9 @@ If the process of installing WordPress locally seems too complex, I recommend ex
 - PHP 5.6+
 - License: [GPLv2](https://www.gnu.org/licenses/gpl-2.0.html) or later.
 
-Some Séance features and/or [pull requests](https://github.com/alexdeborba/seance/pulls) may require the [Gutenberg plugin](https://wordpress.org/plugins/gutenberg/) trunk and will be described or tagged accordingly.
+Certain features of Séance or specific [pull requests](https://github.com/alexdeborba/seance/pulls) may necessitate the [Gutenberg plugin](https://wordpress.org/plugins/gutenberg/) trunk. Such requirements will be suitably described or tagged.
 
-To optionally run tests locally, it will also be required:
+Additionally, if you wish to run tests locally, the following will be necessary:
 
 - [Node.js](https://nodejs.org/en/)
 - [Composer](https://getcomposer.org/)
