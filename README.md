@@ -49,18 +49,22 @@ I have a reputation for being experimental and taking concepts to an entirely ne
 
 Needless to say, my inner developer was swiftly energized. I decided to open [Visual Studio Code](https://code.visualstudio.com/), commence coding the theme, extend its functionality, alter certain elements, and began constructing my [personal site](https://alexdeborba.com/).
 
-Conversely, I must admit that I am also driven by a desire to share my expertise with others. For several years, I have eagerly joined groups and offered assistance to users facing challenges, sharing my knowledge, troubleshooting their issues, and providing solutions to enable them to continue their journey with confidence.
+Conversely, I must admit that I also have a deep-seated desire to share my knowledge with others. For several years, I have been an active participant in numerous groups, offering assistance to users in need by sharing my expertise, troubleshooting their problems, and providing them with solutions so they can continue on their journey with confidence.
 
-To be continued...
+Looking forward to continuing this journey...
 
 
 ## Description
 
-Séance was created to provide a solid monochromatic foundation embraced with an aura of dichromacy, and trichromacy, therefore, favouring those with colour vision deficiency within darker and lighter palettes yet poetically oriented with gothic aesthetics aimed at avid, inspiring writers for its clarity and minimalist approach.
+Séance was designed to provide a uniform, single-color foundation enhanced with hints of two-tone and three-tone color schemes.
 
-Remarkably lightweight, assertive, featuring colour palettes drawn to [accessibility](https://developer.wordpress.org/themes/functionality/accessibility/), and full-featured with dozens of carefully handcrafted [Gutenberg Block Patterns](https://developer.wordpress.org/block-editor/how-to-guides/themes/block-theme-overview/) that gently bring the strength of minimalistic visuals to content as if flipping pages of a book quickly with gentle fingertips while reading words with leisure.
+This design choice caters to individuals with color vision deficiency, covering both darker and lighter color palettes, all while maintaining a gothic aesthetic that appeals to passionate and aspiring writers due to its clarity and minimalist design.
 
-Fully customisable, Séance embraces the [Full Site Editing](https://make.wordpress.org/test/handbook/full-site-editing-outreach-experiment/) features introduced in [WordPress 5.9](https://wordpress.org/support/wordpress-version/version-5-9/) and, in its unusual manner, accommodates a new writing and visual experience.
+Impressively lightweight yet bold, Séance incorporates color palettes focused on [accessibility](https://developer.wordpress.org/themes/functionality/accessibility/) and comes fully equipped with numerous meticulously designed [Gutenberg Block Patterns](https://developer.wordpress.org/block-editor/how-to-guides/themes/block-theme-overview/).
+
+These elements subtly impart a minimalist visual strength to the content, similar to quickly leafing through a book with delicate fingertips, leisurely absorbing the written words.
+
+Fully customizable, Séance supports the [Full Site Editing](https://make.wordpress.org/test/handbook/full-site-editing-outreach-experiment/) features launched with [WordPress 5.9](https://wordpress.org/support/wordpress-version/version-5-9/) and, in its unique way, offers a fresh writing and visual experience.
 
 
 ### Getting Started with Séance
