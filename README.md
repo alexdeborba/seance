@@ -1,6 +1,6 @@
 # Séance
 
-Welcome to the Séance development repository.
+Welcome to the development repository for Séance.
 
 ![Séance](https://github.com/alexdeborba/seance/assets/5738223/9b6491e2-ea09-4e5f-bdb5-8831af16a16b)
 
@@ -31,23 +31,25 @@ Welcome to the Séance development repository.
 
 ## Introduction
 
-Séance is an uncommon name to a particular WordPress theme, but with a profound meaning behind its name and purpose, I am sure more than you initially thought.
+Séance may be an unconventional name for a WordPress theme, but I assure you, there is a depth of significance and purpose behind it that likely surpasses your initial assumptions.
 
-Séance meaning in a few words stands for “A séance or seance (/ˈseɪ.ɑːns/; French: [seɑ̃s]) is an attempt to communicate with spirits.”
+In a nutshell, Séance is a term borrowed from French “séance” (/ˈseɪ.ɑːns/; French: [seɑ̃s]), that literally translates to an “attempt to communicate with spirits.”
 
-In truth, it does have a very personal meaning to me, as uncanny as it may be, I am dying from [Lou Gehrig’s disease](https://en.wikipedia.org/wiki/Amyotrophic_lateral_sclerosis), so you can imagine how dearly and important Séance holds my essence in full.
+Indeed, the name Séance holds an intensely personal significance for me. As unsettling as it may sound, I am battling [Lou Gehrig’s disease](https://en.wikipedia.org/wiki/Amyotrophic_lateral_sclerosis). Therefore, you can understand how profoundly Séance embodies my whole essence.
 
-Truth be told, Séance was not planned. It never crossed my mind to get involved on another theme besides [Olympus](https://wordpress.org/themes/olympuswp/) at this moment, as my time is quite limited to commit to anything else. Except for Olympus, my professional endeavours also include a plugin called [Zeus](https://wordpress.org/plugins/zeus-elementor/), which I co-lead with my dearest long-time friend [Nicolas Lecocq](https://profiles.wordpress.org/nicolaslecocq/) (yes, the very same that once created OceanWP, to which I was also part).
+To be completely honest, Séance was not a premeditated project. It had not occurred to me to engage with another theme beyond the now obsolete [Olympus](https://wordpress.org/themes/olympuswp/), a theme had a promising and bright future ahead, which also motivated me to transition from [Astra](https://wpastra.com/) and dedicate myself entirely to it.
 
-Besides this, I am an avid [WordPress Contributor](https://profiles.wordpress.org/alexdeborba/), Beta Tester for a few companies, and due to my narrative styling, I also write technical documentation for a few others. This, obviously, without mentioning my own company, which has been the driving force behind me through more than one decade, pushing me constantly to utter limits and fulfilling the significant part of my existence, pos-diagnosis.
+[Olympus](https://wordpress.org/themes/olympuswp/) was a theme I used to co-lead with my former close friend [Nicolas Lecocq](https://profiles.wordpress.org/olympuswp/) - yes, the same individual who was instrumental in creating the now outdated [OceanWP](https://oceanwp.org/), a company I was also involved in - alongside with [Zeus for Elementor](https://wordpress.org/plugins/zeus-elementor/). Given my limited time, I could not commit to any additional projects. Apart from [AEon](https://www.facebook.com/groups/aeonwp), my professional pursuits also encompass my company, [Atmostfear Entertainment](https://www.atmostfear-entertainment.com/).
 
-Séance came with the necessity of creating my website, in which I would make use to publish some personal content communed to my life — or death depends on how you see it — and while performing routinary procedures such as setting up DNS, generating the instance to install [WordPress 5.9.0](https://wordpress.org/news/2021/11/a-look-at-wordpress-5-9/), and opening the freshly new version of my dashboard, I could not help thinking how it would be to experiment with the new [Twenty Twenty-Two](https://make.wordpress.org/core/2021/10/06/introducing-twenty-twenty-two/) and see how far the new Full Site Editing would take theme development further.
+In addition to this, I am an active contributor to [WordPress](https://profiles.wordpress.org/alexdeborba/), serve as a Beta Tester for several companies, and thanks to my unique narrative style, I write technical documentation for others as well. Of course, this is without even mentioning my own company, which has been my motivator for over a decade, constantly pushing me to my limits and significantly fulfilling my life post-diagnosis.
 
-I am known for experimenting and taking things to a whole new dimension from what they initially intended to go, so it came naturally to use the default theme and know how it was supposed to work in a couple of hours.
+The inception of Séance was driven by the need to build my [personal site](https://alexdeborba.com/). I intended this platform for publishing personal content related to my life—or death, depending on your viewpoint. As I undertook routine tasks like setting up DNS, creating the instance for [WordPress 5.9.0](https://wordpress.org/news/2021/11/a-look-at-wordpress-5-9/), and accessing my freshly updated dashboard, I found myself captivated by the prospect of experimenting with the new [Twenty Twenty-Two](https://make.wordpress.org/core/2021/10/06/introducing-twenty-twenty-two/). I could not help thinking how it would be to experiment with it and see how far the new Full Site Editing would take theme development further.
 
-Pointless to say that the dev in me quickly got hyped and decided to open [Visual Studio Code](https://code.visualstudio.com/) and start coding its theme, extending, changing things around and building its [homepage](https://alexdeborba.com/).
+I have a reputation for being experimental and taking concepts to an entirely new level beyond their original intent. Thus, it was second nature to delve into the default theme and familiarize myself with its intended functionality within just a few hours.
 
-On the other hand, I must confess I am also guilty of wanting to share my knowledge with others. It has been quite a few years since I compulsively joined groups and began helping users in distress by sharing what I learn or debugging their issues to provide solutions and let them go their merry way.
+Needless to say, my inner developer was swiftly energized. I decided to open [Visual Studio Code](https://code.visualstudio.com/), commence coding the theme, extend its functionality, alter certain elements, and began constructing my [personal site](https://alexdeborba.com/).
+
+Conversely, I must admit that I am also driven by a desire to share my expertise with others. For several years, I have eagerly joined groups and offered assistance to users facing challenges, sharing my knowledge, troubleshooting their issues, and providing solutions to enable them to continue their journey with confidence.
 
 To be continued...
 
