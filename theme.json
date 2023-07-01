@@ -41,24 +41,19 @@
 					"name": "Foreground and background"
 				},
 				{
-					"colors": [ "#323b3b", "#f9f9f9" ],
-					"slug": "primary-and-background",
-					"name": "Primary and background"
-				},
-				{
 					"colors": [ "#0f0f10", "#e8e8e8" ],
 					"slug": "foreground-and-secondary",
 					"name": "Foreground and secondary"
 				},
 				{
-					"colors": [ "#0f0f10", "#f6f6f6" ],
+					"colors": [ "#323b3b", "#f9f9f9" ],
 					"slug": "foreground-and-tertiary",
 					"name": "Foreground and tertiary"
 				},
 				{
-					"colors": [ "#000000", "#f6f6f6" ],
-					"slug": "foreground-and-quaternary",
-					"name": "Foreground and quaternary"
+					"colors": [ "#0f0f10", "#f6f6f6" ],
+					"slug": "primary-and-background",
+					"name": "Primary and background"
 				},
 				{
 					"colors": [ "#323b3b", "#e8e8e8" ],
@@ -69,11 +64,6 @@
 					"colors": [ "#323b3b", "#f6f6f6" ],
 					"slug": "primary-and-tertiary",
 					"name": "Primary and tertiary"
-				},
-				{
-					"colors": [ "#000000", "#f6f6f6" ],
-					"slug": "primary-and-quaternary",
-					"name": "Primary and quaternary"
 				}
 			],
 			"gradients": [
@@ -143,11 +133,6 @@
 					"slug": "tertiary",
 					"color": "#f6f6f6",
 					"name": "Tertiary"
-				},
-				{
-					"slug": "quaternary",
-					"color": "#f6f6f6",
-					"name": "Quaternary"
 				}
 			]
 		},
@@ -193,7 +178,23 @@
 				{
 					"fontFamily": "\"Source Serif Pro\", serif",
 					"name": "Source Serif Pro",
-					"slug": "source-serif-pro"
+					"slug": "source-serif-pro",
+					"fontFace": [
+						{
+							"fontFamily": "Source Serif Pro",
+							"fontWeight": "200 900",
+							"fontStyle": "normal",
+							"fontStretch": "normal",
+							"src": [ "file:./assets/fonts/source-serif-pro/SourceSerif4Variable-Roman.ttf.woff2" ]
+						},
+						{
+							"fontFamily": "Source Serif Pro",
+							"fontWeight": "200 900",
+							"fontStyle": "italic",
+							"fontStretch": "normal",
+							"src": [ "file:./assets/fonts/source-serif-pro/SourceSerif4Variable-Italic.ttf.woff2" ]
+						}
+					]
 				}
 			],
 			"fontSizes": [
@@ -272,6 +273,7 @@
 					"fontFamily": "var(--wp--preset--font-family--system-font)",
 					"lineHeight": "var(--wp--custom--typography--line-height--normal)",
 					"fontSize": "var(--wp--preset--font-size--medium)",
+					"fontStyle": "italic",
 					"fontWeight": "normal"
 				}
 			}
