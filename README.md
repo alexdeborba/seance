@@ -69,13 +69,13 @@ Fully customizable, Séance supports the [Full Site Editing](https://make.wordpr
 
 ### Getting Started with Séance
 
-To get started with Séance development:
+To initiate development with the Séance theme:
 
-1. Set up a [WordPress](#deploying-wordpress-locally) instance.
-2. Download [Séance](https://github.com/alexdeborba/seance).
-3. Unzip, and upload this repository into your `/wp-content/themes/` directory.
+1. Begin by creating a [WordPress](#deploying-wordpress-locally) instance.
+2. Proceed to download the [Séance](https://github.com/alexdeborba/seance) theme.
+3. Next, unzip the downloaded file and upload the repository into your `/wp-content/themes/` directory.
 
-Just in case you find the method to install WordPress locally too overwhelming, then I would recommend experimenting with [wp-env](https://developer.wordpress.org/block-editor/getting-started/devenv/), [Local](https://localwp.com/) or [DevKinsta](https://kinsta.com/devkinsta/).
+If the process of installing WordPress locally seems too complex, I recommend experimenting with tools such as [wp-env](https://developer.wordpress.org/block-editor/getting-started/devenv/), [Local](https://localwp.com/) or [DevKinsta](https://kinsta.com/devkinsta/).
 
 
 #### Requirements
