@@ -1,19 +1,23 @@
 === Séance ===
 Contributors: alexdeborba
 Requires at least: 5.9
-Tested up to: 5.9
+Tested up to: 6.2
 Requires PHP: 5.6
-Stable tag: 1.0.0
+Stable tag: 1.0.0-alpha.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-Séance was created to provide a solid monochromatic foundation embraced with an aura of dichromacy, and trichromacy, therefore, favouring those with colour vision deficiency within darker and lighter palettes yet poetically oriented with gothic aesthetics aimed at avid, inspiring writers for its clarity and minimalist approach.
+Séance was designed to provide a uniform, single-color foundation enhanced with hints of two-tone and three-tone color schemes.
 
-Remarkably lightweight, assertive, featuring colour palettes drawn to accessibility, and full-featured with dozens of carefully handcrafted Gutenberg Block Patterns that gently bring the strength of minimalistic visuals to content as if flipping pages of a book quickly with gentle fingertips while reading words with leisure.
+This design choice caters to individuals with color vision deficiency, covering both darker and lighter color palettes, all while maintaining a gothic aesthetic that appeals to passionate and aspiring writers due to its clarity and minimalist design.
 
-Fully customizable, Séance embraces the Full Site Editing features introduced in WordPress 5.9 and, in its unusual manner, accommodates a new writing and visual experience.
+Impressively lightweight yet bold, Séance incorporates color palettes focused on accessibility and comes fully equipped with numerous meticulously designed Gutenberg Block Patterns.
+
+These elements subtly impart a minimalist visual strength to the content, similar to quickly leafing through a book with delicate fingertips, leisurely absorbing the written words.
+
+Fully customizable, Séance supports the Full Site Editing features launched with WordPress 5.9 and, in its unique way, offers a fresh writing and visual experience.
 
 == Changelog ==
 
@@ -24,7 +28,7 @@ https://github.com/alexdeborba/seance/blob/main/CHANGELOG.md#100---2022-02-24
 
 == Copyright ==
 
-Séance WordPress Theme, 2022 Alex de Borba.
+Séance WordPress Theme, 2022-2023 Alex de Borba.
 Séance is distributed under the terms of the GNU GPL.
 
 This program is free software: you can redistribute it and/or modify
@@ -55,8 +59,8 @@ https://www.svgrepo.com/svg/75533/brain
 
 Block Pattern Images:
 
-"Person Holding Hand Mirror" by Lisa Fotios, CCO
-https://www.pexels.com/photo/person-holding-hand-mirror-2183445/
+"Meditator" by Alex de Borba, CCO
+https://alexdeborba.com/
 
 "Person's Body Covered with Cloth" by Nilay Ramoliya, CC0
 https://www.pexels.com/photo/person-s-body-covered-with-cloth-3111251/
