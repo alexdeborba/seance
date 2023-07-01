@@ -105,19 +105,19 @@ Upon completing the setup, you can use the following test commands:
 
 ### Deploying WordPress Locally
 
-Just in case you prefer to install WordPress from the ground up:
+In case you'd rather install WordPress from scratch, here are the steps:
 
-You will need a basic understanding of how to use the command line on your computer. This will allow you to set up the local development environment, start it and stop it when necessary, and run the tests.
+You will need a basic understanding of how to use the command line interface on your computer. This will allow you to establish the local development environment, start and stop it as needed, and run tests.
 
-You will need Node and npm installed on your computer. Node is a JavaScript runtime used for developer tooling, and npm is the package manager included with Node. If you have a package manager installed for your operating system, setup can be as straightforward as:
+You will need Node and npm installed on your computer. Node is a JavaScript runtime used for developer tooling, and npm is the package manager included with Node. If you have a package manager installed for your operating system, the setup can be as simple as:
 
-* macOS: `brew install node`
-* Windows: `choco install nodejs`
-* Ubuntu: `apt install nodejs npm`
+* For macOS: `brew install node`
+* For Windows: `choco install nodejs`
+* For Ubuntu: `apt install nodejs npm`
 
-If you are not using a package manager, please check the [Node.js download page](https://nodejs.org/en/download/) for installers and binaries.
+If you are not using a package manager, refer to the [Node.js download page](https://nodejs.org/en/download/) download page for installers and binaries.
 
-You will also need [Docker](https://www.docker.com/products/docker-desktop) installed and running on your computer. Docker is the virtualisation software that powers the local development environment. Docker can be installed just like any other regular application.
+[Docker](https://www.docker.com/products/docker-desktop), which powers the local development environment, also needs to be installed and running on your computer. Docker is virtualization software and can be installed like any other regular application.
 
 
 ### Development Environment Commands
