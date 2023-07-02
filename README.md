@@ -157,6 +157,20 @@ This approach not only streamlines the design process but also helps ensure cons
 In the Full Site Editing (FSE) paradigm, you can create and edit these template parts directly from the WordPress site editor, providing a unified and streamlined site-building experience.
 
 
+### Export Your Site
+
+Here is a step-by-step guide to how you can export your custom theme:
+
+1. Open the WordPress site editor by navigating to `Appearance → Editor`.
+2. Once in the site editor, look for the `Options` menu. It is typically represented by three vertical dots (also known as a "kebab" menu) in the upper right-hand corner of the screen.
+3. Click on the `Options` menu, and under the `Tools` heading, you will see an `Export` option.
+4. Click on `Export`. WordPress will then gather all the changes and customizations you have made using the site editor. This includes custom blocks, global styles, patterns, templates, and template parts.
+5. WordPress will compile these customizations into a `.zip` file, which is your new custom theme.
+6. The `.zip` file will automatically download to your computer.
+
+This feature essentially allows you to use the site editor as a theme builder. Once you have downloaded the `.zip` file, you can upload and install it on any other WordPress site, just like you would with a traditional theme. It is a convenient way to transfer your custom designs from a local development site to a live production site, or to share your designs with others.
+
+
 ### Deploying WordPress Locally
 
 In case you'd rather install WordPress from scratch, here are the steps:
