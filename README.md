@@ -31,6 +31,7 @@ Welcome to the development repository for Séance.
 - [Resources](#resources)
 - [Demos](#demos)
 - [Roadmap](#roadmap)
+- [License](#license)
 - [Credits](#credits)
 - [Suggestions?](#suggestions)
 
@@ -171,7 +172,7 @@ Here is a step-by-step guide to how you can export your custom theme:
 This feature essentially allows you to use the site editor as a theme builder. Once you have downloaded the `.zip` file, you can upload and install it on any other WordPress site, just like you would with a traditional theme. It is a convenient way to transfer your custom designs from a local development site to a live production site, or to share your designs with others.
 
 
-### Deploying WordPress Locally
+## Deploying WordPress Locally
 
 In case you'd rather install WordPress from scratch, here are the steps:
 
@@ -188,12 +189,12 @@ If you are not using a package manager, refer to the [Node.js download page](htt
 [Docker](https://www.docker.com/products/docker-desktop), which powers the local development environment, also needs to be installed and running on your computer. Docker is virtualization software and can be installed like any other regular application.
 
 
-#### Development Environment Commands
+### Development Environment Commands
 
 Ensure [Docker](https://www.docker.com/products/docker-desktop) is running before using these commands.
 
 
-#### How to start the development environment for the first time
+### How to start the development environment for the first time
 
 Start by cloning the current repository using `git clone https://github.com/WordPress/wordpress-develop.git`.
 
@@ -211,7 +212,7 @@ npm run env:install
 Your WordPress site will accessible at http://localhost:8889. The `.env` file, located at the root of the project directory, allows you to view or modify configurations.
 
 
-#### To watch for changes
+### To watch for changes
 
 Should you be modifying the WordPress core files, it is recommended to initiate the file watcher to build or replicate the files as needed:
 
@@ -222,7 +223,7 @@ npm run dev
 To terminate the file watcher, press `ctrl+c`.
 
 
-#### To run a [WP-CLI](https://make.wordpress.org/cli/handbook/) command
+### To run a [WP-CLI](https://make.wordpress.org/cli/handbook/) command
 
 ```
 npm run env:cli <command>
@@ -237,7 +238,7 @@ npm run env:cli help
 ```
 
 
-#### How to run the tests
+### How to run the tests
 
 The following commands are used to run the PHP and end-to-end test suites, respectively:
 
@@ -247,7 +248,7 @@ npm run test:e2e
 ```
 
 
-#### How to restart the development environment
+### How to restart the development environment
 
 Should you make alterations to the configuration in the `docker-compose.yml` or `.env` files, it may be necessary to restart the environment.
 
@@ -258,7 +259,7 @@ npm run env:restart
 ```
 
 
-#### How to stop the development environment
+### How to stop the development environment
 
 To conserve your computer's power and resources, you can halt the environment when it is not in use:
 
@@ -267,7 +268,7 @@ npm run env:stop
 ```
 
 
-#### To start the development environment again
+### To start the development environment again
 
 Reactivating the environment involves just a single command:
 
@@ -276,7 +277,7 @@ npm run env:start
 ```
 
 
-#### Credentials
+## Credentials
 
 Here are the default credentials for the environment:
 
@@ -344,6 +345,11 @@ Regrettably, there are currently no specific demo sites for the Séance theme. H
 ## Roadmap
 
 Indeed, Séance offers a [publicly accessible roadmap](https://trello.com/c/QEw6yBCP/18-introducting-seance), allowing interested parties to track the theme's ongoing development and progress. This ensures transparency and provides a fascinating insight into the evolution of the project.
+
+
+## License
+
+Séance is licensed under the [GPL-3.0 license](https://www.gnu.org/licenses/gpl-3.0.html).
 
 
 ## Credits
