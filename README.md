@@ -12,6 +12,7 @@ Welcome to the development repository for Séance.
   - [Requirements](#requirements)
 - [Working with Block Themes](#working-with-block-themes)
   - [Site Editor](#site-editor)
+  - [Patterns](#patterns)
 - [Deploying WordPress Locally](#deploying-wordpress-locally)
   - [Development Environment Commands](#development-environment-commands)
   - [How to start the development environment for the first time](#how-to-start-the-development-environment-for-the-first-time)
@@ -117,6 +118,13 @@ In essence, a block theme is a WordPress theme whose templates are entirely made
 The WordPress site editor symbolises a new era in crafting magnificent websites with WordPress. Through the power of blocks, patterns, and an extensive range of drag-and-drop design instruments, you can build pages within WordPress itself, eliminating the need for an additional page builder.
 
 To fine-tune your site via the site editor, you simply need to navigate to `Appearance → Editor`. This portal allows you to develop and tweak templates, generate menus, customise your website's styles, select your colour palette, adjust typography, modify block styles, and a whole lot more. This platform acts as your digital canvas where you will design, construct, and perfect your site prior to its eventual deployment.
+
+
+### Patterns
+
+Patterns are meticulously crafted page components that offer a swift way to design a page section or establish an entire page layout. Rather than crafting a page from the ground up, WordPress users can now rely on these convenient patterns to rapidly design their entire website within the WordPress Site Editor.
+
+You can easily utilise Séance's patterns by accessing them through the block inserter when working on posts, pages, or within the site editor. These patterns serve as versatile design elements that greatly simplify the site building process.
 
 
 ### Deploying WordPress Locally
