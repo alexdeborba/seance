@@ -210,23 +210,23 @@ npm run env:start
 
 ## Credentials
 
-These are the default environment credentials:
+Here are the default credentials for the environment:
 
-* Database Name: `wordpress_develop`
+* Database: `wordpress_develop`
 * Username: `root`
 * Password: `password`
 
-To login to the site, navigate to http://localhost:8889/wp-admin.
+To login to the site, proceed to: http://localhost:8889/wp-admin
 
 * Username: `admin`
 * Password: `password`
 
-To generate a new password (recommended):
+To create a new password (recommended):
 
-1. Go to the Dashboard.
-2. Click the Users menu on the left.
-3. Click the Edit link below the admin user.
-4. Scroll down and click 'Generate password'. Either use this password (recommended) or change it, then click 'Update User'. If you use the generated password be sure to save it somewhere (password manager, etc).
+1. Navigate to the Dashboard.
+2. Click on the Users menu on the left side.
+3. Click on the Edit link beneath the admin user.
+Scroll down and click 'Generate password'. You may either utilize this password (recommended) or change it, then click 'Update User'. If you opt for the generated password, ensure you save it somewhere safe (like a password manager).
 
 
 ## Contributing
