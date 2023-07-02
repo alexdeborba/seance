@@ -145,13 +145,13 @@ Your WordPress site will accessible at http://localhost:8889. The `.env` file, l
 
 #### To watch for changes
 
-If you are making changes to WordPress core files, you should start the file watcher in order to build or copy the files as necessary:
+Should you be modifying the WordPress core files, it is recommended to initiate the file watcher to build or replicate the files as needed:
 
 ```
 npm run dev
 ```
 
-To stop the file watcher, please press `ctrl+c`.
+To terminate the file watcher, press `ctrl+c`.
 
 
 #### To run a [WP-CLI](https://make.wordpress.org/cli/handbook/) command
