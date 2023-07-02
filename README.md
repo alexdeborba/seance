@@ -11,14 +11,14 @@ Welcome to the development repository for Séance.
 - [Getting Started with Séance](#getting-started-with-seance)
   - [Requirements](#requirements)
 - [Deploying WordPress Locally](#deploying-wordpress-locally)
-- [Development Environment Commands](#development-environment-commands)
-- [How to start the development environment for the first time](#how-to-start-the-development-environment-for-the-first-time)
-- [How to watch for changes](#how-to-watch-for-changes)
-- [How to run a WP-CLI command](#how-to-run-a-wp-cli-command)
-- [How to run the tests](#how-to-run-the-tests)
-- [To restart the development environment](#how-to-restart-the-development-environment)
-- [How to stop the development environment](#how-to-stop-the-development-environment)
-- [Credentials](#credentials)
+  - [Development Environment Commands](#development-environment-commands)
+  - [How to start the development environment for the first time](#how-to-start-the-development-environment-for-the-first-time)
+  - [How to watch for changes](#how-to-watch-for-changes)
+  - [How to run a WP-CLI command](#how-to-run-a-wp-cli-command)
+  - [How to run the tests](#how-to-run-the-tests)
+  - [To restart the development environment](#how-to-restart-the-development-environment)
+  - [How to stop the development environment](#how-to-stop-the-development-environment)
+  - [Credentials](#credentials)
 - [Contributing](#contributing)
 - [Development](#development)
 - [Experimenting](#experimenting)
@@ -67,7 +67,7 @@ These elements subtly impart a minimalist visual strength to the content, simila
 Fully customizable, Séance supports the [Full Site Editing](https://make.wordpress.org/test/handbook/full-site-editing-outreach-experiment/) features launched with [WordPress 5.9](https://wordpress.org/support/wordpress-version/version-5-9/) and, in its unique way, offers a fresh writing and visual experience.
 
 
-### Getting Started with Séance
+## Getting Started with Séance
 
 To initiate development with the Séance theme:
 
@@ -120,7 +120,7 @@ If you are not using a package manager, refer to the [Node.js download page](htt
 [Docker](https://www.docker.com/products/docker-desktop), which powers the local development environment, also needs to be installed and running on your computer. Docker is virtualization software and can be installed like any other regular application.
 
 
-### Development Environment Commands
+#### Development Environment Commands
 
 Ensure [Docker](https://www.docker.com/products/docker-desktop) is running before using these commands.
 
@@ -208,7 +208,7 @@ npm run env:start
 ```
 
 
-## Credentials
+#### Credentials
 
 Here are the default credentials for the environment:
 
