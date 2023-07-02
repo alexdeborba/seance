@@ -11,6 +11,7 @@ Welcome to the development repository for Séance.
 - [Getting Started with Séance](#getting-started-with-seance)
   - [Requirements](#requirements)
 - [Working with Block Themes](#working-with-block-themes)
+  - [Site Editor](#site-editor)
 - [Deploying WordPress Locally](#deploying-wordpress-locally)
   - [Development Environment Commands](#development-environment-commands)
   - [How to start the development environment for the first time](#how-to-start-the-development-environment-for-the-first-time)
@@ -109,6 +110,13 @@ Upon completing the setup, you can use the following test commands:
 When you activate Séance, it functions much like any other conventional WordPress theme. You can effortlessly create posts and pages as you have always done. But being a block theme, Séance goes beyond that and supports potent new features such as the site editor, patterns, global styles, and much more.
 
 In essence, a block theme is a WordPress theme whose templates are entirely made up of blocks. This means that apart from editing post and page content, you can also use the block editor to edit every other part of your site, including headers, footers, and all types of templates. It is an all-encompassing editor for your website's complete design and layout.
+
+
+### Site Editor
+
+The WordPress site editor symbolises a new era in crafting magnificent websites with WordPress. Through the power of blocks, patterns, and an extensive range of drag-and-drop design instruments, you can build pages within WordPress itself, eliminating the need for an additional page builder.
+
+To fine-tune your site via the site editor, you simply need to navigate to `Appearance → Editor`. This portal allows you to develop and tweak templates, generate menus, customise your website's styles, select your colour palette, adjust typography, modify block styles, and a whole lot more. This platform acts as your digital canvas where you will design, construct, and perfect your site prior to its eventual deployment.
 
 
 ### Deploying WordPress Locally
