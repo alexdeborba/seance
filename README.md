@@ -160,9 +160,9 @@ To terminate the file watcher, press `ctrl+c`.
 npm run env:cli <command>
 ```
 
-WP-CLI has a plenty of [useful commands](https://developer.wordpress.org/cli/commands/) you can use to work on your WordPress site.
+WP-CLI offers a plethora of handy [commands](https://developer.wordpress.org/cli/commands/) that you can employ to work on your WordPress site.
 
-Where the documentation mentions running `wp`, run `npm run env:cli` instead. For example:
+In instances where the documentation advises running `wp`, instead run `npm run env:cli`. For example:
 
 ```
 npm run env:cli help
