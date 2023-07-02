@@ -1,4 +1,4 @@
-# Séance
+# Séance — A WordPress Block Theme
 
 Welcome to the development repository for Séance.
 
@@ -9,7 +9,7 @@ Welcome to the development repository for Séance.
 - [Introduction](#introduction)
 - [Description](#description)
 - [Getting Started with Séance](#getting-started-with-seance)
-- [Requirements](#requirements)
+  - [Requirements](#requirements)
 - [Deploying WordPress Locally](#deploying-wordpress-locally)
 - [Development Environment Commands](#development-environment-commands)
 - [How to start the development environment for the first time](#how-to-start-the-development-environment-for-the-first-time)
