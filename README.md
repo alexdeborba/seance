@@ -4,12 +4,13 @@ Welcome to the development repository for Séance.
 
 ![Séance](https://github.com/alexdeborba/seance/assets/5738223/9b6491e2-ea09-4e5f-bdb5-8831af16a16b)
 
-##### Table of Contents
+## Table of Contents
 
 - [Introduction](#introduction)
 - [Description](#description)
 - [Getting Started with Séance](#getting-started-with-seance)
   - [Requirements](#requirements)
+- [Working with Block Themes](#working-with-block-themes)
 - [Deploying WordPress Locally](#deploying-wordpress-locally)
   - [Development Environment Commands](#development-environment-commands)
   - [How to start the development environment for the first time](#how-to-start-the-development-environment-for-the-first-time)
@@ -78,7 +79,7 @@ To initiate development with the Séance theme:
 If the process of installing WordPress locally seems too complex, I recommend experimenting with tools such as [wp-env](https://developer.wordpress.org/block-editor/getting-started/devenv/), [Local](https://localwp.com/) or [DevKinsta](https://kinsta.com/devkinsta/).
 
 
-#### Requirements
+### Requirements
 
 - [Séance](https://github.com/alexdeborba/seance)
 - [WordPress 5.9+](https://wordpress.org/download/)
@@ -101,6 +102,13 @@ Upon completing the setup, you can use the following test commands:
 - `composer run lint` checks the PHP code for syntax errors.
 - `composer run standards:check` examines the PHP code for standards errors according to [WordPress Coding Standards](https://developer.wordpress.org/coding-standards/).
 - `composer run standards:fix` attempts to automatically correct these errors.
+
+
+## Working with Block Themes
+
+When you activate Séance, it functions much like any other conventional WordPress theme. You can effortlessly create posts and pages as you have always done. But being a block theme, Séance goes beyond that and supports potent new features such as the site editor, patterns, global styles, and much more.
+
+In essence, a block theme is a WordPress theme whose templates are entirely made up of blocks. This means that apart from editing post and page content, you can also use the block editor to edit every other part of your site, including headers, footers, and all types of templates. It is an all-encompassing editor for your website's complete design and layout.
 
 
 ### Deploying WordPress Locally
