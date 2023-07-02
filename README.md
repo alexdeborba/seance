@@ -171,7 +171,7 @@ npm run env:cli help
 
 #### How to run the tests
 
-These commands run the PHP and end-to-end test suites, respectively:
+The following commands are used to run the PHP and end-to-end test suites, respectively:
 
 ```
 npm run test:php
@@ -181,9 +181,9 @@ npm run test:e2e
 
 #### How to restart the development environment
 
-You may want to restart the environment if you have made changes to the configuration in the `docker-compose.yml` or `.env` files.
+Should you make alterations to the configuration in the `docker-compose.yml` or `.env` files, it may be necessary to restart the environment.
 
-You can restart the environment with:
+The environment can be restarted using the following command:
 
 ```
 npm run env:restart
@@ -192,7 +192,7 @@ npm run env:restart
 
 #### How to stop the development environment
 
-You can stop the environment when you're not using it to preserve your computer's power and resources:
+To conserve your computer's power and resources, you can halt the environment when it is not in use:
 
 ```
 npm run env:stop
@@ -201,7 +201,7 @@ npm run env:stop
 
 #### To start the development environment again
 
-Starting the environment again is a single command:
+Reactivating the environment involves just a single command:
 
 ```
 npm run env:start
