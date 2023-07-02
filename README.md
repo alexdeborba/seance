@@ -258,7 +258,7 @@ Should you desire to explore custom coding, I would recommend installing and usi
 
 ## Resources
 
-Here are some resources that may be helpful to context for learning more about developing block-based themes:
+To delve deeper into the development of block-based themes, the following resources could prove valuable:
 
 - [Create a Block Theme (tutorial)](https://developer.wordpress.org/block-editor/how-to-guides/themes/create-block-theme/)
 - [Full site editing development in the Gutenberg Repository](https://github.com/WordPress/gutenberg/labels/%5BFeature%5D%20Full%20Site%20Editing)
@@ -270,21 +270,23 @@ Here are some resources that may be helpful to context for learning more about d
 
 ## Demos
 
-Unfortunately, I do not have any demos setup; however, you may look at [my site](https://alexdeborba.com/) to see what Séance unfolds. Please accept my most sincere apologies beforehand.
+Regrettably, there are currently no specific demo sites for the Séance theme. However, you can explore my [personal website](https://alexdeborba.com/), which utilizes Séance in full swing, to get a sense of what the theme is capable of. I appreciate your understanding and am sincerely sorry for any inconvenience this might cause.
 
 
 ## Roadmap
 
-Fortunately, Séance has a [public roadmap](https://trello.com/c/QEw6yBCP/18-introducting-seance) that can be accessed to observe both its development and progress.
+Indeed, Séance offers a [publicly accessible roadmap](https://trello.com/c/QEw6yBCP/18-introducting-seance), allowing interested parties to track the theme's ongoing development and progress. This ensures transparency and provides a fascinating insight into the evolution of the project.
 
 
 ## Credits
 
 The thumbnail on this README.md file:
 
-["Person Holding Hand Mirror"](https://www.pexels.com/photo/person-holding-hand-mirror-2183445/) by Lisa Fotios, CCO
+"Mediator" by Alex de Borba, CCO
 
 
 ## Suggestions?
 
-If you would wish to propose any improvements to this repository, please feel free to open an [issues](https://github.com/alexdeborba/seance/issues) or [pull requests](https://github.com/alexdeborba/seance/pulls).
+Should you be inspired to suggest enhancements to this repository, please do not hesitate to open an [issues](https://github.com/alexdeborba/seance/issues) or submit [pull requests](https://github.com/alexdeborba/seance/pulls).
+
+I welcome and greatly appreciate your involvement in refining and expanding this project.
