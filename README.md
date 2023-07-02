@@ -371,7 +371,7 @@ I welcome and greatly appreciate your involvement in refining and expanding this
 
 Séance was created by [Alex de Borba](https://github.com/alexdeborba), a WordPress Developer. 
 
-- My [Personal Site](https://alexdeborba.com/)
-- My [Company Site](https://www.atmostfear-entertainment.com/)
-- My [WordPress Profile](https://profiles.wordpress.org/alexdeborba/)
-- My [Facebook Profile](https://www.facebook.com/alex.de.borba/)
+- [Personal Site](https://alexdeborba.com/)
+- [Company Site](https://www.atmostfear-entertainment.com/)
+- [WordPress Profile](https://profiles.wordpress.org/alexdeborba/)
+- [Facebook Profile](https://www.facebook.com/alex.de.borba/)
