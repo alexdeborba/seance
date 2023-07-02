@@ -239,11 +239,11 @@ But remember, contributing is not just for developers. I wholeheartedly welcome 
 
 
 ## Development
-  
-- Séance aims to load fewer assets as much as possible. With a very minimalistic approach, it relies on the [Block Editor](https://developer.wordpress.org/block-editor/how-to-guides/themes/block-theme-overview/) and [Global Styles](https://developer.wordpress.org/block-editor/how-to-guides/themes/theme-json/) to provide you with the visuals.
-- I strongly advise refraining from building any custom-built PHP or JavaScript-based workarounds for functionality that either Séance or the [Block Editor](https://developer.wordpress.org/block-editor/how-to-guides/themes/block-theme-overview/) might provide. Séance is the first of its kind, minimalistic, lightweight, and aimed at individuals with colour vision deficiency. So please, let us keep its code as simple as possible.
-- According to those last two points, Séance has no necessary build process.
-- If you have [contributed](CONTRIBUTORS.md) to Séance, due credit will be given. I will be updating [CONTRIBUTORS.md](CONTRIBUTORS.md) periodically with the names of contributors; however, feel free to open a [pull request](https://github.com/alexdeborba/seance/pulls) or [issue](https://github.com/alexdeborba/seance/issues) if I somehow omitted someone.
+
+- Séance is designed with a minimalist approach, striving to load as few assets as possible. It leans heavily on the [Block Editor](https://developer.wordpress.org/block-editor/how-to-guides/themes/block-theme-overview/) and [Global Styles](https://developer.wordpress.org/block-editor/how-to-guides/themes/theme-json/) for its visual aesthetics.
+- I strongly discourage constructing any custom PHP or JavaScript-based solutions for features that Séance or the [Block Editor](https://developer.wordpress.org/block-editor/how-to-guides/themes/block-theme-overview/) might already offer. Séance is unique in its minimalist, lightweight design, and it is specifically tailored for individuals with color vision deficiencies. Let us work together to keep its code as uncomplicated as we can.
+- In line with this minimalist ethos, Séance does not require a complex build process.  
+- As a contributor to Séance, your efforts will be recognized. I plan to update the [contributed](CONTRIBUTORS.md) file periodically with the names of all contributors. Still, if you notice someone being inadvertently overlooked, please do not hesitate to open a [pull request](https://github.com/alexdeborba/seance/pulls) or [issue](https://github.com/alexdeborba/seance/issues) to correct it.
 
 
 ## Experimenting
