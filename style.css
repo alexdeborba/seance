@@ -140,7 +140,7 @@ body > .is-root-container > .wp-block-template-part > .wp-block-cover,
 }
 
 /*
- * Improves inline code.
+ * Improve inline code.
  */
 
 *:not(.wp-block-code) > code {
@@ -152,12 +152,36 @@ body > .is-root-container > .wp-block-template-part > .wp-block-cover,
 }
 
 /*
- * Adjusts terms at bottom of single posts.
+ * Adjust terms at bottom of single posts.
  */
 
 .single .wp-block-group .wp-block-post-terms,
 .blog .wp-block-group .wp-block-post-terms {
 	margin-bottom: -8px !important;
+}
+
+/*
+ * Remove margin on term description on archive pages.
+ */
+
+.wp-block-term-description p:last-child {
+	margin-bottom: 0;
+}
+
+/*
+ * Remove last separator on single post list.
+ */
+
+.remove-border-and-padding .wp-block-post-template li:last-child .wp-block-separator {
+	display: none;
+}
+
+/*
+ * Hide single post meta div if no tags assigned.
+ */
+
+.single .wp-block-group:has(> .post-meta:empty) {
+	display: none;
 }
 
 /*
