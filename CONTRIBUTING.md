@@ -1,6 +1,44 @@
 # Contributing
 
-I genuinely appreciate you are considering contributing to Séance, be it for the [Block Editor](https://developer.wordpress.org/block-editor/how-to-guides/themes/block-theme-overview/), [Gutenberg Block Patterns](https://developer.wordpress.org/block-editor/how-to-guides/themes/block-theme-overview/), [Global Styles](https://developer.wordpress.org/block-editor/how-to-guides/themes/theme-json/), [Code](https://github.com/alexdeborba/seance), or Beta Testing. Your contribution is always more than welcome.
+Contributions to open source projects like Séance can significantly improve the project, help others in the community, and even improve your own skills. As with any open source project, there are various ways you can contribute:
+
+
+## Code Contributions
+
+This could involve bug fixes, new features, or other code changes. Be sure to familiarize yourself with the project's codebase and guidelines before starting. And always remember, no contribution is too small. Even minor bug fixes can have a huge impact on the project.
+
+
+## Block Editor and Gutenberg Block Patterns
+
+If you have experience with the WordPress [Block Editor](https://developer.wordpress.org/block-editor/how-to-guides/themes/block-theme-overview/) and [Gutenberg Block Patterns](https://developer.wordpress.org/block-editor/how-to-guides/themes/block-theme-overview/), your contribution could be invaluable. Creating or improving block patterns can help users easily design and build their sites.
+
+
+## Global Styles
+
+Help with defining and improving the [Global Styles](https://developer.wordpress.org/block-editor/how-to-guides/themes/theme-json/) in the theme. This could include everything from colors, typography, and other design elements.
+
+
+## Beta Testing
+
+If you are not comfortable contributing code, beta testing is a great way to contribute. Test new features, try to break things, and report any bugs you find. Your feedback can help improve the project's stability and usability.
+
+
+## Documentation
+
+Documentation is as important as the code itself. You could contribute by writing, updating, or even just proofreading documentation.
+
+
+## Translations
+
+If you are multilingual, consider contributing by translating the theme or its documentation.
+
+
+## Donations
+
+If you cannot contribute in these ways, consider donating to support the project.
+
+
+## Requirements
 
 Nonetheless, I do have some requirements, which are:
 
