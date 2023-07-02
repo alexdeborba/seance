@@ -13,7 +13,6 @@ Welcome to the development repository for Séance.
 - [Working with Block Themes](#working-with-block-themes)
   - [Site Editor](#site-editor)
   - [Patterns](#patterns)
-    -[Creating page designs with patterns](#creating-page-designs-with-patterns)
   - [Global Styles](#global-styles)
   - [Template Parts](#template-parts)
   - [Export Your Site](#export-your-site)
@@ -136,6 +135,15 @@ You can easily utilise Séance's patterns by accessing them through the block in
 The creation of pages that are showcased on the Séance theme is a straightforward process. You just need to insert Séance's full-page patterns onto any page that you wish to design.
 
 To better accommodate the full-page patterns, apply the 'No Page Title' template through the editor sidebar. This template efficiently eliminates the default page title from your page. However, it is crucial to include an H1 tag somewhere in your design to adhere to SEO best practices. This ensures that search engines can effectively identify the main topic of your page and improve its ranking.
+
+
+### Global Styles
+
+Global styles is a powerful feature that allows you to customize the appearance of your entire website via the Site Editor. It provides a centralized location where you can adjust typography, fonts, colors for buttons and links, layout defaults, and many other styling elements.
+
+Behind the scenes, the Global styles feature is empowered by a file called `theme.json` located at the root of the theme's directory. This file serves as a configuration file, allowing the theme to define site-wide and block-specific styles. These definitions become the default styles that are applied across your site and can be customized by the user through the Global styles interface.
+
+By utilizing the `theme.json` file, you can ensure a consistent look and feel across your site, but also allow for customization where needed. The end result is a site that not only looks professionally designed but is also easy for you or your clients to customize to fit specific needs or branding.
 
 
 ### Deploying WordPress Locally
