@@ -231,11 +231,11 @@ Scroll down and click 'Generate password'. You may either utilize this password 
 
 ## Contributing
 
-Before contributing, please read the contributors' [Code of Conduct](https://github.com/alexdeborba/seance/blob/main/CODE_OF_CONDUCT.md) and [Contributing](https://github.com/alexdeborba/seance/blob/main/CONTRIBUTING.md) for information about how to open bug reports, contribute patches, test changes, write documentation, or get involved in any way you can.
+Before you start contributing, it is essential that you familiarize yourself with the [Code of Conduct](https://github.com/alexdeborba/seance/blob/main/CODE_OF_CONDUCT.md) for contributors and the [Contributing](https://github.com/alexdeborba/seance/blob/main/CONTRIBUTING.md) guidelines. These will provide valuable insights about how to submit bug reports, create patches, test modifications, write documentation, and generally get involved in any capacity.
 
-If after reading you still wish to contribute with code, the list of [open issues](https://github.com/alexdeborba/seance/issues) is a superb place to start scrutinising for tasks. However, [pull requests](https://github.com/alexdeborba/seance/pulls) are preferred when linked to an existing issue.
+If, after reading these, you are still eager to contribute code, the list of [open issues](https://github.com/alexdeborba/seance/issues) is an excellent starting point to search for tasks. However, it is always preferable to link your [pull requests](https://github.com/alexdeborba/seance/pulls) to an existing issue.
 
-Be advised that contributing is not just for developers. I welcome anyone willing to contribute with code, [testing](#getting-started), triage, discussion, designing while building patterns and templates, making Séance more accessible, etcetera. So please, feel free to look through [open issues](https://github.com/alexdeborba/seance/issues), and join wherever you feel most comfortable.
+But remember, contributing is not just for developers. I wholeheartedly welcome anyone willing to contribute in any way – be it through code, [testing](#getting-started), triage, discussion, design work for building patterns and templates, making Séance more accessible, and so on. Feel free to browse through the [open issues](https://github.com/alexdeborba/seance/issues) and join in wherever you feel most comfortable.
 
 
 ## Development
