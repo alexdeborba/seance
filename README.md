@@ -248,7 +248,7 @@ But remember, contributing is not just for developers. I wholeheartedly welcome 
 
 ## Experimenting
 
-If you wish to experiment with custom code, I will encourage you to install and use the Séance Child for further custom customisation, or further extend it with Code Snippets.
+Should you desire to explore custom coding, I would recommend installing and using the [Child Theme](https://github.com/alexdeborba/seance-child) for advanced customization. To extend it further, consider utilizing [Code Snippets](https://github.com/alexdeborba/seance-snippets). This allows you to experiment while preserving the integrity of the main Séance theme.
 
 | Repository | Description |
 | --- | --- |
