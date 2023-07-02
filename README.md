@@ -13,6 +13,10 @@ Welcome to the development repository for Séance.
 - [Working with Block Themes](#working-with-block-themes)
   - [Site Editor](#site-editor)
   - [Patterns](#patterns)
+    -[Creating page designs with patterns](#creating-page-designs-with-patterns)
+  - [Global Styles](#global-styles)
+  - [Template Parts](#template-parts)
+  - [Export Your Site](#export-your-site)
 - [Deploying WordPress Locally](#deploying-wordpress-locally)
   - [Development Environment Commands](#development-environment-commands)
   - [How to start the development environment for the first time](#how-to-start-the-development-environment-for-the-first-time)
@@ -125,6 +129,13 @@ To fine-tune your site via the site editor, you simply need to navigate to `Appe
 Patterns are meticulously crafted page components that offer a swift way to design a page section or establish an entire page layout. Rather than crafting a page from the ground up, WordPress users can now rely on these convenient patterns to rapidly design their entire website within the WordPress Site Editor.
 
 You can easily utilise Séance's patterns by accessing them through the block inserter when working on posts, pages, or within the site editor. These patterns serve as versatile design elements that greatly simplify the site building process.
+
+
+#### Creating page designs with patterns
+
+The creation of pages that are showcased on the Séance theme is a straightforward process. You just need to insert Séance's full-page patterns onto any page that you wish to design.
+
+To better accommodate the full-page patterns, apply the 'No Page Title' template through the editor sidebar. This template efficiently eliminates the default page title from your page. However, it is crucial to include an H1 tag somewhere in your design to adhere to SEO best practices. This ensures that search engines can effectively identify the main topic of your page and improve its ranking.
 
 
 ### Deploying WordPress Locally
