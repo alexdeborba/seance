@@ -33,7 +33,8 @@ Welcome to the development repository for Séance.
 - [Roadmap](#roadmap)
 - [License](#license)
 - [Credits](#credits)
-- [Suggestions?](#suggestions)
+- [Feedback](#feedback)
+- [About the Creator](#about-the-creator)
 
 
 ## Introduction
@@ -359,8 +360,18 @@ The thumbnail on this README.md file:
 "Mediator" by Alex de Borba, CCO
 
 
-## Suggestions?
+## Feedback
 
 Should you be inspired to suggest enhancements to this repository, please do not hesitate to open an [issues](https://github.com/alexdeborba/seance/issues) or submit [pull requests](https://github.com/alexdeborba/seance/pulls).
 
 I welcome and greatly appreciate your involvement in refining and expanding this project.
+
+
+## About the Creator
+
+Séance was created by [Alex de Borba](https://github.com/alexdeborba), a WordPress Developer. 
+
+- My [Personal Site](https://alexdeborba.com/)
+- My [Company Site](https://www.atmostfear-entertainment.com/)
+- My [WordPress Profile](https://profiles.wordpress.org/alexdeborba/)
+- My [Facebook Profile](https://www.facebook.com/alex.de.borba/)
