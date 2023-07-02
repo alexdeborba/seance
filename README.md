@@ -146,6 +146,17 @@ Behind the scenes, the Global styles feature is empowered by a file called `them
 By utilizing the `theme.json` file, you can ensure a consistent look and feel across your site, but also allow for customization where needed. The end result is a site that not only looks professionally designed but is also easy for you or your clients to customize to fit specific needs or branding.
 
 
+### Template Parts
+
+Template parts in WordPress represent sections of your site that are reused across multiple pages or templates. They function like reusable blocks but at the template level. This makes them perfect for elements like your site's header, footer, or sidebar, which typically remain consistent across all or most pages of your site.
+
+For example, if you want the same header to appear on every page of your website, you can create a header template part. Any changes you make to this template part will automatically update across every page where the template part is used, allowing you to make site-wide changes more efficiently.
+
+This approach not only streamlines the design process but also helps ensure consistency across your website. Rather than manually updating the same element on every individual page, you can update it once, and the changes will propagate everywhere the template part is used.
+
+In the Full Site Editing (FSE) paradigm, you can create and edit these template parts directly from the WordPress site editor, providing a unified and streamlined site-building experience.
+
+
 ### Deploying WordPress Locally
 
 In case you'd rather install WordPress from scratch, here are the steps:
