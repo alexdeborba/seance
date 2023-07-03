@@ -6,6 +6,9 @@
  * Description: Grid of posts
  * Keywords: footer, grid
  * Block Types: core/footer
+ * 
+ * @package seance
+ * @since 1.0.0
  */
 
 return array(
