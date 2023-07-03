@@ -64,6 +64,3 @@ if ( ! function_exists( 'seance_styles' ) ) :
 endif;
 
 add_action( 'wp_enqueue_scripts', 'seance_styles' );
-
-// Add block patterns.
-require get_template_directory() . '/inc/block-patterns.php';
