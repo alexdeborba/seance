@@ -2,8 +2,8 @@
 /**
  * Title: Text-based grid of posts block pattern
  * Slug: seance/query-text-grid
- * Categories: text, site-footer 
- * Description: Grid of posts
+ * Categories: posts 
+ * Description: Text-based grid of posts block pattern
  * Keywords: text, blog, post
  * Block Types: core/footer
  * 
