@@ -69,6 +69,9 @@ add_action( 'wp_enqueue_scripts', 'seance_styles' );
 function pattern_categories() {
 
 	$block_pattern_categories = array(
+		'post'           => array(
+			'label' => __( 'Post', 'seance' ),
+		),
 		'footer'           => array(
 			'label' => __( 'Footer', 'seance' ),
 		),
