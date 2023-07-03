@@ -75,6 +75,9 @@ function pattern_categories() {
 		'gallery'           => array(
 			'label' => __( 'Gallery', 'seance' ),
 		),
+		'query'           => array(
+			'label' => __( 'Query', 'seance' ),
+		),
 		'footer'           => array(
 			'label' => __( 'Footer', 'seance' ),
 		),
