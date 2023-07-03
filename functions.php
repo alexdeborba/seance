@@ -72,6 +72,9 @@ function pattern_categories() {
 		'post'           => array(
 			'label' => __( 'Post', 'seance' ),
 		),
+		'pages'           => array(
+			'label' => __( 'Pages', 'seance' ),
+		),
 		'gallery'           => array(
 			'label' => __( 'Gallery', 'seance' ),
 		),
