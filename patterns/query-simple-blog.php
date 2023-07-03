@@ -3,7 +3,7 @@
  * Title: Simple blog posts block pattern
  * Slug: seance/query-simple-blog
  * Categories: text, blog 
- * Description: Blog posts
+ * Description: Simple blog posts block pattern
  * Keywords: text, blog, post
  * Block Types: core/post
  * 
