@@ -64,3 +64,19 @@ if ( ! function_exists( 'seance_styles' ) ) :
 endif;
 
 add_action( 'wp_enqueue_scripts', 'seance_styles' );
+
+// Register pattern categories.
+function pattern_categories() {
+
+	$block_pattern_categories = array(
+		'footer'           => array(
+			'label' => __( 'Footer', 'seance' ),
+		),
+		),
+	);
+
+	foreach ( $block_pattern_categories as $name => $properties ) {
+		register_block_pattern_category( $name, $properties );
+	}
+}
+add_action( 'init', __NAMESPACE__ . '\pattern_categories', 9 );
