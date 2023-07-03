@@ -4,7 +4,7 @@
  * Slug: seance/query-text-grid
  * Categories: text, site-footer 
  * Description: Grid of posts
- * Keywords: footer, grid
+ * Keywords: text, blog, post
  * Block Types: core/footer
  * 
  * @package seance
