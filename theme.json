@@ -159,12 +159,12 @@
 		},
 		"spacing": {
 			"units": [
-				"%",
 				"px",
 				"em",
 				"rem",
 				"vh",
-				"vw"
+				"vw",
+				"%"
 			]
 		},
 		"typography": {
