@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: About dark with media on the left, and heading, paragraph, social icons on bottom right
- * Slug: seance/about-dark-media-left-and-text-right-bottom
+ * Slug: seance/about-dark-media-left-text-right-bottom
  * Categories: pages
  * Description: About with media on the left and text on the right bottom dark block pattern
  * Keywords: image, heading, paragraph, social
