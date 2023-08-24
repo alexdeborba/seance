@@ -6,7 +6,7 @@
  * Description: Event dark grid with text on dark block pattern
  * Keywords: text, grid
  * Viewport Width: 1500
- * Block Types: 
+ * Block Types: core/pages
  * Post Types:
  * Inserter: true
  * 
