@@ -3,7 +3,7 @@
  * Title: Event dark session with media on the left, and date, name, location on right sidebar
  * Slug: seance/event-dark-media-text-right-sidebar
  * Categories: text, media, sidebar
- * Description: Event dark session with right sidebar dark block pattern
+ * Description: Event session with right sidebar on dark block pattern
  * Keywords: text, media, sidebar
  * Viewport Width: 1500
  * Block Types: core/pages
@@ -22,7 +22,7 @@
         <!-- wp:column {"width":"70%"} -->
         <div class="wp-block-column" style="flex-basis:70%">
             <!-- wp:heading {"level":1,"align":"wide","style":{"typography":{"fontSize":"clamp(3rem, 6vw, 4.5rem)"},"spacing":{"margin":{"bottom":"0px"}}}} -->
-            <h1 class="wp-block-heading alignwide" style="margin-bottom:0px;font-size:clamp(3rem, 6vw, 4.5rem)"><?php echo wp_kses_post(__('Hydesville Memorial Park<br>1510 Hydesville Road<br>Newark, NY 14513', 'seance')); ?></h1>
+            <h1 class="wp-block-heading alignwide" style="margin-bottom:0px;font-size:clamp(3rem, 6vw, 4.5rem)"><?php echo wp_kses_post(__('<em>Hydesville Hauntings:</em> Fox Sisters\' Paranormal Parley', 'seance')); ?></h1>
             <!-- /wp:heading -->
         </div>
         <!-- /wp:column -->
@@ -84,7 +84,7 @@
             <h3 class="wp-block-heading has-large-font-size"><em><?php esc_html_e('Location', 'seance'); ?></em></h3>
             <!-- /wp:heading -->
             <!-- wp:paragraph -->
-            <p><?php echo wp_kses_post(__('Hydesville Memorial Park<br>1510 Hydesville Road<br> Newark NY 14513', 'seance')); ?></p>
+            <p><?php echo wp_kses_post(__('Hydesville Memorial Park<br>1510 Hydesville Road<br>Newark NY 14513', 'seance')); ?></p>
             <!-- /wp:paragraph -->
             <!-- wp:spacer {"height":"16px"} -->
             <div style="height:16px" aria-hidden="true" class="wp-block-spacer"></div>
