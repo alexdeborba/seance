@@ -59,15 +59,19 @@ https://www.svgrepo.com/svg/75533/brain
 
 Block Pattern Images:
 
-"Meditator" by Alex de Borba, CCO
-https://alexdeborba.com/
+Block Pattern Images:
 
-"Person's Body Covered with Cloth" by Nilay Ramoliya, CC0
-https://www.pexels.com/photo/person-s-body-covered-with-cloth-3111251/
+"Hydesville Hauntings: Fox Sisters’ Paranormal Parley" by Alex de Borba, CCO
+https://www.pexels.com/photo/hydesville-hauntings-fox-sisters-paranormal-parley-18015815/
 
-"Grayscale Photo of a Tree" by David Bartus, CCO
-https://www.pexels.com/photo/grayscale-photo-of-a-tree-450100/
+"The Veiled Fox Sisters" by Alex de Borba, CCO
+https://www.pexels.com/photo/the-veiled-fox-sisters-18102681/
 
-"Abstract Image of a Black and White Ink" by Dan Cristian Pădureț. CCO
-https://www.pexels.com/video/abstract-image-of-a-black-and-white-ink-3051492/
-Included as a short video clip.
+"The Hooded Fox Sisters" by Alex de Borba, CCO
+https://www.pexels.com/photo/the-hooded-fox-sisters-18103016/
+
+"The Widows" by Alex de Borba, CCO
+https://www.pexels.com/photo/the-widows-18103806/
+
+"The Fox Sisters Lament" by Alex de Borba, CCO
+https://www.pexels.com/photo/the-fox-sisters-lament-18105531/
