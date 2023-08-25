@@ -3,7 +3,7 @@
  * Title: Footer dark with posts query loop, featured images, title, date, and excerpt
  * Slug: seance/footer-dark-posts
  * Categories: footer
- * Description: Footer with posts query in a light block pattern
+ * Description: Footer with posts query in a dark block pattern
  * Keywords: footer, posts, images, title, date, excerpt
  * Viewport Width: 1500
  * Block Types: core/template-part/footer
