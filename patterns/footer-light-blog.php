@@ -1,6 +1,6 @@
 <?php
 /**
- * Title: x Footer light with about, latest posts, categories, site title and copyright
+ * Title: Footer light with about, latest posts, categories, site title and copyright
  * Slug: seance/footer-light-blog
  * Categories: footer
  * Description: Blog footer in a light block pattern
