@@ -1,6 +1,6 @@
 <?php
 /**
- * Title: Blog light posts grid with left sidebar
+ * Title: Blog light posts simple grid with left sidebar
  * Slug: seance/blog-light-simple-posts-query-left-sidebar
  * Categories: pages
  * Description: Blog posts grid with left sidebar in a light block pattern
