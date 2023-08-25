@@ -1,6 +1,6 @@
 <?php
 /**
- * Title: X Blog light posts with heading, title, featured image, excerpt, and date with left sidebar 
+ * Title: Blog light posts with heading, title, featured image, excerpt, and date with left sidebar 
  * Slug: seance/blog-light-posts-query-left-sidebar
  * Categories: pages
  * Description: Blog posts with left sidebar in a light block pattern
