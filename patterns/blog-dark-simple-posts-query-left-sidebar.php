@@ -6,7 +6,7 @@
  * Description: Blog posts grid with left sidebar in a dark block pattern
  * Keywords: page, query, blog, posts, sidebar
  * Viewport Width: 1500
- * Block Types: pages
+ * Block Types: core/pages
  * Post Types:
  * Inserter: true
  * 
