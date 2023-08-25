@@ -4,7 +4,6 @@
  * Slug: seance/blog-light-simple-posts-query-right-sidebar
  * Categories: pages
  * Description: Blog posts grid with right sidebar in a light block pattern
- * Description: Light posts grid archive with right sidebar block pattern
  * Keywords: page, query, blog, posts, sidebar
  * Viewport Width: 1500
  * Block Types: pages
