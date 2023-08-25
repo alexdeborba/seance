@@ -57,7 +57,7 @@
         <p class="has-text-align-right">
             <?php
             /* Translators: WordPress link. */
-            $wordpress_link = '<a href="' . esc_url(__('https://wordpress.org', 'twentytwentyfour')) . '" rel="nofollow">WordPress</a>';
+            $wordpress_link = '<a href="' . esc_url(__('https://wordpress.org', 'seance')) . '" rel="nofollow">WordPress</a>';
             echo sprintf(
                 esc_html__('Proudly powered by %1$s', 'seance'),
                 $wordpress_link
