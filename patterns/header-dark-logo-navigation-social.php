@@ -1,6 +1,6 @@
 <?php
 /**
- * Title: X Header dark with site logo, navigation, and social icons
+ * Title: Header dark with site logo, navigation, and social icons
  * Slug: seance/header-dark-logo-navigation-social
  * Categories: header
  * Description: Dark Header with Site Logo, Navigation, and Social Icons
