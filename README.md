@@ -357,7 +357,7 @@ Séance is licensed under the [GPL-2.0 license](https://www.gnu.org/licenses/old
 
 The thumbnail on this README.md file:
 
-"Mediator" by Alex de Borba, CCO
+"-" by Alex de Borba, CCO
 
 
 ## Feedback
