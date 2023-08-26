@@ -62,6 +62,9 @@ Block Pattern Images:
 "Hydesville Hauntings: Fox Sisters’ Paranormal Parley" by Alex de Borba, CCO
 https://www.pexels.com/photo/hydesville-hauntings-fox-sisters-paranormal-parley-18015815/
 
+"The Fox Sisters Farewell by Alex de Borba, CCO
+https://www.pexels.com/photo/the-fox-sisters-farewell-18135419/
+
 "The Fox Sisters Lament" by Alex de Borba, CCO
 https://www.pexels.com/photo/the-fox-sisters-lament-18105531/
 
