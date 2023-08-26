@@ -68,6 +68,9 @@ https://www.pexels.com/photo/the-fox-sisters-farewell-18135419/
 "The Fox Sisters Lament" by Alex de Borba, CCO
 https://www.pexels.com/photo/the-fox-sisters-lament-18105531/
 
+"The Fox Sisters Mercy" by Alex de Borba, CCO
+https://www.pexels.com/photo/the-fox-sisters-mercy-18137992/
+
 "The Hooded Fox Sisters" by Alex de Borba, CCO
 https://www.pexels.com/photo/the-hooded-fox-sisters-18103016/
 
