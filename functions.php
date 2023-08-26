@@ -11,7 +11,6 @@
  * @since   1.0.0
  */
 
-
 if ( ! function_exists( 'seance_support' ) ) :
 
 	/**
@@ -23,11 +22,14 @@ if ( ! function_exists( 'seance_support' ) ) :
 	 */
 	function seance_support() {
 
-		// Adds support for Block styles.
+		// Adds support for block styles.
 		add_theme_support( 'wp-block-styles' );
 
-		// Enqueue Block Editor styles.
+		// Enqueue block editor styles.
 		add_editor_style( 'style.css' );
+
+		// Remove support for WordPress default block patterns.
+		remove_theme_support( 'core-block-patterns' );
 
 	}
 
@@ -69,21 +71,20 @@ add_action( 'wp_enqueue_scripts', 'seance_styles' );
 function pattern_categories() {
 
 	$block_pattern_categories = array(
-		'post'           => array(
+		'post'    => array(
 			'label' => __( 'Post', 'seance' ),
 		),
-		'pages'           => array(
+		'pages'   => array(
 			'label' => __( 'Pages', 'seance' ),
 		),
-		'gallery'           => array(
+		'gallery' => array(
 			'label' => __( 'Gallery', 'seance' ),
 		),
-		'query'           => array(
+		'query'   => array(
 			'label' => __( 'Query', 'seance' ),
 		),
-		'footer'           => array(
+		'footer'  => array(
 			'label' => __( 'Footer', 'seance' ),
-		),
 		),
 	);
 
@@ -92,3 +93,9 @@ function pattern_categories() {
 	}
 }
 add_action( 'init', __NAMESPACE__ . '\pattern_categories', 9 );
+
+// Prevent loading patterns from the WordPress.org pattern directory.
+function seance_prevent_remote_patterns() {
+	return false;
+}
+add_filter( 'should_load_remote_block_patterns', 'seance_prevent_remote_patterns' );
