@@ -71,6 +71,9 @@ https://www.pexels.com/photo/the-fox-sisters-lament-18105531/
 "The Fox Sisters Mercy" by Alex de Borba, CCO
 https://www.pexels.com/photo/the-fox-sisters-mercy-18137992/
 
+"The Fox Sisters Rebirth" by Alex de Borba, CCO
+https://www.pexels.com/photo/the-fox-sister-rebirth-18138137/
+
 "The Hooded Fox Sisters" by Alex de Borba, CCO
 https://www.pexels.com/photo/the-hooded-fox-sisters-18103016/
 
