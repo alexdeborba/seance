@@ -1,7 +1,7 @@
 === Séance ===
 Contributors: alexdeborba
 Requires at least: 5.9
-Tested up to: 6.2
+Tested up to: 6.3
 Requires PHP: 5.6
 Stable tag: 1.0.0-alpha.1
 License: GPLv2 or later
@@ -28,7 +28,7 @@ https://github.com/alexdeborba/seance/blob/main/CHANGELOG.md#100---2022-02-24
 
 == Copyright ==
 
-Séance WordPress Theme, 2022-2023 Alex de Borba.
+Séance, 2022-2023 Alex de Borba.
 Séance is distributed under the terms of the GNU GPL.
 
 This program is free software: you can redistribute it and/or modify
@@ -59,19 +59,23 @@ https://www.svgrepo.com/svg/75533/brain
 
 Block Pattern Images:
 
-Block Pattern Images:
-
 "Hydesville Hauntings: Fox Sisters’ Paranormal Parley" by Alex de Borba, CCO
 https://www.pexels.com/photo/hydesville-hauntings-fox-sisters-paranormal-parley-18015815/
 
-"The Veiled Fox Sisters" by Alex de Borba, CCO
-https://www.pexels.com/photo/the-veiled-fox-sisters-18102681/
+"The Fox Sisters Lament" by Alex de Borba, CCO
+https://www.pexels.com/photo/the-fox-sisters-lament-18105531/
 
 "The Hooded Fox Sisters" by Alex de Borba, CCO
 https://www.pexels.com/photo/the-hooded-fox-sisters-18103016/
 
+"The Veiled Fox Sisters" by Alex de Borba, CCO
+https://www.pexels.com/photo/the-veiled-fox-sisters-18102681/
+
 "The Widows" by Alex de Borba, CCO
 https://www.pexels.com/photo/the-widows-18103806/
 
-"The Fox Sisters Lament" by Alex de Borba, CCO
-https://www.pexels.com/photo/the-fox-sisters-lament-18105531/
+"The Fox Sisters" by by Alex de Borba, CCO
+https://www.pexels.com/video/-/
+Included as a short video clip.
+
+Modified versions of the above images, as well as additional illustrations were created specifically for Séance. CC0.
