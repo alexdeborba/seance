@@ -1,8 +1,8 @@
-# Séance — A WordPress Block Theme
+# Séance
 
 Welcome to the development repository for Séance.
 
-![Séance](https://github.com/alexdeborba/seance/assets/5738223/9b6491e2-ea09-4e5f-bdb5-8831af16a16b)
+![Séance](https://raw.githubusercontent.com/alexdeborba/seance/main/screenshot.png)
 
 ## Table of Contents
 
