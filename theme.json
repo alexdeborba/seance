@@ -355,8 +355,8 @@
 			"area": "header"
 		},
 		{
-			"name": "header-large-dark",
-			"title": "Header (Dark, large)",
+			"name": "header-dark-hero",
+			"title": "Header Dark Hero",
 			"area": "header"
 		},
 		{
