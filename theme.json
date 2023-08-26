@@ -116,12 +116,12 @@
 				},
 				{
 					"slug": "background",
-					"color": "#fafafa",
+					"color": "#f9f9f9",
 					"name": "Background"
 				},
 				{
 					"slug": "primary",
-					"color": "#f9f9f9",
+					"color": "#fafafa",
 					"name": "Primary"
 				},
 				{
@@ -159,12 +159,12 @@
 		},
 		"spacing": {
 			"units": [
+				"%",
 				"px",
 				"em",
 				"rem",
 				"vh",
-				"vw",
-				"%"
+				"vw"
 			]
 		},
 		"typography": {
@@ -217,8 +217,8 @@
 			]
 		},
 		"layout": {
-			"contentSize": "650px",
-			"wideSize": "1000px"
+			"contentSize": "740px",
+			"wideSize": "1270px"
 		}
 	},
 	"styles": {
