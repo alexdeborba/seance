@@ -371,3 +371,9 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+patterns/.dev_patterns/dark-header-logo-centered.php
+patterns/.dev_patterns/default-blog-posts-archive.php
+patterns/.dev_patterns/footer-default.php
+patterns/.dev_patterns/form-light-subscribe.php
+patterns/.dev_patterns/header-light-image.php
+patterns/.dev_patterns/pricing-light-table.php
