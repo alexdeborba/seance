@@ -147,7 +147,7 @@
 			]
 		},
 		"typography": {
-			"dropCap": false,
+			"dropCap": true,
 			"fontFamilies": [
 				{
 					"fontFamily": "-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,Oxygen-Sans,Ubuntu,Cantarell,\"Helvetica Neue\",sans-serif",
@@ -197,7 +197,7 @@
 		},
 		"layout": {
 			"contentSize": "740px",
-			"wideSize": "1270px"
+			"wideSize": "1260px"
 		}
 	},
 	"styles": {
