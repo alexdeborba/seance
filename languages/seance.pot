@@ -1,0 +1,482 @@
+# Copyright (C) 2023 Alex de Borba
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Séance 1.0.0-alpha.1\n"
+"Report-Msgid-Bugs-To: https://github.com/alexdeborba/seance/issues\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-08-18T04:30:31+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: seance\n"
+
+#. Theme Name of the theme
+msgid "Séance"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://github.com/alexdeborba/seance/"
+msgstr ""
+
+#. Description of the theme
+msgid "Séance was designed to provide a uniform, single-color foundation enhanced with hints of two-tone and three-tone color schemes. This design choice caters to individuals with color vision deficiency, covering both darker and lighter color palettes, all while maintaining a gothic aesthetic that appeals to passionate and aspiring writers due to its clarity and minimalist design. Impressively lightweight yet bold, Séance incorporates color palettes focused on accessibility and comes fully equipped with numerous meticulously designed Gutenberg Block Patterns. These elements subtly impart a minimalist visual strength to the content, similar to quickly leafing through a book with delicate fingertips, leisurely absorbing the written words. Fully customizable, Séance supports the Full Site Editing features launched with WordPress 5.9 and, in its unique way, offers a fresh writing and visual experience."
+msgstr ""
+
+#. Author of the theme
+msgid "Alex de Borba"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://alexdeborba.com/"
+msgstr ""
+
+#: patterns/about-dark-media-left-and-text-right-bottom.php:30
+#: patterns/about-dark-media-left-and-text-right-centered.php:31
+#: patterns/about-dark-media-right-and-text-left-bottom.php:29
+#: patterns/about-dark-media-right-and-text-left-centered.php:
+#: patterns/about-dark-text-social-left-centered.php:25
+msgid "The Fox<br>Sisters"
+msgstr ""
+
+#: patterns/about-dark-media-left-and-text-right-bottom.php:33
+#: patterns/about-dark-media-left-and-text-right-centered.php:34
+#: patterns/about-dark-media-right-and-text-left-bottom.php:32
+#: patterns/about-dark-media-right-and-text-left-centered.php:33
+#: patterns/about-dark-text-social-left-centered.php:28
+#: patterns/about-light-text-left-media-right-buttons.php:38
+msgid "We are Margaret, Catherine, and Leah Fox, renowned spiritual mediums from a bygone era, now embracing the digital age. With our unique abilities, we have connected countless souls with the messages of the spirit world."
+msgstr ""
+
+#: patterns/about-dark-media-left-and-text-right-bottom.php:22
+#: patterns/about-dark-media-left-and-text-right-centered.php:23
+#: patterns/about-dark-media-right-and-text-left-bottom.php:54
+#: patterns/about-dark-media-right-and-text-left-centered.php:22
+#: patterns/event-dark-media-text-right-sidebar.php:39
+#: patterns/about-light-text-left-media-right-buttons.php:35
+#: patterns/media-duotone-right-text-buttons-left-columns.php:52
+#: patterns/media-miduotone-right-text-buttons-left-columns.php:57
+#: patterns/media-duotone-left-text-buttons-right-columns.php:25
+#: patterns/media-miduotone-left-text-buttons-right-columns.php:25
+#: patterns/header-dark-hero.php:20
+msgid "The Fox Sisters"
+msgstr ""
+
+#: patterns/about-dark-text-social-middle:29
+msgid "Margaret<br>Fox"
+msgstr ""
+
+#: patterns/about-dark-text-social-middle:35
+msgid "I am Margaret Fox, one of the pioneering sisters from the dawn of spiritualism. With my unique gift, I bridged the gap between the living and the departed, revealing mysteries from the other side."
+msgstr ""
+
+#: patterns/about-gray-text-social-middle.php:28
+msgid "Leah<br>Fox"
+msgstr ""
+
+#: patterns/about-gray-text-social-middle.php:34
+msgid "I am Leah Fox, the eldest of the Fox sisters, and a cornerstone in the foundation of modern spiritualism. With wisdom and experience, I have championed our family\'s unique connection to the unseen world."
+msgstr ""
+
+#: patterns/about-light-text-social-middle.php:28
+msgid "Catherine<br>Fox"
+msgstr ""
+
+#: patterns/about-light-text-social-middle.php:34
+msgid "I am Catherine Fox, the younger of the Fox siblings, and together with my sister Margaret, we ignited the spiritualist movement. With our shared gift, we unveiled the voices of the spirit realm to a world eager to listen."
+msgstr ""
+
+#: patterns/about-light-text-two-columns.php:21
+msgid "<em>Life</em><br><em>&amp; Death</em>"
+msgstr ""
+
+#: patterns/about-light-text-two-columns.php:53
+msgid "We are the Fox sisters, Margaret, Catherine, and Leah.<br><br>We have been blessed with the ability to communicate with the spirits, and through us, many have found answers and solace from the other side.<br><br>We first discovered our gift in our home in <a href="#">Hydesville</a>, <a href="#">New York</a>, where we communicated with a spirit through mysterious rappings.<br><br>Our experiences have not only transformed our lives but have also ignited a movement, bringing hope and understanding to many about the mysteries of the afterlife.<br><br>As pioneers in the Spiritualist movement, we have traveled extensively, sharing our abilities and stories with those eager to connect with the world beyond.<br><br>Our journey has been both enlightening and challenging, as we have encountered both believers and skeptics. Yet, our mission remains steadfast: to bridge the gap between the living and the departed, offering a glimpse into the eternal.<br><br>May the spirits guide and protect you until we meet again.<br><br>Farewell."
+msgstr ""
+
+#: patterns/event-light-media-text-buttons-light-two-columns.php:25
+msgid "The Veiled Fox Sisters"
+msgstr ""
+
+#: patterns/event-light-media-text-buttons-light-two-columns.php:31
+msgid "Spiritual Summit"
+msgstr ""
+
+#: patterns/event-light-media-text-buttons-light-two-columns.php:34
+msgid "March 31, 1848 @ 7:00PM<br>Hydesville Memorial Park<br>1510 Hydesville Road, Newark<br>NY 14513"
+msgstr ""
+
+#: patterns/event-light-media-text-buttons-light-two-columns.php:45
+#: patterns/event-light-media-text-buttons-light-two-columns.php:74
+#: patterns/event-light-media-text-buttons-columns.php:43
+msgid "Buy Tickets"
+msgstr ""
+
+#: patterns/gallery-light-media-text-buttons-light-two-columns.php:54
+msgid "The Hooded Fox Sisters"
+msgstr ""
+
+#: patterns/event-light-media-text-buttons-light-two-columns.php:60
+msgid "Ethereal Echoes"
+msgstr ""
+
+#: patterns/event-light-media-text-buttons-light-two-columns:63
+msgid "November 14, 1888 @ 7:00PM<br>Cypress Hills Cemetery<br>833 Jamaica Avenue<br>Brooklyn, NY 11208"
+msgstr ""
+
+#: patterns/event-light-media-text-buttons-columns.php:21
+msgid "The Unknown Widows"
+msgstr ""
+
+#: patterns/event-light-media-text-buttons-columns.php:28
+#: patterns/about-light-text-left-media-right-buttons.php:25
+msgid "Welcome to<br>the <em>Unknown</em>"
+msgstr ""
+
+#: patterns/event-light-media-text-buttons-columns.php:35
+msgid "From the pioneers of Spiritualism, now in the digital realm, experience a séance like no other. Secure your spot for this exclusive online event and connect with the beyond. Tickets are limited.<br><br>Do not miss your chance to bridge the worlds."
+msgstr ""
+
+#: patterns/event-light-media-text-buttons-columns.php:43
+#: patterns/about-light-text-left-media-right-buttons.php:46
+#: patterns/media-duotone-right-text-buttons-left-columns.php:40
+#: patterns/media-miduotone-right-text-buttons-left-columns.php:40
+#: patterns/media-duotone-left-text-buttons-right-columns.php:47
+#: patterns/media-miduotone-left-text-buttons-right-columns.php:47
+msgid "Learn More"
+msgstr ""
+
+#: patterns/event-dark-text-grid-columns.php:23
+msgid "Séance Sessions"
+msgstr ""
+
+#: patterns/event-dark-text-grid-columns.php:36
+msgid "March 31, 1848, 8 - 9 pm"
+msgstr ""
+
+#: patterns/event-dark-text-grid-columns.php:43
+msgid "Margaret Fox"
+msgstr ""
+
+#: patterns/event-dark-text-grid-columns.php:50
+#: patterns/event-dark-text-grid-columns.php:78
+#: patterns/event-dark-text-grid-columns.php:106
+#: patterns/event-dark-media-text-right-sidebar:25
+#: patterns/event-dark-media-text-right-sidebar.php:87
+#: patterns/event-light-media-text-right-sidebar.php:88
+msgid "Hydesville Memorial Park<br>1510 Hydesville Road<br>Newark, NY 14513"
+msgstr ""
+
+#: patterns/event-dark-text-grid-columns.php:64
+msgid "March 24, 1848, 8 - 9 pm"
+msgstr ""
+
+#: patterns/event-dark-text-grid-columns.php:71
+msgid "Catherine Fox"
+msgstr ""
+
+#: patterns/event-dark-text-grid-columns.php:92
+msgid "March 17, 1848, 8 - 9 pm"
+msgstr ""
+
+#: patterns/event-dark-text-grid-columns.php:99
+msgid "Leah Fox"
+msgstr ""
+
+#: patterns/event-dark-media-text-right-sidebar.php:25
+#: patterns/event-light-media-text-right-sidebar.php:25
+msgid "<em>Hydesville Hauntings:</em> Fox Sisters\' Paranormal Parley"
+msgstr ""
+
+#: patterns/event-dark-media-text-right-sidebar.php:48
+#: patterns/event-light-media-text-right-sidebar.php:49
+msgid "Event"
+msgstr ""
+
+#: patterns/event-dark-media-text-right-sidebar.php:51
+#: patterns/event-light-media-text-right-sidebar.php:52
+msgid "Private Séance Session"
+msgstr ""
+
+#: patterns/event-dark-media-text-right-sidebar.php:60
+#: patterns/event-light-media-text-right-sidebar.php:61
+msgid "Hosts"
+msgstr ""
+
+#: patterns/event-dark-media-text-right-sidebar.php:63
+#: patterns/event-light-media-text-right-sidebar.php:64
+msgid "Margaret, Catherine, and Leah Fox"
+msgstr ""
+
+#: patterns/event-dark-media-text-right-sidebar.php:72
+#: patterns/event-light-media-text-right-sidebar.php:73
+msgid "Date"
+msgstr ""
+
+#: patterns/event-dark-media-text-right-sidebar.php:75
+#: patterns/event-light-media-text-right-sidebar.php:76
+msgid "March 31, 1848"
+msgstr ""
+
+#: patterns/event-dark-media-text-right-sidebar.php:84
+#: patterns/event-light-media-text-right-sidebar.php:85
+msgid "Location"
+msgstr ""
+
+#: patterns/event-dark-media-text-right-sidebar.php:23
+msgid "<em>\'Séance,\'</em> a film exploring the<br>enigmatic world of spirits."
+msgstr ""
+
+#: patterns/event-dark-media-text-right-sidebar.php:39
+msgid "Featuring"
+msgstr ""
+
+#: patterns/event-dark-media-text-right-sidebar.php:46
+msgid "Margaret Fox<br>Catherine Fox<br>Leah Fox<br>Eusapia Palladino<br>Sir Arthur Conan Doyle"
+msgstr ""
+
+#: patterns/event-dark-media-text-right-sidebar.php:53
+msgid "Daniel Dunglas Home<br>Florence Cook<br>William Stainton Moses<br>Helena Blavatsky<br>Leonora Piper"
+msgstr ""
+
+#: patterns/event-dark-media-text-right-sidebar.php:25
+msgid "Extended Trailer"
+msgstr ""
+
+#: patterns/event-dark-media-text-right-sidebar.php:28
+#: patterns/posts-dark-latest-query-grid.php:29
+msgid "Join us, the Fox sisters, in \'Séance,\' a cinematic journey into the ethereal realm. As pioneers of spiritual communication, we invite you to delve deep into the mysteries of the beyond, unveiling whispers and wonders from a world unseen."
+msgstr ""
+
+#: patterns/posts-light-featured-image.php:20
+#: patterns/footer-light-about.php:36
+#: patterns/posts-dark-latest-query-grid:26
+msgid "Latest Posts"
+msgstr ""
+
+#: patterns/blog-dark-posts-query-left-sidebar.php:35
+#: patterns/blog-dark-posts-query-right-sidebar.php:61
+#: patterns/blog-light-posts-query-left-sidebar.php:28
+#: patterns/blog-light-posts-query-right-sidebar.php:59
+#: patterns/blog-light-posts-query-left-sidebar.php:25
+#: patterns/blog-light-simple-posts-query-right-sidebar.php:49
+#: patterns/blog-dark-simple-posts-query-left-sidebar.php:25
+#: patterns/blog-dark-simple-posts-query-right-sidebar.php:49
+#: patterns/footer-light-about.php:44
+msgid "Categories"
+msgstr ""
+
+#: patterns/blog-dark-posts-query-left-sidebar.php:48
+#: patterns/blog-dark-posts-query-right-sidebar.php:74
+#: patterns/blog-light-posts-query-left-sidebar.php:41
+#: patterns/blog-light-posts-query-right-sidebar.php:72
+#: patterns/blog-light-posts-query-left-sidebar.php:38
+#: patterns/blog-light-simple-posts-query-right-sidebar.php:62
+#: patterns/blog-dark-simple-posts-query-left-sidebar.php:38
+#: patterns/blog-dark-simple-posts-query-right-sidebar.php:62
+msgid "Pages"
+msgstr ""
+
+#: patterns/blog-dark-posts-query-left-sidebar.php:64
+#: patterns/blog-dark-posts-query-right-sidebar.php:89
+#: patterns/blog-light-posts-query-left-sidebar.php:56
+#: patterns/blog-light-posts-query-right-sidebar.php:87
+#: patterns/blog-light-posts-query-left-sidebar.php:53
+#: patterns/blog-light-simple-posts-query-right-sidebar.php:77
+#: patterns/blog-dark-simple-posts-query-left-sidebar.php:53
+#: patterns/blog-dark-simple-posts-query-right-sidebar.php:77
+msgid "Tags"
+msgstr ""
+
+#: patterns/footer-light-about.php:25
+#: patterns/about-light-text-left-media-right-buttons.php:49
+#: patterns/media-miduotone-right-text-buttons-left-columns.php:43
+#: patterns/media-duotone-left-text-buttons-right-columns.php:50
+#: patterns/media-miduotone-left-text-buttons-right-columns.php:50
+msgid "About Us"
+msgstr ""
+
+#: patterns/footer-light-about.php:28
+msgid "We are the Fox sisters, Margaret, Catherine, and Leah. Hailing from Hydesville, New York, our lives took a mystifying turn in 1848 when we discovered our unique connection to the spirit realm."
+msgstr 
+
+#: patterns/header-dark-solid.php:36
+#: patterns/header-dark-hero.php:35
+msgid "<em>Séance</em>: A Theme Born Out of Love and Death…"
+msgstr ""
+
+#: patterns/gallery-duotone-text-buttons-two-columns.php:39
+msgid "<em>Séance</em>, a Full Site Editing Theme"
+msgstr ""
+
+#: patterns/gallery-duotone-text-buttons-two-columns.php:42
+msgid "Introducing our WordPress FSE theme, <em>Séance</em>, a portal that intertwines the elegance of bygone eras with modern design.<br><br>Crafted with ethereal aesthetics and intuitive functionalities, let your website be the medium that bridges the past with the present, and the seen with the unseen."
+msgstr ""
+
+#: patterns/gallery-duotone-text-buttons-two-columns.php:49
+msgid "Browse"
+msgstr ""
+
+#: patterns/gallery-duotone-text-buttons-two-columns.php:52
+msgid "Download"
+msgstr ""
+
+#: patterns/media-duotone-right-text-buttons-left-columns.php:25
+#: patterns/media-miduotone-right-text-buttons-left-columns.php:29
+#: patterns/media-duotone-left-text-buttons-right-columns.php:36
+#: patterns/media-miduotone-left-text-buttons-right-columns.php:36
+msgid "Pioneers of Modern <em>Spiritualism</em>"
+msgstr ""
+
+#: patterns/media-duotone-right-text-buttons-left-columns.php:32
+#: patterns/media-miduotone-right-text-buttons-left-columns.php:32
+#: patterns/media-duotone-left-text-buttons-right-columns.php:39
+#: patterns/media-miduotone-left-text-buttons-right-columns.php:39
+msgid "In the quaint village of Hydesville, New York, in the late 1840s, we, Margaret, Catherine and Leah Fox, ignited a movement that would reverberate through the annals of history.<br><br>Our mysterious communications with the spirit realm through a series of rappings captured the imagination of a nation, leading to the birth of Modern Spiritualism."
+msgstr ""
+
+#: patterns/header-large-dark.php:35
+msgid "<em>Séance</em>: A Theme Born Out of Love and Death…"
+msgstr ""
+
+#. Translators: WordPress link.
+#: 
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: 
+msgid "https://wordpress.org"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System Font"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Source Serif Pro"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical secondary to tertiary"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical secondary to background"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical tertiary to background"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal primary to foreground"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal secondary to background"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal background to secondary"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal tertiary to background"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal background to tertiary"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Foreground and background"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Foreground and secondary"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Foreground and tertiary"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Primary and background"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Primary and secondary"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Primary and tertiary"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header Dark Hero"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header (Dark, small)"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr ""
