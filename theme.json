@@ -13,6 +13,7 @@
 	"settings": {
 		"appearanceTools": true,
 		"color": {
+			"defaultPalette": false,
 			"duotone": [
 				{
 					"colors": [ "#0f0f10", "#f9f9f9" ],
@@ -348,8 +349,8 @@
 			"area": "header"
 		},
 		{
-			"name": "header-small-dark",
-			"title": "Header (Dark, small)",
+			"name": "header-dark-solid",
+			"title": "Header Dark Solid",
 			"area": "header"
 		},
 		{
