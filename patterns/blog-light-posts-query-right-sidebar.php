@@ -3,7 +3,7 @@
  * Title: Blog light posts with heading, title, featured image, excerpt, and date with right sidebar 
  * Slug: seance/blog-light-posts-query-right-sidebar
  * Categories: pages
- * Description: Blog posts with right sidebar in a light block pattern
+ * Description: Blog posts with right sidebar on a light block pattern
  * Keywords: page, query, blog, posts, sidebar
  * Viewport Width: 1500
  * Block Types: core/pages
