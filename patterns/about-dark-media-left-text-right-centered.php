@@ -4,7 +4,7 @@
  * Title: About dark with media on the left, and heading, paragraph, social icons on centered right
  * Slug: seance/about-dark-media-left-text-right-centered
  * Categories: pages
- * Description: About with media on the left and text on the right centered dark block pattern
+ * Description: About with media on the left and text on the right centered on a dark block pattern
  * Keywords: image, heading, paragraph, social
  * Viewport Width: 1500
  * Block Types: core/pages
