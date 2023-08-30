@@ -3,7 +3,7 @@
  * Title: Footer Light with site logo, and copyright
  * Slug: seance/footer-light-logo
  * Categories: footer
- * Description: Footer with logo and copyright in a light block pattern
+ * Description: Footer with logo and copyright on a light block pattern
  * Keywords: footer
  * Viewport Width: 1500
  * Block Types: core/template-part/footer
@@ -18,7 +18,8 @@
 <!-- wp:group {"align":"full","layout":{"inherit":true}} -->
 <div class="wp-block-group alignfull">
     <!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"4rem","bottom":"4rem"}}},"layout":{"type":"flex","justifyContent":"space-between"}} -->
-    <div class="wp-block-group alignwide" style="padding-top:4rem;padding-bottom:4rem"><!-- wp:site-logo {"width":60} /-->
+    <div class="wp-block-group alignwide" style="padding-top:4rem;padding-bottom:4rem">
+        <!-- wp:site-logo {"width":60} /-->
         <!-- wp:paragraph {"align":"right"} -->
         <p class="has-text-align-right">
             <?php
