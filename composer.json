@@ -1,6 +1,6 @@
 {
-	"name": "seancewp/seance",
-	"description": "A WordPress Block Theme",
+	"name": "seance/seance",
+	"description": "A Full Site Editing Theme",
 	"type": "wordpress-theme",
 	"license": "GPL-2.0-or-later",
 	"authors": [
