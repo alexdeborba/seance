@@ -3,7 +3,7 @@
  * Title: Event light media with heading, paragraphs, buttons on two columns
  * Slug: seance/event-light-media-text-buttons-light-two-columns
  * Categories: featured, columns, gallery, image, buttons
- * Description: Event with two images, text and buttons in a light block pattern
+ * Description: Event with two images, text and buttons on a light block pattern
  * Keywords: image, heading, paragraph, columns
  * Viewport Width: 1500
  * Block Types: 
@@ -22,7 +22,7 @@
         <!-- wp:column {"style":{"spacing":{"padding":{"top":"8rem","right":"0rem","bottom":"8rem","left":"0rem"}}}} -->
         <div class="wp-block-column" style="padding-top:8rem;padding-right:0rem;padding-bottom:8rem;padding-left:0rem">
             <!-- wp:image {"sizeSlug":"large"} -->
-            <figure class="wp-block-image size-large"><img src="<?php echo esc_url(get_theme_file_uri("/assets/images/poster-light-left.jpg")); ?>" alt="<?php echo esc_html_e('The Veiled Fox Sisters', 'seance'); ?>" /></figure>
+            <figure class="wp-block-image size-large"><img src="<?php echo esc_url(get_theme_file_uri("/assets/images/poster-light-left.jpg")); ?>" alt="<?php echo esc_html_e('The Fox Sisters', 'seance'); ?>" /></figure>
             <!-- /wp:image -->
             <!-- wp:spacer {"height":30} -->
             <div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
@@ -51,7 +51,7 @@
         <!-- wp:column {"style":{"spacing":{"padding":{"top":"8rem","right":"0rem","bottom":"8rem","left":"0rem"}}}} -->
         <div class="wp-block-column" style="padding-top:8rem;padding-right:0rem;padding-bottom:8rem;padding-left:0rem">
             <!-- wp:image {"sizeSlug":"large"} -->
-            <figure class="wp-block-image size-large"><img src="<?php echo esc_url(get_theme_file_uri("/assets/images/poster-light-right.jpg")); ?>"" alt=" <?php echo esc_html_e('The Hooded Fox Sisters', 'seance'); ?>" /></figure>
+            <figure class="wp-block-image size-large"><img src="<?php echo esc_url(get_theme_file_uri("/assets/images/poster-light-right.jpg")); ?>"" alt=" <?php echo esc_html_e('The Fox Sisters', 'seance'); ?>" /></figure>
             <!-- /wp:image -->
             <!-- wp:spacer {"height":30} -->
             <div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
