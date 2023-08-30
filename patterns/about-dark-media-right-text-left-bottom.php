@@ -3,7 +3,7 @@
  * Title: About dark with media on the right, and heading, paragraph, social icons on bottom left
  * Slug: seance/about-dark-media-right-text-left-bottom
  * Categories: pages
- * Description: About with media on the right and text on the bottom left dark block pattern
+ * Description: About with media on the right and text on the bottom left on a dark block pattern
  * Keywords: image, heading, paragraph, social
  * Viewport Width: 1500
  * Block Types: core/pages
