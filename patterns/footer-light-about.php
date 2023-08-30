@@ -3,7 +3,7 @@
  * Title: Footer light with site title, site logo, heading and paragraph
  * Slug: seance/footer-light-about
  * Categories: footer
- * Description: Footer with about paragraph in a light block pattern
+ * Description: Footer with about paragraph on a light block pattern
  * Keywords: footer
  * Viewport Width: 1500
  * Block Types: core/template-part/footer
