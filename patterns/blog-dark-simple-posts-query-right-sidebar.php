@@ -3,7 +3,7 @@
  * Title: Blog dark posts simple grid with right sidebar
  * Slug: seance/blog-dark-simple-posts-query-right-sidebar
  * Categories: pages
- * Description: Blog posts grid with right sidebar in a dark block pattern
+ * Description: Blog posts grid with right sidebar on a dark block pattern
  * Keywords: page, query, blog, posts, sidebar
  * Viewport Width: 1500
  * Block Types: core/pages
