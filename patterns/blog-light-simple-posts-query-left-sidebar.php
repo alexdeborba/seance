@@ -3,7 +3,7 @@
  * Title: Blog light posts simple grid with left sidebar
  * Slug: seance/blog-light-simple-posts-query-left-sidebar
  * Categories: pages
- * Description: Blog posts grid with left sidebar in a light block pattern
+ * Description: Blog posts grid with left sidebar on a light block pattern
  * Keywords: page, query, blog, posts, sidebar
  * Viewport Width: 1500
  * Block Types: pages
