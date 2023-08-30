@@ -21,15 +21,15 @@
     <div class="wp-block-columns" style="margin-top:0;margin-bottom:0;padding-right:0;padding-left:0">
         <!-- wp:column {"verticalAlignment":"center","width":"33.33%","layout":{"type":"default"}} -->
         <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:33.33%">
-            <!-- wp:image {"id":1797,"scale":"cover","sizeSlug":"large","linkDestination":"none","style":{"border":{"radius":{"topRight":null,"bottomLeft":null,"bottomRight":null}}}} -->
-            <figure class="wp-block-image size-large"><img src="<?php echo esc_url(get_theme_file_uri("/assets/images/gallery-dark-left.jpg")); ?>" alt="The Fox Sisters" class="wp-image-1797" style="object-fit:cover" /></figure>
+            <!-- wp:image {"scale":"cover","sizeSlug":"large","linkDestination":"none","style":{"border":{"radius":{"topRight":null,"bottomLeft":null,"bottomRight":null}}}} -->
+            <figure class="wp-block-image size-large"><img src="<?php echo esc_url(get_theme_file_uri("/assets/images/gallery-dark-left.jpg")); ?>" alt="The Fox Sisters" style="object-fit:cover" /></figure>
             <!-- /wp:image -->
         </div>
         <!-- /wp:column -->
         <!-- wp:column {"width":"66.66%","layout":{"type":"default"}} -->
         <div class="wp-block-column" style="flex-basis:66.66%">
-            <!-- wp:image {"id":1747,"sizeSlug":"large","linkDestination":"none","style":{"border":{"radius":{"topLeft":null,"bottomLeft":null,"bottomRight":null}}}} -->
-            <figure class="wp-block-image size-large"><img src="<?php echo esc_url(get_theme_file_uri("/assets/images/gallery-dark-top.jpg")); ?>" alt="The Fox Sisters" class="wp-image-1747" /></figure>
+            <!-- wp:image {"sizeSlug":"large","linkDestination":"none","style":{"border":{"radius":{"topLeft":null,"bottomLeft":null,"bottomRight":null}}}} -->
+            <figure class="wp-block-image size-large"><img src="<?php echo esc_url(get_theme_file_uri("/assets/images/gallery-dark-top.jpg")); ?>" alt="The Fox Sisters" /></figure>
             <!-- /wp:image -->
             <!-- wp:columns {"style":{"spacing":{"blockGap":{"top":"0px","left":"0px"}}}} -->
             <div class="wp-block-columns">
