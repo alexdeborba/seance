@@ -24,8 +24,6 @@ Fully customizable, Séance supports the Full Site Editing features launched wit
 = 1.0.0 =
 * Initial commit
 
-https://github.com/alexdeborba/seance/blob/main/CHANGELOG.md#100---2022-02-24
-
 == Copyright ==
 
 Séance, 2022-2023 Alex de Borba.
@@ -46,16 +44,9 @@ This theme bundles the following third-party resources:
 Typography:
 
 Source Serif Font
-Copyright 2014-2021 Adobe (http://www.adobe.com/)
+Copyright 2014-2023 Adobe (http://www.adobe.com/)
 License: SIL Open Font License, 1.1, https://opensource.org/licenses/OFL-1.1
 Source: https://github.com/adobe-fonts/source-serif
-
-
-SVGs:
-
-"Brain SVG Vector" by SVG Repo, CCO
-https://www.svgrepo.com/svg/75533/brain
-
 
 Block Pattern Images:
 
