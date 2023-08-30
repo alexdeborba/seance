@@ -3,7 +3,7 @@
  * Title: Footer light with social icons, and copyright
  * Slug: seance/footer-light-social-copyright
  * Categories: footer
- * Description: Footer with social icons and copyright in a light block pattern
+ * Description: Footer with social icons and copyright on a light block pattern
  * Keywords: footer, social, icons, copyright
  * Viewport Width: 1500
  * Block Types: core/template-part/footer
