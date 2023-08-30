@@ -22,7 +22,7 @@
         <!-- wp:column {"verticalAlignment":"center","width":"33.33%","layout":{"type":"default"}} -->
         <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:33.33%">
             <!-- wp:image {"id":1798,"sizeSlug":"large","linkDestination":"none","style":{"border":{"radius":{"topRight":null,"bottomLeft":null,"bottomRight":null}}}} -->
-            <figure class="wp-block-image size-large"><img src="<?php echo esc_url(get_theme_file_uri("/assets/images/gallery-dark-left.jpg")); ?>" alt="<?php echo esc_html_e('The Fox Sisters', 'seance'); ?>" alt="<?php echo esc_html_e('The Fox Sisters', 'seance'); ?>" /></figure>
+            <figure class="wp-block-image size-large"><img src="<?php echo esc_url(get_theme_file_uri("/assets/images/gallery-dark-left.jpg")); ?>" alt="<?php echo esc_html_e('The Fox Sisters', 'seance'); ?>" /></figure>
             <!-- /wp:image -->
         </div>
         <!-- /wp:column -->
