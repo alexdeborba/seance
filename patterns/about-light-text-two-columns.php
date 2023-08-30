@@ -3,7 +3,7 @@
  * Title: About light with heading, paragraphs on two columns
  * Slug: seance/about-light-text-two-columns
  * Categories: pages
- * Description: About with text on two columns light block pattern
+ * Description: About with text on two columns on a light block pattern
  * Keywords: heading, paragraph, columns
  * Viewport Width: 1500
  * Block Types: core/pages
@@ -30,7 +30,7 @@
             <!-- wp:column {"verticalAlignment":"center","width":"20%"} -->
             <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:20%">
                 <!-- wp:paragraph -->
-                <p><?php echo esc_html__('Greetings', 'seance') ?></p>
+                <p><?php echo wp_kses_post(__('Greetings', 'seance')); ?></p>
                 <!-- /wp:paragraph -->
             </div>
             <!-- /wp:column -->
