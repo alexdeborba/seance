@@ -2,7 +2,7 @@
 
 Welcome to the development repository for Séance.
 
-![Séance](https://github.com/alexdeborba/seance/assets/5738223/b92819e1-0a87-48c5-8a88-dced2c2afe1d)
+![Séance](https://raw.githubusercontent.com/alexdeborba/seance/main/screenshot.png)
 
 ## Table of Contents
 
@@ -357,7 +357,7 @@ Séance is licensed under the [GPL-2.0 license](https://www.gnu.org/licenses/old
 
 The thumbnail on this README.md file:
 
-"-" by Alex de Borba, CCO
+["The Fox Sisters Farewell"](https://www.pexels.com/photo/the-fox-sisters-farewell-18135419/) by Alex de Borba, CCO
 
 
 ## Feedback
