@@ -203,10 +203,11 @@
 	},
 	"styles": {
 		"blocks": {
-			"core/template-part/footer": { 
+			"core/group": { 
 			  "styles": {
 				"spacing": {
 				  "margin": {
+					"bottom": "0px",
 					"top": "0px"
 				  }
 				}
