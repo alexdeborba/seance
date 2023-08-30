@@ -1,9 +1,9 @@
 <?php
 /**
- * Title: About dark with heading, paragraph, and social icons
+ * Title: About dark with heading, paragraph, and social icons on the left
  * Slug: seance/about-dark-text-social-left-centered
  * Categories: pages
- * Description: About with text on the left centered dark block pattern
+ * Description: About with text on the left centered on a dark block pattern
  * Keywords: heading, paragraph, social
  * Viewport Width: 1500
  * Block Types: core/pages
