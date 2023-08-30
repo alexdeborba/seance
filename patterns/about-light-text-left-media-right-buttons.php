@@ -1,5 +1,4 @@
 <?php
-
 /**
  * Title: About light with text, media, and buttons
  * Slug: seance/about-light-text-left-media-right-buttons
