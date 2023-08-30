@@ -1,5 +1,4 @@
 <?php
-
 /**
  * Title: Media mid-duotone on the right with heading, text, buttons on the left
  * Slug: seance/media-miduotone-right-text-buttons-left-columns
