@@ -3,7 +3,7 @@
  * Title: Blog dark posts with heading, title, featured image, excerpt, and date with left sidebar 
  * Slug: seance/blog-dark-posts-query-left-sidebar
  * Categories: pages
- * Description: Blog posts with left sidebar in a dark block pattern
+ * Description: Blog posts with left sidebar on a dark block pattern
  * Keywords: page, query, blog, posts, sidebar
  * Viewport Width: 1500
  * Block Types: core/pages
