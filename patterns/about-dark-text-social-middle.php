@@ -3,7 +3,7 @@
  * Title: About dark with heading, paragraph, and social icons on the middle
  * Slug: seance/about-dark-text-social-middle
  * Categories: pages
- * Description: About with text on the middle dark block pattern
+ * Description: About with text on the middle on a dark block pattern
  * Keywords: heading, paragraph, social
  * Viewport Width: 1500
  * Block Types: core/pages
@@ -15,10 +15,10 @@
  */
 ?>
 
-<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"1.25rem","right":"1.25rem","bottom":"1.25rem","left":"1.25rem"}}}} -->
-<div class="wp-block-group alignfull" style="padding-top:1.25rem;padding-right:1.25rem;padding-bottom:1.25rem;padding-left:1.25rem">
-    <!-- wp:cover {"overlayColor":"foreground","minHeight":80,"minHeightUnit":"vh","align":"full"} -->
-    <div class="wp-block-cover alignfull" style="min-height:80vh"><span aria-hidden="true" class="wp-block-cover__background has-foreground-background-color has-background-dim-100 has-background-dim"></span>
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"1.25rem","right":"1.25rem","bottom":"1.25rem","left":"1.25rem"}}},"backgroundColor":"foreground"} -->
+<div class="wp-block-group alignfull has-foreground-background-color has-background" style="padding-top:1.25rem;padding-right:1.25rem;padding-bottom:1.25rem;padding-left:1.25rem">
+    <!-- wp:cover {"dimRatio":0,"minHeight":80,"minHeightUnit":"vh","isDark":false,"align":"full","textColor":"primary"} -->
+    <div class="wp-block-cover alignfull is-light has-primary-color has-text-color" style="min-height:80vh"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span>
         <div class="wp-block-cover__inner-container">
             <!-- wp:group {"layout":{"inherit":false,"contentSize":"400px","type":"constrained"}} -->
             <div class="wp-block-group">
