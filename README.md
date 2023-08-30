@@ -2,7 +2,7 @@
 
 Welcome to the development repository for Séance.
 
-![Séance](https://raw.githubusercontent.com/alexdeborba/seance/main/screenshot.png)
+![Séance](https://github.com/alexdeborba/seance/assets/5738223/b92819e1-0a87-48c5-8a88-dced2c2afe1d)
 
 ## Table of Contents
 
