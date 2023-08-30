@@ -3,7 +3,7 @@
  * Title: About light with heading, paragraph, and social icons on the middle
  * Slug: seance/about-light-text-social-middle
  * Categories: pages
- * Description: About with text on the middle light block pattern
+ * Description: About with text on the middle on a light block pattern
  * Keywords: heading, paragraph, social
  * Viewport Width: 1500
  * Block Types: core/pages
