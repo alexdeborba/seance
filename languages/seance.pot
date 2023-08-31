@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2023-08-18T04:30:31+00:00\n"
-"PO-Revision-Date: 2023-08-30 06:37:32+00:00\n"
+"PO-Revision-Date: 2023-08-31 02:48:22+00:00\n"
 "X-Generator: WP-CLI 2.6.0\n"
 "X-Domain: seance\n"
 
@@ -19,7 +19,7 @@ msgid "Séance"
 msgstr ""
 
 #. Theme URI of the theme
-msgid "https://github.com/alexdeborba/seance/"
+msgid "https://github.com/alexdeborba/seancewp/"
 msgstr ""
 
 #. Description of the theme
@@ -34,6 +34,7 @@ msgstr ""
 msgid "https://alexdeborba.com/"
 msgstr ""
 
+#: patterns/front-page.php:405
 #: patterns/about-dark-media-left-text-right-bottom.php:30
 #: patterns/about-dark-media-left-text-right-centered.php:31
 #: patterns/about-dark-media-right-text-left-bottom.php:29
@@ -46,6 +47,8 @@ msgstr ""
 msgid "The Fox<br>Sisters"
 msgstr ""
 
+#: patterns/front-page.php:123
+#: patterns/front-page.php:408
 #: patterns/about-dark-media-left-text-right-bottom.php:33
 #: patterns/about-dark-media-left-text-right-centered.php:34
 #: patterns/about-dark-media-right-text-left-bottom.php:32
@@ -59,6 +62,16 @@ msgstr ""
 msgid "We are Margaret, Catherine, and Leah Fox, renowned spiritual mediums from a bygone era, now embracing the digital age. With our unique abilities, we have connected countless souls with the messages of the spirit world."
 msgstr ""
 
+#: patterns/front-page.php:59
+#: patterns/front-page.php:66
+#: patterns/front-page.php:120
+#: patterns/front-page.php:182
+#: patterns/front-page.php:228
+#: patterns/front-page.php:243
+#: patterns/front-page.php:289
+#: patterns/front-page.php:317
+#: patterns/front-page.php:354
+#: patterns/front-page.php:397
 #: patterns/about-dark-media-left-text-right-bottom.php:22
 #: patterns/about-dark-media-left-text-right-centered.php:23
 #: patterns/about-dark-media-right-text-left-bottom.php:54
@@ -95,6 +108,13 @@ msgstr ""
 msgid "I am Margaret Fox, one of the pioneering sisters from the dawn of spiritualism. With my unique gift, I bridged the gap between the living and the departed, revealing mysteries from the other side."
 msgstr ""
 
+#: patterns/front-page.php:85
+#: patterns/front-page.php:131
+#: patterns/front-page.php:166
+#: patterns/front-page.php:169
+#: patterns/front-page.php:212
+#: patterns/front-page.php:265
+#: patterns/front-page.php:376
 #: patterns/about-light-text-left-media-right-buttons.php:46
 #: patterns/event-light-media-text-buttons-columns.php:43
 #: patterns/media-duotone-left-text-buttons-right-columns.php:47
@@ -235,12 +255,15 @@ msgstr ""
 msgid "Leah Fox"
 msgstr ""
 
+#: patterns/front-page.php:308
+#: patterns/front-page.php:337
 #: patterns/event-light-media-text-buttons-columns.php:46
 #: patterns/event-light-media-text-buttons-light-two-columns.php:45
 #: patterns/event-light-media-text-buttons-light-two-columns.php:74
 msgid "Buy Tickets"
 msgstr ""
 
+#: patterns/front-page.php:108
 #: patterns/about-light-text-left-media-right-buttons.php:25
 #: patterns/event-light-media-text-buttons-columns.php:28
 msgid "Welcome to<br>the <em>Unknown</em>"
@@ -250,22 +273,27 @@ msgstr ""
 msgid "From the pioneers of Spiritualism, now in the digital realm, experience a séance like no other. Secure your spot for this exclusive online event and connect with the beyond. Tickets are limited.<br><br>Do not miss your chance to bridge the worlds."
 msgstr ""
 
+#: patterns/front-page.php:295
 #: patterns/event-light-media-text-buttons-light-two-columns.php:60
 msgid "Spiritual Summit"
 msgstr ""
 
+#: patterns/front-page.php:298
 #: patterns/event-light-media-text-buttons-light-two-columns.php:34
 msgid "March 31, 1848 @ 7:00PM<br>Hydesville Memorial Park<br>1510 Hydesville Road, Newark<br>NY 14513"
 msgstr ""
 
+#: patterns/front-page.php:323
 #: patterns/event-light-media-text-buttons-light-two-columns.php:60
 msgid "Ethereal Echoes"
 msgstr ""
 
+#: patterns/front-page.php:326
 #: patterns/event-light-media-text-buttons-light-two-columns.php:63
 msgid "November 14, 1888 @ 7:00PM<br>Cypress Hills Cemetery<br>833 Jamaica Avenue<br>Brooklyn, NY 11208"
 msgstr ""
 
+#: patterns/front-page.php:28
 #: patterns/posts-light-featured-image.php:20
 #: patterns/posts-dark-latest-query-grid.php:26
 #: patterns/footer-light-blog.php:35
@@ -273,6 +301,12 @@ msgstr ""
 msgid "Latest Posts"
 msgstr ""
 
+#: patterns/front-page.php:89
+#: patterns/front-page.php:134
+#: patterns/front-page.php:169
+#: patterns/front-page.php:215
+#: patterns/front-page.php:268
+#: patterns/front-page.php:379
 #: patterns/about-light-text-left-media-right-buttons.php:49
 #: patterns/footer-light-about.php:25
 #: patterns/footer-light-blog.php:25
@@ -288,10 +322,12 @@ msgstr ""
 msgid "We are the Fox sisters, Margaret, Catherine, and Leah. Hailing from Hydesville, New York, our lives took a mystifying turn in 1848 when we discovered our unique connection to the spirit realm."
 msgstr ""
 
+#: patterns/front-page.php:73
 #: patterns/gallery-duotone-text-buttons-two-columns.php:39
 msgid "<em>Séance</em>, a Full Site Editing Theme"
 msgstr ""
 
+#: patterns/front-page.php:76
 #: patterns/gallery-duotone-text-buttons-two-columns.php:42
 msgid "Introducing our WordPress FSE theme, <em>Séance</em>, a portal that intertwines the elegance of bygone eras with modern design.<br><br>Crafted with ethereal aesthetics and intuitive functionalities, let your website be the medium that bridges the past with the present, and the seen with the unseen."
 msgstr ""
@@ -313,6 +349,11 @@ msgstr ""
 msgid "<em>Séance</em>: A Theme Born Out of Love and Death…"
 msgstr ""
 
+#: patterns/front-page.php:165
+#: patterns/front-page.php:155
+#: patterns/front-page.php:201
+#: patterns/front-page.php:254
+#: patterns/front-page.php:365
 #: patterns/media-duotone-left-text-buttons-right-columns.php:36
 #: patterns/media-duotone-right-text-buttons-left-columns.php:29
 #: patterns/media-miduotone-left-text-buttons-right-columns.php:36
@@ -320,6 +361,10 @@ msgstr ""
 msgid "Pioneers of Modern <em>Spiritualism</em>"
 msgstr ""
 
+#: patterns/front-page.php:158
+#: patterns/front-page.php:204
+#: patterns/front-page.php:257
+#: patterns/front-page.php:368
 #: patterns/media-duotone-left-text-buttons-right-columns.php:39
 #: patterns/media-duotone-right-text-buttons-left-columns.php:32
 #: patterns/media-miduotone-left-text-buttons-right-columns.php:39
@@ -327,6 +372,7 @@ msgstr ""
 msgid "In the quaint village of Hydesville, New York, in the late 1840s, we, Margaret, Catherine and Leah Fox, ignited a movement that would reverberate through the annals of history.<br><br>Our mysterious communications with the spirit realm through a series of rappings captured the imagination of a nation, leading to the birth of Modern Spiritualism."
 msgstr ""
 
+#: patterns/front-page.php:31
 #: patterns/posts-dark-latest-query-grid.php:29
 #: patterns/event-dark-media-text-right-sidebar.php:28
 #: patterns/video-dark-player-media-text-right.php:28

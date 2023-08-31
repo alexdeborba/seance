@@ -390,7 +390,7 @@
         <!-- /wp:columns -->
     </div>
     <!-- /wp:group -->
-    <!-- wp:group {"align":"full","styl":{"spacing":{"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+    <!-- wp:group {"align":"full","style":{"spacing":{"margin":{"top":"0","bottom":"0"}}}} -->
     <div class="wp-block-group alignfull" style="margin-top:0;margin-bottom:0">
         <!-- wp:media-text {"align":"full","mediaLink":"<?php echo esc_url(get_theme_file_uri("/assets/images/about-dark-left.jpg")); ?>","mediaType":"image","style":{"elements":{"link":{"color":{"text":"var:preset|color|background"}}}},"backgroundColor":"foreground","textColor":"background","className":"has-media-on-the-left"} -->
         <div class="wp-block-media-text alignfull is-stacked-on-mobile has-media-on-the-left has-background-color has-foreground-background-color has-text-color has-background has-link-color">
