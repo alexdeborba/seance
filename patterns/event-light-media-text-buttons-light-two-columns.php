@@ -42,7 +42,7 @@
             <!-- wp:buttons -->
             <div class="wp-block-buttons">
                 <!-- wp:button {"backgroundColor":"foreground"} -->
-                <div class="wp-block-button"><a class="wp-block-button__link has-foreground-background-color has-background"><?php echo wp_kses_post(__('Buy Tickets', 'seance')); ?></a></div>
+                <div class="wp-block-button"><a class="wp-block-button__link has-foreground-background-color has-background"><?php echo esc_html_e('Buy Tickets', 'seance'); ?></a></div>
                 <!-- /wp:button -->
             </div>
             <!-- /wp:buttons -->
