@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: About dark with heading, paragraph, and social icons on the left
- * Slug: seance/about-dark-text-social-left-centered
+ * Slug: seancewp/about-dark-text-social-left-centered
  * Categories: pages
  * Description: About with text on the left centered on a dark block pattern
  * Keywords: heading, paragraph, social
@@ -10,7 +10,7 @@
  * Post Types:
  * Inserter: true
  * 
- * @package seance
+ * @package seancewp
  * @since 1.0.0
  */
 ?>
@@ -22,10 +22,10 @@
         <!-- wp:column {"verticalAlignment":"bottom","width":"45%","style":{"spacing":{"padding":{"top":"12rem"}}}} -->
         <div class="wp-block-column is-vertically-aligned-bottom" style="padding-top:12rem;flex-basis:45%">
             <!-- wp:heading {"style":{"typography":{"fontWeight":"300","lineHeight":"1.115","fontSize":"clamp(3rem, 6vw, 4.5rem)"}}} -->
-            <h2 class="wp-block-heading" style="font-size:clamp(3rem, 6vw, 4.5rem);font-weight:300;line-height:1.115"><em><?php echo wp_kses_post(__('The Fox <br> Sisters', 'seance')); ?></em></h2>
+            <h2 class="wp-block-heading" style="font-size:clamp(3rem, 6vw, 4.5rem);font-weight:300;line-height:1.115"><em><?php echo wp_kses_post(__('The Fox <br> Sisters', 'seancewp')); ?></em></h2>
             <!-- /wp:heading -->
             <!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.6"}}} -->
-            <p style="line-height:1.6"><?php echo esc_html_e('We are Margaret, Catherine, and Leah Fox, renowned spiritual mediums from a bygone era, now embracing the digital age. With our unique abilities, we have connected countless souls with the messages of the spirit world.', 'seance'); ?></p>
+            <p style="line-height:1.6"><?php echo esc_html_e('We are Margaret, Catherine, and Leah Fox, renowned spiritual mediums from a bygone era, now embracing the digital age. With our unique abilities, we have connected countless souls with the messages of the spirit world.', 'seancewp'); ?></p>
             <!-- /wp:paragraph -->
             <!-- wp:spacer {"height":"40px"} -->
             <div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
