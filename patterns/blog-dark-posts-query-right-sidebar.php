@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Blog dark posts with heading, title, featured image, excerpt, and date with right sidebar
- * Slug: seance/blog-dark-posts-query-right-sidebar
+ * Slug: seancewp/blog-dark-posts-query-right-sidebar
  * Categories: pages
  * Description: Blog posts with right sidebar on a dark block pattern
  * Keywords: page, query, blog, posts, sidebar
@@ -10,7 +10,7 @@
  * Post Types:
  * Inserter: true
  * 
- * @package seance
+ * @package seancewp
  * @since 1.0.0
  */
 ?>
@@ -58,7 +58,7 @@
             <div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
             <!-- /wp:spacer -->
             <!-- wp:heading {"level":4,"fontSize":"large"} -->
-            <h4 class="wp-block-heading has-large-font-size"><em><?php esc_html_e('Categories', 'seance'); ?></em></h4>
+            <h4 class="wp-block-heading has-large-font-size"><em><?php esc_html_e('Categories', 'seancewp'); ?></em></h4>
             <!-- /wp:heading -->
             <!-- wp:tag-cloud {"taxonomy":"category","showTagCounts":true} /-->
             <!-- wp:spacer {"height":"32px"} -->
@@ -71,7 +71,7 @@
             <div style="height:32px" aria-hidden="true" class="wp-block-spacer"></div>
             <!-- /wp:spacer -->
             <!-- wp:heading {"level":4,"fontSize":"large"} -->
-            <h4 class="wp-block-heading has-large-font-size"><em><?php esc_html_e('Pages', 'seance'); ?></em></h4>
+            <h4 class="wp-block-heading has-large-font-size"><em><?php esc_html_e('Pages', 'seancewp'); ?></em></h4>
             <!-- /wp:heading -->
             <!-- wp:navigation {"textColor":"primary","overlayMenu":"never","layout":{"type":"flex","orientation":"vertical"}} -->
             <!-- wp:page-list /-->
@@ -86,7 +86,7 @@
             <div style="height:32px" aria-hidden="true" class="wp-block-spacer"></div>
             <!-- /wp:spacer -->
             <!-- wp:heading {"level":4,"fontSize":"large"} -->
-            <h4 class="wp-block-heading has-large-font-size"><em><?php esc_html_e('Tags', 'seance'); ?></em></h4>
+            <h4 class="wp-block-heading has-large-font-size"><em><?php esc_html_e('Tags', 'seancewp'); ?></em></h4>
             <!-- /wp:heading -->
             <!-- wp:tag-cloud {"showTagCounts":true} /-->
         </div>
