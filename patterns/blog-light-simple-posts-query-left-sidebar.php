@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Blog light posts simple grid with left sidebar
- * Slug: seance/blog-light-simple-posts-query-left-sidebar
+ * Slug: seancewp/blog-light-simple-posts-query-left-sidebar
  * Categories: pages
  * Description: Blog posts grid with left sidebar on a light block pattern
  * Keywords: page, query, blog, posts, sidebar
@@ -10,7 +10,7 @@
  * Post Types:
  * Inserter: true
  * 
- * @package seance
+ * @package seancewp
  * @since 1.0.0
  */
 ?>
@@ -22,7 +22,7 @@
         <!-- wp:column {"width":"30%"} -->
         <div class="wp-block-column" style="flex-basis:30%">
             <!-- wp:heading {"level":4,"fontSize":"large"} -->
-            <h4 class="has-large-font-size"><em><?php esc_html_e('Categories', 'seance'); ?></em></h4>
+            <h4 class="has-large-font-size"><em><?php esc_html_e('Categories', 'seancewp'); ?></em></h4>
             <!-- /wp:heading -->
             <!-- wp:tag-cloud {"taxonomy":"category","showTagCounts":true} /-->
             <!-- wp:spacer {"height":32} -->
@@ -35,7 +35,7 @@
             <div style="height:16px" aria-hidden="true" class="wp-block-spacer"></div>
             <!-- /wp:spacer -->
             <!-- wp:heading {"level":4,"fontSize":"large"} -->
-            <h4 class="has-large-font-size"><em><?php esc_html_e('Pages', 'seance'); ?></em></h4>
+            <h4 class="has-large-font-size"><em><?php esc_html_e('Pages', 'seancewp'); ?></em></h4>
             <!-- /wp:heading -->
             <!-- wp:navigation {"orientation":"vertical"}} -->
             <!-- wp:page-list /-->
@@ -50,7 +50,7 @@
             <div style="height:16px" aria-hidden="true" class="wp-block-spacer"></div>
             <!-- /wp:spacer -->
             <!-- wp:heading {"level":4,"fontSize":"large"} -->
-            <h4 class="has-large-font-size"><em><?php esc_html_e('Tags', 'seance'); ?></em></h4>
+            <h4 class="has-large-font-size"><em><?php esc_html_e('Tags', 'seancewp'); ?></em></h4>
             <!-- /wp:heading -->
             <!-- wp:tag-cloud {"showTagCounts":true} /-->
             <!-- wp:spacer {"height":16} -->
