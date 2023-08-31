@@ -197,16 +197,6 @@
   },
   "styles": {
     "blocks": {
-      "core/template-part/footer": {
-        "styles": {
-          "spacing": {
-            "margin": {
-              "bottom": "0px",
-              "top": "0px"
-            }
-          }
-        }
-      },
       "core/button": {
         "border": {
           "radius": "0"
