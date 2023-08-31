@@ -41,44 +41,64 @@ GNU General Public License for more details.
 
 This theme bundles the following third-party resources:
 
-Typography:
-
 Source Serif Font
 Copyright 2014-2023 Adobe (http://www.adobe.com/)
 License: SIL Open Font License, 1.1, https://opensource.org/licenses/OFL-1.1
 Source: https://github.com/adobe-fonts/source-serif
 
-Block Pattern Images:
+Used in theme screenshot and block patterns:
 
-"Hydesville Hauntings: Fox Sisters’ Paranormal Parley" by Alex de Borba, CCO
-https://www.pexels.com/photo/hydesville-hauntings-fox-sisters-paranormal-parley-18015815/
+Hydesville Hauntings: Fox Sisters’ Paranormal Parley
+License: Public Domain
+Source: https://www.pexels.com/photo/hydesville-hauntings-fox-sisters-paranormal-parley-18015815/
 
-"The Fox Sisters Farewell" by Alex de Borba, CCO
-https://www.pexels.com/photo/the-fox-sisters-farewell-18135419/
+The Fox Sisters Farewell
+License: Public Domain
+Source: https://www.pexels.com/photo/the-fox-sisters-farewell-18135419/
 
-"The Fox Sisters Lament" by Alex de Borba, CCO
-https://www.pexels.com/photo/the-fox-sisters-lament-18105531/
+The Fox Sisters Lament
+License: Public Domain
+Source: https://www.pexels.com/photo/the-fox-sisters-lament-18105531/
 
-"The Fox Sisters Mercy" by Alex de Borba, CCO
-https://www.pexels.com/photo/the-fox-sisters-mercy-18137992/
+The Fox Sisters Mercy
+License: Public Domain
+Source: https://www.pexels.com/photo/the-fox-sisters-mercy-18137992/
 
-"The Fox Sisters Rebirth" by Alex de Borba, CCO
-https://www.pexels.com/photo/the-fox-sister-rebirth-18138137/
+The Fox Sisters Rebirth
+License: Public Domain
+Source: https://www.pexels.com/photo/the-fox-sister-rebirth-18138137/
 
-"The Hooded Fox Sisters" by Alex de Borba, CCO
-https://www.pexels.com/photo/the-hooded-fox-sisters-18103016/
+The Hooded Fox Sisters
+License: Public Domain
+Source: https://www.pexels.com/photo/the-hooded-fox-sisters-18103016/
 
-"The Veiled Fox Sisters" by Alex de Borba, CCO
-https://www.pexels.com/photo/the-veiled-fox-sisters-18102681/
+The Veiled Fox Sisters
+License: Public Domain
+Source: https://www.pexels.com/photo/the-veiled-fox-sisters-18102681/
 
-"The Fox Sisters Reverence" by Alex de Borba, CCO
-https://www.pexels.com/photo/the-fox-sisters-reverence-18138733/
+The Fox Sisters Reverence
+License: Public Domain
+Source: https://www.pexels.com/photo/the-fox-sisters-reverence-18138733/
 
-"The Widows" by Alex de Borba, CCO
-https://www.pexels.com/photo/the-widows-18103806/
+The Widows
+License: Public Domain
+Source: https://www.pexels.com/photo/the-widows-18103806/
 
-"The Fox Sisters" by by Alex de Borba, CCO
-https://www.pexels.com/video/-/
+The Fox Sisters
+License: Public Domain
+Source: https://www.pexels.com/video/-/
 Included as a short video clip.
 
-Modified versions of the above images, as well as additional illustrations were created specifically for Séance. CC0.
+Séance, Credit Alex de Borba
+License : Creative Commons CC0
+License URL: http://creativecommons.org/publicdomain/zero/1.0
+	/assets/images/about-dark-left.jpg
+	/assets/images/about-dark-right.jpg
+	/assets/images/about-light-top.jpg
+    /assets/images/gallery-dark-left.jpg
+    /assets/images/gallery-dark-top.jpg
+    /assets/images/header-dark-hero.jpg
+    /assets/images/poster-light-left.jpg
+    /assets/images/poster-light-right.jpg
+    /assets/images/poster-session-duotone.jpg
+    /assets/images/welcome-unknown.jpg
