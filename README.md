@@ -2,7 +2,7 @@
 
 Welcome to the development repository for Séance.
 
-![Séance](https://github.com/alexdeborba/seancewpwp/assets/5738223/38761cf3-d1e9-4cf7-993d-5fbe56a53bf1)
+![Séance](https://github.com/alexdeborba/seancewp/assets/5738223/38761cf3-d1e9-4cf7-993d-5fbe56a53bf1)
 
 ## Table of Contents
 
