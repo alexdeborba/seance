@@ -2,13 +2,13 @@
 
 Welcome to the development repository for Séance.
 
-![Séance](https://github.com/alexdeborba/seancewp/assets/5738223/38761cf3-d1e9-4cf7-993d-5fbe56a53bf1)
+![Séance](https://github.com/alexdeborba/seancewpwp/assets/5738223/38761cf3-d1e9-4cf7-993d-5fbe56a53bf1)
 
 ## Table of Contents
 
 - [Introduction](#introduction)
 - [Description](#description)
-- [Getting Started with Séance](#getting-started-with-seance)
+- [Getting Started with Séance](#getting-started-with-seancewp)
   - [Requirements](#requirements)
 - [Working with Block Themes](#working-with-block-themes)
   - [Site Editor](#site-editor)
@@ -80,7 +80,7 @@ Fully customizable, Séance supports the [Full Site Editing](https://make.wordpr
 To initiate development with the Séance theme:
 
 1. Begin by creating a [WordPress](#deploying-wordpress-locally) instance.
-2. Proceed to download the [Séance](https://github.com/alexdeborba/seancewp/) theme.
+2. Proceed to download the [Séance](https://github.com/alexdeborba/seancewpwp/) theme.
 3. Next, unzip the downloaded file and upload the repository into your `/wp-content/themes/` directory.
 
 If the process of installing WordPress locally seems too complex, I recommend experimenting with tools such as [wp-env](https://developer.wordpress.org/block-editor/getting-started/devenv/), [Local](https://localwp.com/) or [DevKinsta](https://kinsta.com/devkinsta/).
@@ -88,12 +88,12 @@ If the process of installing WordPress locally seems too complex, I recommend ex
 
 ### Requirements
 
-- [Séance](https://github.com/alexdeborba/seancewp/)
+- [Séance](https://github.com/alexdeborba/seancewpwp/)
 - [WordPress 5.9+](https://wordpress.org/download/)
 - PHP 5.6+
 - License: [GPLv2](https://www.gnu.org/licenses/gpl-2.0.html) or later.
 
-Certain features of Séance or specific [pull requests](https://github.com/alexdeborba/seancewp/pulls/) may necessitate the [Gutenberg plugin](https://wordpress.org/plugins/gutenberg/) trunk. Such requirements will be suitably described or tagged.
+Certain features of Séance or specific [pull requests](https://github.com/alexdeborba/seancewpwp/pulls/) may necessitate the [Gutenberg plugin](https://wordpress.org/plugins/gutenberg/) trunk. Such requirements will be suitably described or tagged.
 
 Additionally, if you wish to run tests locally, the following will be necessary:
 
@@ -301,11 +301,11 @@ Scroll down and click 'Generate password'. You may either utilize this password 
 
 ## Contributing
 
-Before you start contributing, it is essential that you familiarize yourself with the [Code of Conduct](https://github.com/alexdeborba/seancewp/blob/main/CODE_OF_CONDUCT.md) for contributors and the [Contributing](https://github.com/alexdeborba/seancewp/blob/main/CONTRIBUTING.md) guidelines. These will provide valuable insights about how to submit bug reports, create patches, test modifications, write documentation, and generally get involved in any capacity.
+Before you start contributing, it is essential that you familiarize yourself with the [Code of Conduct](https://github.com/alexdeborba/seancewpwp/blob/main/CODE_OF_CONDUCT.md) for contributors and the [Contributing](https://github.com/alexdeborba/seancewpwp/blob/main/CONTRIBUTING.md) guidelines. These will provide valuable insights about how to submit bug reports, create patches, test modifications, write documentation, and generally get involved in any capacity.
 
-If, after reading these, you are still eager to contribute code, the list of [open issues](https://github.com/alexdeborba/seancewp/issues/) is an excellent starting point to search for tasks. However, it is always preferable to link your [pull requests](https://github.com/alexdeborba/seancewp/pulls/) to an existing issue.
+If, after reading these, you are still eager to contribute code, the list of [open issues](https://github.com/alexdeborba/seancewpwp/issues/) is an excellent starting point to search for tasks. However, it is always preferable to link your [pull requests](https://github.com/alexdeborba/seancewpwp/pulls/) to an existing issue.
 
-But remember, contributing is not just for developers. I wholeheartedly welcome anyone willing to contribute in any way – be it through code, [testing](#getting-started), triage, discussion, design work for building patterns and templates, making Séance more accessible, and so on. Feel free to browse through the [open issues](https://github.com/alexdeborba/seancewp/issues/) and join in wherever you feel most comfortable.
+But remember, contributing is not just for developers. I wholeheartedly welcome anyone willing to contribute in any way – be it through code, [testing](#getting-started), triage, discussion, design work for building patterns and templates, making Séance more accessible, and so on. Feel free to browse through the [open issues](https://github.com/alexdeborba/seancewpwp/issues/) and join in wherever you feel most comfortable.
 
 
 ## Development
@@ -313,17 +313,17 @@ But remember, contributing is not just for developers. I wholeheartedly welcome 
 - Séance is designed with a minimalist approach, striving to load as few assets as possible. It leans heavily on the [Block Editor](https://developer.wordpress.org/block-editor/how-to-guides/themes/block-theme-overview/) and [Global Styles](https://developer.wordpress.org/block-editor/how-to-guides/themes/theme-json/) for its visual aesthetics.
 - I strongly discourage constructing any custom PHP or JavaScript-based solutions for features that Séance or the [Block Editor](https://developer.wordpress.org/block-editor/how-to-guides/themes/block-theme-overview/) might already offer. Séance is unique in its minimalist, lightweight design, and it is specifically tailored for individuals with color vision deficiencies. Let us work together to keep its code as uncomplicated as we can.
 - In line with this minimalist ethos, Séance does not require a complex build process.  
-- As a contributor to Séance, your efforts will be recognized. I plan to update the [contributed](CONTRIBUTORS.md) file periodically with the names of all contributors. Still, if you notice someone being inadvertently overlooked, please do not hesitate to open a [pull request](https://github.com/alexdeborba/seancewp/pulls/) or [issue](https://github.com/alexdeborba/seancewp/issues/) to correct it.
+- As a contributor to Séance, your efforts will be recognized. I plan to update the [contributed](CONTRIBUTORS.md) file periodically with the names of all contributors. Still, if you notice someone being inadvertently overlooked, please do not hesitate to open a [pull request](https://github.com/alexdeborba/seancewpwp/pulls/) or [issue](https://github.com/alexdeborba/seancewpwp/issues/) to correct it.
 
 
 ## Experimenting
 
-Should you desire to explore custom coding, I would recommend installing and using the [Child Theme](https://github.com/alexdeborba/seancewp-child/) for advanced customization. To extend it further, consider utilizing [Code Snippets](https://github.com/alexdeborba/seancewp-snippets/). This allows you to experiment while preserving the integrity of the main Séance theme.
+Should you desire to explore custom coding, I would recommend installing and using the [Child Theme](https://github.com/alexdeborba/seancewpwp-child/) for advanced customization. To extend it further, consider utilizing [Code Snippets](https://github.com/alexdeborba/seancewpwp-snippets/). This allows you to experiment while preserving the integrity of the main Séance theme.
 
 | Repository | Description |
 | --- | --- |
-| [Séance Child Theme](https://github.com/alexdeborba/seancewp-child/) | Official Séance Child Theme |
-| [Séance Code Snippets](https://github.com/alexdeborba/seancewp-snippets/) | Official Séance Code Snippets |
+| [Séance Child Theme](https://github.com/alexdeborba/seancewpwp-child/) | Official Séance Child Theme |
+| [Séance Code Snippets](https://github.com/alexdeborba/seancewpwp-snippets/) | Official Séance Code Snippets |
 
 
 ## Resources
@@ -345,7 +345,7 @@ Regrettably, there are currently no specific demo sites for the Séance theme. H
 
 ## Roadmap
 
-Indeed, Séance offers a [publicly accessible roadmap](https://trello.com/c/QEw6yBCP/18-introducting-seance), allowing interested parties to track the theme's ongoing development and progress. This ensures transparency and provides a fascinating insight into the evolution of the project.
+Indeed, Séance offers a [publicly accessible roadmap](https://trello.com/c/QEw6yBCP/18-introducting-seancewp), allowing interested parties to track the theme's ongoing development and progress. This ensures transparency and provides a fascinating insight into the evolution of the project.
 
 
 ## License
@@ -362,7 +362,7 @@ The thumbnail on this README.md file:
 
 ## Feedback
 
-Should you be inspired to suggest enhancements to this repository, please do not hesitate to open an [issues](https://github.com/alexdeborba/seancewp/issues/) or submit [pull requests](https://github.com/alexdeborba/seancewp/pulls/).
+Should you be inspired to suggest enhancements to this repository, please do not hesitate to open an [issues](https://github.com/alexdeborba/seancewpwp/issues/) or submit [pull requests](https://github.com/alexdeborba/seancewpwp/pulls/).
 
 I welcome and greatly appreciate your involvement in refining and expanding this project.
 
