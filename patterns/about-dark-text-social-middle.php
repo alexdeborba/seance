@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: About dark with heading, paragraph, and social icons on the middle
- * Slug: seance/about-dark-text-social-middle
+ * Slug: seancewp/about-dark-text-social-middle
  * Categories: pages
  * Description: About with text on the middle on a dark block pattern
  * Keywords: heading, paragraph, social
@@ -10,7 +10,7 @@
  * Post Types:
  * Inserter: true
  * 
- * @package seance
+ * @package seancewp
  * @since 1.0.0
  */
 ?>
@@ -26,13 +26,13 @@
                 <div style="height:64px" aria-hidden="true" class="wp-block-spacer"></div>
                 <!-- /wp:spacer -->
                 <!-- wp:heading {"style":{"typography":{"lineHeight":"1","textTransform":"uppercase","fontSize":"clamp(2.75rem, 6vw, 3.25rem)"}}} -->
-                <h2 class="wp-block-heading" id="margaret-fox" style="font-size:clamp(2.75rem, 6vw, 3.25rem);line-height:1;text-transform:uppercase"><?php echo wp_kses_post(__('Margaret<br>Fox', 'seance')); ?></h2>
+                <h2 class="wp-block-heading" id="margaret-fox" style="font-size:clamp(2.75rem, 6vw, 3.25rem);line-height:1;text-transform:uppercase"><?php echo wp_kses_post(__('Margaret<br>Fox', 'seancewp')); ?></h2>
                 <!-- /wp:heading -->
                 <!-- wp:spacer {"height":"8px"} -->
                 <div style="height:8px" aria-hidden="true" class="wp-block-spacer"></div>
                 <!-- /wp:spacer -->
                 <!-- wp:paragraph {"fontSize":"small"} -->
-                <p class="has-small-font-size"><?php echo esc_html_e('I am Margaret Fox, one of the pioneering sisters from the dawn of spiritualism. With my unique gift, I bridged the gap between the living and the departed, revealing mysteries from the other side.', 'seance'); ?></p>
+                <p class="has-small-font-size"><?php echo esc_html_e('I am Margaret Fox, one of the pioneering sisters from the dawn of spiritualism. With my unique gift, I bridged the gap between the living and the departed, revealing mysteries from the other side.', 'seancewp'); ?></p>
                 <!-- /wp:paragraph -->
                 <!-- wp:spacer {"height":"8px"} -->
                 <div style="height:8px" aria-hidden="true" class="wp-block-spacer"></div>
