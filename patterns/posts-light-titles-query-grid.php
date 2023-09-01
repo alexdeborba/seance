@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Posts light with dates, and titles on columns
- * Slug: seance/posts-light-titles-query-grid
+ * Slug: seancewp/posts-light-titles-query-grid
  * Categories: query, posts, text, blog, columns
  * Description: Posts with large post titles on a light block pattern
  * Keywords: text, blog, posts
@@ -10,7 +10,7 @@
  * Post Types:
  * Inserter: true
  *
- * @package seance
+ * @package seancewp
  * @since 1.0.0
  */
 ?>
