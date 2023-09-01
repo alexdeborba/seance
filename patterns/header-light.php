@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Header with site logo and site title on the left, and navigation on the right
- * Slug: seance/header-light
+ * Slug: seancewp/header-light
  * Categories: header
  * Description: Header with title and navigation on a dark block pattern
  * Keywords: header, logo, navigation
@@ -10,7 +10,7 @@
  * Post Types: wp_template
  * Inserter: true
  * 
- * @package seance
+ * @package seancewp
  * @since 1.0.0
  */
 ?>
