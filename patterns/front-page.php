@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Front Page
- * Slug: seance/front-page
+ * Slug: seancewp/front-page
  * Categories: hidden
  * Description: The Front Page template takes precedence over all templates
  * Keywords: page
@@ -10,7 +10,7 @@
  * Post Types:
  * Inserter: no
  * 
- * @package seance
+ * @package seancewp
  * @since 1.0.0
  */
 ?>
@@ -25,10 +25,10 @@
             <div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
             <!-- /wp:spacer -->
             <!-- wp:heading {"textAlign":"center","level":3,"style":{"typography":{"fontWeight":"300","lineHeight":"1.115","fontSize":"clamp(3rem, 6vw, 4.5rem)","textTransform":"uppercase"}}} -->
-            <h3 class="wp-block-heading has-text-align-center" style="font-size:clamp(3rem, 6vw, 4.5rem);font-weight:300;line-height:1.115;text-transform:uppercase"><?php echo esc_html_e('Latest Posts', 'seance'); ?></h3>
+            <h3 class="wp-block-heading has-text-align-center" style="font-size:clamp(3rem, 6vw, 4.5rem);font-weight:300;line-height:1.115;text-transform:uppercase"><?php echo esc_html_e('Latest Posts', 'seancewp'); ?></h3>
             <!-- /wp:heading -->
             <!-- wp:paragraph {"align":"center","style":{"typography":{"lineHeight":"1.6"}}} -->
-            <p class="has-text-align-center" style="line-height:1.6"><?php echo wp_kses_post(__('Join us, the Fox sisters, in \'Séance,\' a cinematic journey into the ethereal realm. As pioneers of spiritual communication, we invite you to delve deep into the mysteries of the beyond, unveiling whispers and wonders from a world unseen.', 'seance')); ?></p>
+            <p class="has-text-align-center" style="line-height:1.6"><?php echo wp_kses_post(__('Join us, the Fox sisters, in \'Séance,\' a cinematic journey into the ethereal realm. As pioneers of spiritual communication, we invite you to delve deep into the mysteries of the beyond, unveiling whispers and wonders from a world unseen.', 'seancewp')); ?></p>
             <!-- /wp:paragraph -->
             <!-- wp:spacer {"height":"60px"} -->
             <div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
@@ -56,24 +56,24 @@
             <!-- wp:column {"verticalAlignment":"center","width":"33.33%","layout":{"type":"default"}} -->
             <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:33.33%">
                 <!-- wp:image {"scale":"cover","sizeSlug":"large","linkDestination":"none","style":{"border":{"radius":{"topRight":null,"bottomLeft":null,"bottomRight":null}}}} -->
-                <figure class="wp-block-image size-large"><img src="<?php echo esc_url(get_theme_file_uri("/assets/images/poster-light-right.jpg")); ?>" alt="<?php echo esc_html_e('The Fox Sisters', 'seance'); ?>" style="object-fit:cover" /></figure>
+                <figure class="wp-block-image size-large"><img src="<?php echo esc_url(get_theme_file_uri("/assets/images/poster-light-right.jpg")); ?>" alt="<?php echo esc_html_e('The Fox Sisters', 'seancewp'); ?>" style="object-fit:cover" /></figure>
                 <!-- /wp:image -->
             </div>
             <!-- /wp:column -->
             <!-- wp:column {"width":"66.66%","layout":{"type":"default"}} -->
             <div class="wp-block-column" style="flex-basis:66.66%">
                 <!-- wp:image {"sizeSlug":"large","linkDestination":"none","style":{"border":{"radius":{"topLeft":null,"bottomLeft":null,"bottomRight":null}}}} -->
-                <figure class="wp-block-image size-large"><img src="<?php echo esc_url(get_theme_file_uri("/assets/images/gallery-dark-top.jpg")); ?>" alt="<?php echo esc_html_e('The Fox Sisters', 'seance'); ?>" /></figure>
+                <figure class="wp-block-image size-large"><img src="<?php echo esc_url(get_theme_file_uri("/assets/images/gallery-dark-top.jpg")); ?>" alt="<?php echo esc_html_e('The Fox Sisters', 'seancewp'); ?>" /></figure>
                 <!-- /wp:image -->
                 <!-- wp:columns {"style":{"spacing":{"blockGap":{"top":"0px","left":"0px"}}}} -->
                 <div class="wp-block-columns">
                     <!-- wp:column {"width":"66.66%","style":{"spacing":{"padding":{"top":"5%","bottom":"5%","left":"5%"}}}} -->
                     <div class="wp-block-column" style="padding-top:5%;padding-bottom:5%;padding-left:5%;flex-basis:66.66%">
                         <!-- wp:heading {"level":3,"align":"wide","style":{"typography":{"fontSize":"60px"}}} -->
-                        <h3 class="wp-block-heading alignwide" style="font-size:60px"><?php echo wp_kses_post(__('<em>Séance</em>, a Full Site Editing Theme', 'seance')); ?></h3>
+                        <h3 class="wp-block-heading alignwide" style="font-size:60px"><?php echo wp_kses_post(__('<em>Séance</em>, a Full Site Editing Theme', 'seancewp')); ?></h3>
                         <!-- /wp:heading -->
                         <!-- wp:paragraph -->
-                        <p><?php echo wp_kses_post(__('Introducing our WordPress FSE theme, <em>Séance</em>, a portal that intertwines the elegance of bygone eras with modern design.<br><br>Crafted with ethereal aesthetics and intuitive functionalities, let your website be the medium that bridges the past with the present, and the seen with the unseen.', 'seance')); ?></p>
+                        <p><?php echo wp_kses_post(__('Introducing our WordPress FSE theme, <em>Séance</em>, a portal that intertwines the elegance of bygone eras with modern design.<br><br>Crafted with ethereal aesthetics and intuitive functionalities, let your website be the medium that bridges the past with the present, and the seen with the unseen.', 'seancewp')); ?></p>
                         <!-- /wp:paragraph -->
                         <!-- wp:spacer {"height":"10px"} -->
                         <div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
@@ -82,11 +82,11 @@
                         <div class="wp-block-buttons">
                             <!-- wp:button {"textColor":"foreground"} -->
                             <div class="wp-block-button">
-                                <a class="wp-block-button__link has-foreground-color has-text-color wp-element-button" href="#"><?php echo esc_html_e('Learn More', 'seance'); ?></a>
+                                <a class="wp-block-button__link has-foreground-color has-text-color wp-element-button" href="#"><?php echo esc_html_e('Learn More', 'seancewp'); ?></a>
                             </div>
                             <!-- /wp:button -->
                             <!-- wp:button {"className":"is-style-outline"} -->
-                            <div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="#"><?php echo esc_html_e('About Us', 'seance'); ?></a></div>
+                            <div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="#"><?php echo esc_html_e('About Us', 'seancewp'); ?></a></div>
                             <!-- /wp:button -->
                         </div>
                         <!-- /wp:buttons -->
@@ -107,7 +107,7 @@
             <!-- wp:column {"width":"33.33%","style":{"spacing":{"padding":{"top":"var:preset|spacing|80"}}}} -->
             <div class="wp-block-column" style="padding-top:var(--wp--preset--spacing--80);flex-basis:33.33%">
                 <!-- wp:heading {"level":3,"align":"wide","style":{"typography":{"fontSize":"60px"}}} -->
-                <h3 class="wp-block-heading alignwide" style="font-size:60px"><?php echo wp_kses_post(__('Welcome to<br>the <em>Unknown</em>', 'seance')); ?></h3>
+                <h3 class="wp-block-heading alignwide" style="font-size:60px"><?php echo wp_kses_post(__('Welcome to<br>the <em>Unknown</em>', 'seancewp')); ?></h3>
                 <!-- /wp:heading -->
                 <!-- wp:spacer {"height":"30px"} -->
                 <div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
@@ -117,10 +117,10 @@
             <!-- wp:column {"verticalAlignment":"bottom","width":"66.66%"} -->
             <div class="wp-block-column is-vertically-aligned-bottom" style="flex-basis:66.66%">
                 <!-- wp:image {"className":"size-large"} -->
-                <figure class="wp-block-image size-large"><img src="<?php echo esc_url(get_theme_file_uri("/assets/images/about-light-top.jpg")); ?>" alt="<?php echo esc_html_e('The Fox Sisters', 'seance'); ?>" /></figure>
+                <figure class="wp-block-image size-large"><img src="<?php echo esc_url(get_theme_file_uri("/assets/images/about-light-top.jpg")); ?>" alt="<?php echo esc_html_e('The Fox Sisters', 'seancewp'); ?>" /></figure>
                 <!-- /wp:image -->
                 <!-- wp:paragraph -->
-                <p><?php echo wp_kses_post(__('We are Margaret, Catherine, and Leah Fox, renowned spiritual mediums from a bygone era, now embracing the digital age. With our unique abilities, we have connected countless souls with the messages of the spirit world.', 'seance')); ?></p>
+                <p><?php echo wp_kses_post(__('We are Margaret, Catherine, and Leah Fox, renowned spiritual mediums from a bygone era, now embracing the digital age. With our unique abilities, we have connected countless souls with the messages of the spirit world.', 'seancewp')); ?></p>
                 <!-- /wp:paragraph -->
                 <!-- wp:spacer {"height":"10px"} -->
                 <div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
@@ -128,10 +128,10 @@
                 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"left"}} -->
                 <div class="wp-block-buttons">
                     <!-- wp:button {"backgroundColor":"foreground"} -->
-                    <div class="wp-block-button"><a class="wp-block-button__link has-foreground-background-color has-background wp-element-button" href="#"><?php echo esc_html_e('Learn More', 'seance'); ?></a></div>
+                    <div class="wp-block-button"><a class="wp-block-button__link has-foreground-background-color has-background wp-element-button" href="#"><?php echo esc_html_e('Learn More', 'seancewp'); ?></a></div>
                     <!-- /wp:button -->
                     <!-- wp:button {"className":"is-style-outline"} -->
-                    <div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="#"><?php echo esc_html_e('About Us', 'seance'); ?></a></div>
+                    <div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="#"><?php echo esc_html_e('About Us', 'seancewp'); ?></a></div>
                     <!-- /wp:button -->
                 </div>
                 <!-- /wp:buttons -->
@@ -152,10 +152,10 @@
                     <!-- wp:column {"width":"66.66%","style":{"spacing":{"padding":{"top":"5%","bottom":"5%","left":"0px"}}}} -->
                     <div class="wp-block-column" style="padding-top:5%;padding-bottom:5%;padding-left:0px;flex-basis:66.66%">
                         <!-- wp:heading {"level":3,"align":"wide","style":{"typography":{"fontSize":"60px"}}} -->
-                        <h3 class="wp-block-heading alignwide" style="font-size:60px"><?php echo wp_kses_post(__('Pioneers of Modern <em>Spiritualism</em>', 'seance')); ?></h3>
+                        <h3 class="wp-block-heading alignwide" style="font-size:60px"><?php echo wp_kses_post(__('Pioneers of Modern <em>Spiritualism</em>', 'seancewp')); ?></h3>
                         <!-- /wp:heading -->
                         <!-- wp:paragraph -->
-                        <p><?php echo wp_kses_post(__('In the quaint village of Hydesville, New York, in the late 1840s, we, Margaret, Catherine and Leah Fox, ignited a movement that would reverberate through the annals of history.<br><br>Our mysterious communications with the spirit realm through a series of rappings captured the imagination of a nation, leading to the birth of Modern Spiritualism.', 'seance')); ?></p>
+                        <p><?php echo wp_kses_post(__('In the quaint village of Hydesville, New York, in the late 1840s, we, Margaret, Catherine and Leah Fox, ignited a movement that would reverberate through the annals of history.<br><br>Our mysterious communications with the spirit realm through a series of rappings captured the imagination of a nation, leading to the birth of Modern Spiritualism.', 'seancewp')); ?></p>
                         <!-- /wp:paragraph -->
                         <!-- wp:spacer {"height":"10px"} -->
                         <div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
@@ -163,10 +163,10 @@
                         <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"left"}} -->
                         <div class="wp-block-buttons">
                             <!-- wp:button {"backgroundColor":"foreground","className":"is-style-fill"} -->
-                            <div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-foreground-background-color has-background wp-element-button" href="#"><?php echo esc_html_e('Learn More', 'seance'); ?></a></div>
+                            <div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-foreground-background-color has-background wp-element-button" href="#"><?php echo esc_html_e('Learn More', 'seancewp'); ?></a></div>
                             <!-- /wp:button -->
                             <!-- wp:button {"className":"is-style-outline"} -->
-                            <div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="#"><?php echo esc_html_e('About Us', 'seance'); ?></a></div>
+                            <div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="#"><?php echo esc_html_e('About Us', 'seancewp'); ?></a></div>
                             <!-- /wp:button -->
                         </div>
                         <!-- /wp:buttons -->
@@ -179,7 +179,7 @@
             <!-- wp:column {"verticalAlignment":"center","width":"33.33%","layout":{"type":"default"}} -->
             <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:33.33%">
                 <!-- wp:image {"sizeSlug":"large","linkDestination":"none","style":{"border":{"radius":{"topRight":null,"bottomLeft":null,"bottomRight":null}}}} -->
-                <figure class="wp-block-image size-large"><img src="<?php echo esc_url(get_theme_file_uri("/assets/images/gallery-dark-left.jpg")); ?>" alt="<?php echo esc_html_e('The Fox Sisters', 'seance'); ?>" /></figure>
+                <figure class="wp-block-image size-large"><img src="<?php echo esc_url(get_theme_file_uri("/assets/images/gallery-dark-left.jpg")); ?>" alt="<?php echo esc_html_e('The Fox Sisters', 'seancewp'); ?>" /></figure>
                 <!-- /wp:image -->
             </div>
             <!-- /wp:column -->
@@ -198,10 +198,10 @@
                     <!-- wp:column {"width":"66.66%","style":{"spacing":{"padding":{"left":"0%","top":"5%","bottom":"5%"}}}} -->
                     <div class="wp-block-column" style="padding-top:5%;padding-bottom:5%;padding-left:0%;flex-basis:66.66%">
                         <!-- wp:heading {"level":3,"align":"wide","style":{"typography":{"fontSize":"60px"}}} -->
-                        <h3 class="wp-block-heading alignwide" style="font-size:60px"><?php echo wp_kses_post(__('Pioneers of Modern <em>Spiritualism</em>', 'seance')); ?></h3>
+                        <h3 class="wp-block-heading alignwide" style="font-size:60px"><?php echo wp_kses_post(__('Pioneers of Modern <em>Spiritualism</em>', 'seancewp')); ?></h3>
                         <!-- /wp:heading -->
                         <!-- wp:paragraph -->
-                        <p><?php echo wp_kses_post(__('In the quaint village of Hydesville, New York, in the late 1840s, we, Margaret, Catherine and Leah Fox, ignited a movement that would reverberate through the annals of history.<br><br>Our mysterious communications with the spirit realm through a series of rappings captured the imagination of a nation, leading to the birth of Modern Spiritualism.', 'seance')); ?></p>
+                        <p><?php echo wp_kses_post(__('In the quaint village of Hydesville, New York, in the late 1840s, we, Margaret, Catherine and Leah Fox, ignited a movement that would reverberate through the annals of history.<br><br>Our mysterious communications with the spirit realm through a series of rappings captured the imagination of a nation, leading to the birth of Modern Spiritualism.', 'seancewp')); ?></p>
                         <!-- /wp:paragraph -->
                         <!-- wp:spacer {"height":"10px"} -->
                         <div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
@@ -209,10 +209,10 @@
                         <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"left"}} -->
                         <div class="wp-block-buttons">
                             <!-- wp:button {"backgroundColor":"foreground"} -->
-                            <div class="wp-block-button"><a class="wp-block-button__link has-foreground-background-color has-background wp-element-button" href="#"><?php echo esc_html_e('Learn More', 'seance'); ?></a></div>
+                            <div class="wp-block-button"><a class="wp-block-button__link has-foreground-background-color has-background wp-element-button" href="#"><?php echo esc_html_e('Learn More', 'seancewp'); ?></a></div>
                             <!-- /wp:button -->
                             <!-- wp:button {"className":"is-style-outline"} -->
-                            <div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="#"><?php echo esc_html_e('About Us', 'seance'); ?></a></div>
+                            <div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="#"><?php echo esc_html_e('About Us', 'seancewp'); ?></a></div>
                             <!-- /wp:button -->
                         </div>
                         <!-- /wp:buttons -->
@@ -225,7 +225,7 @@
             <!-- wp:column {"verticalAlignment":"center","width":"33.33%","layout":{"type":"default"}} -->
             <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:33.33%">
                 <!-- wp:image {"sizeSlug":"large","linkDestination":"none","style":{"border":{"radius":{"topRight":null,"bottomLeft":null,"bottomRight":null}}}} -->
-                <figure class="wp-block-image size-large"><img src="<?php echo esc_url(get_theme_file_uri("/assets/images/poster-light-left.jpg")); ?>" alt="<?php echo esc_html_e('The Fox Sisters', 'seance'); ?>" /></figure>
+                <figure class="wp-block-image size-large"><img src="<?php echo esc_url(get_theme_file_uri("/assets/images/poster-light-left.jpg")); ?>" alt="<?php echo esc_html_e('The Fox Sisters', 'seancewp'); ?>" /></figure>
                 <!-- /wp:image -->
             </div>
             <!-- /wp:column -->
@@ -240,7 +240,7 @@
             <!-- wp:column {"verticalAlignment":"center","width":"33.33%","layout":{"type":"default"}} -->
             <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:33.33%">
                 <!-- wp:image {"sizeSlug":"large","linkDestination":"none","style":{"border":{"radius":{"topRight":null,"bottomLeft":null,"bottomRight":null}}}} -->
-                <figure class="wp-block-image size-large"><img src="<?php echo esc_url(get_theme_file_uri("/assets/images/gallery-dark-left.jpg")); ?>" alt="<?php echo esc_html_e('The Fox Sisters', 'seance'); ?>" /></figure>
+                <figure class="wp-block-image size-large"><img src="<?php echo esc_url(get_theme_file_uri("/assets/images/gallery-dark-left.jpg")); ?>" alt="<?php echo esc_html_e('The Fox Sisters', 'seancewp'); ?>" /></figure>
                 <!-- /wp:image -->
             </div>
             <!-- /wp:column -->
@@ -251,10 +251,10 @@
                     <!-- wp:column {"width":"","style":{"spacing":{"padding":{"top":"5%","bottom":"5%","left":"0","right":"15%"}}}} -->
                     <div class="wp-block-column" style="padding-top:5%;padding-right:15%;padding-bottom:5%;padding-left:0">
                         <!-- wp:heading {"level":3,"align":"wide","style":{"typography":{"fontSize":"60px"}}} -->
-                        <h3 class="wp-block-heading alignwide" style="font-size:60px"><?php echo wp_kses_post(__('Pioneers of Modern <em>Spiritualism</em>', 'seance')); ?></h3>
+                        <h3 class="wp-block-heading alignwide" style="font-size:60px"><?php echo wp_kses_post(__('Pioneers of Modern <em>Spiritualism</em>', 'seancewp')); ?></h3>
                         <!-- /wp:heading -->
                         <!-- wp:paragraph -->
-                        <p><?php echo wp_kses_post(__('In the quaint village of Hydesville, New York, in the late 1840s, we, Margaret, Catherine and Leah Fox, ignited a movement that would reverberate through the annals of history.<br><br>Our mysterious communications with the spirit realm through a series of rappings captured the imagination of a nation, leading to the birth of Modern Spiritualism.', 'seance')); ?></p>
+                        <p><?php echo wp_kses_post(__('In the quaint village of Hydesville, New York, in the late 1840s, we, Margaret, Catherine and Leah Fox, ignited a movement that would reverberate through the annals of history.<br><br>Our mysterious communications with the spirit realm through a series of rappings captured the imagination of a nation, leading to the birth of Modern Spiritualism.', 'seancewp')); ?></p>
                         <!-- /wp:paragraph -->
                         <!-- wp:spacer {"height":"10px"} -->
                         <div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
@@ -262,10 +262,10 @@
                         <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"left"}} -->
                         <div class="wp-block-buttons">
                             <!-- wp:button {"textColor":"foreground"} -->
-                            <div class="wp-block-button"><a class="wp-block-button__link has-foreground-color has-text-color wp-element-button" href="#"><?php echo esc_html_e('Learn More', 'seance'); ?></a></div>
+                            <div class="wp-block-button"><a class="wp-block-button__link has-foreground-color has-text-color wp-element-button" href="#"><?php echo esc_html_e('Learn More', 'seancewp'); ?></a></div>
                             <!-- /wp:button -->
                             <!-- wp:button {"className":"is-style-outline"} -->
-                            <div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="#"><?php echo esc_html_e('About Us', 'seance'); ?></a></div>
+                            <div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="#"><?php echo esc_html_e('About Us', 'seancewp'); ?></a></div>
                             <!-- /wp:button -->
                         </div>
                         <!-- /wp:buttons -->
@@ -286,16 +286,16 @@
             <!-- wp:column {"style":{"spacing":{"padding":{"top":"8rem","right":"0rem","bottom":"8rem","left":"0rem"}}}} -->
             <div class="wp-block-column" style="padding-top:8rem;padding-right:0rem;padding-bottom:8rem;padding-left:0rem">
                 <!-- wp:image {"sizeSlug":"large"} -->
-                <figure class="wp-block-image size-large"><img src="<?php echo esc_url(get_theme_file_uri("/assets/images/poster-light-left.jpg")); ?>" alt="<?php echo esc_html_e('The Fox Sisters', 'seance'); ?>" /></figure>
+                <figure class="wp-block-image size-large"><img src="<?php echo esc_url(get_theme_file_uri("/assets/images/poster-light-left.jpg")); ?>" alt="<?php echo esc_html_e('The Fox Sisters', 'seancewp'); ?>" /></figure>
                 <!-- /wp:image -->
                 <!-- wp:spacer {"height":"30px"} -->
                 <div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
                 <!-- /wp:spacer -->
                 <!-- wp:heading {"fontSize":"x-large"} -->
-                <h2 class="wp-block-heading has-x-large-font-size" id="spiritual-summit"><?php echo esc_html_e('Spiritual Summit', 'seance'); ?></h2>
+                <h2 class="wp-block-heading has-x-large-font-size" id="spiritual-summit"><?php echo esc_html_e('Spiritual Summit', 'seancewp'); ?></h2>
                 <!-- /wp:heading -->
                 <!-- wp:paragraph -->
-                <p><?php echo wp_kses_post(__('March 31, 1848 @ 7:00PM<br>Hydesville Memorial Park<br>1510 Hydesville Road, Newark<br>NY 14513', 'seance')); ?></p>
+                <p><?php echo wp_kses_post(__('March 31, 1848 @ 7:00PM<br>Hydesville Memorial Park<br>1510 Hydesville Road, Newark<br>NY 14513', 'seancewp')); ?></p>
                 <!-- /wp:paragraph -->
                 <!-- wp:spacer {"height":"8px"} -->
                 <div style="height:8px" aria-hidden="true" class="wp-block-spacer"></div>
@@ -305,7 +305,7 @@
                 <!-- /wp:spacer -->
                 <!-- wp:buttons -->
                 <div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"foreground"} -->
-                    <div class="wp-block-button"><a class="wp-block-button__link has-foreground-background-color has-background wp-element-button"><?php echo esc_html_e('Buy Tickets', 'seance'); ?></a></div>
+                    <div class="wp-block-button"><a class="wp-block-button__link has-foreground-background-color has-background wp-element-button"><?php echo esc_html_e('Buy Tickets', 'seancewp'); ?></a></div>
                     <!-- /wp:button -->
                 </div>
                 <!-- /wp:buttons -->
@@ -314,16 +314,16 @@
             <!-- wp:column {"style":{"spacing":{"padding":{"top":"8rem","right":"0rem","bottom":"8rem","left":"0rem"}}}} -->
             <div class="wp-block-column" style="padding-top:8rem;padding-right:0rem;padding-bottom:8rem;padding-left:0rem">
                 <!-- wp:image {"sizeSlug":"large"} -->
-                <figure class="wp-block-image size-large"><img src="<?php echo esc_url(get_theme_file_uri("/assets/images/poster-light-right.jpg")); ?>" alt="<?php echo esc_html_e('The Fox Sisters', 'seance'); ?>" /></figure>
+                <figure class="wp-block-image size-large"><img src="<?php echo esc_url(get_theme_file_uri("/assets/images/poster-light-right.jpg")); ?>" alt="<?php echo esc_html_e('The Fox Sisters', 'seancewp'); ?>" /></figure>
                 <!-- /wp:image -->
                 <!-- wp:spacer {"height":"30px"} -->
                 <div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
                 <!-- /wp:spacer -->
                 <!-- wp:heading {"fontSize":"x-large"} -->
-                <h2 class="wp-block-heading has-x-large-font-size" id="ethereal-echoes"><?php echo esc_html_e('Ethereal Echoes', 'seance'); ?></h2>
+                <h2 class="wp-block-heading has-x-large-font-size" id="ethereal-echoes"><?php echo esc_html_e('Ethereal Echoes', 'seancewp'); ?></h2>
                 <!-- /wp:heading -->
                 <!-- wp:paragraph -->
-                <p><?php echo wp_kses_post(__('November 14, 1888 @ 7:00PM<br>Cypress Hills Cemetery<br>833 Jamaica Avenue<br>Brooklyn, NY 11208', 'seance')); ?></p>
+                <p><?php echo wp_kses_post(__('November 14, 1888 @ 7:00PM<br>Cypress Hills Cemetery<br>833 Jamaica Avenue<br>Brooklyn, NY 11208', 'seancewp')); ?></p>
                 <!-- /wp:paragraph -->
                 <!-- wp:spacer {"height":"8px"} -->
                 <div style="height:8px" aria-hidden="true" class="wp-block-spacer"></div>
@@ -334,7 +334,7 @@
                 <!-- wp:buttons -->
                 <div class="wp-block-buttons">
                     <!-- wp:button {"backgroundColor":"foreground"} -->
-                    <div class="wp-block-button"><a class="wp-block-button__link has-foreground-background-color has-background wp-element-button"><?php echo esc_html_e('Buy Tickets', 'seance'); ?></a></div>
+                    <div class="wp-block-button"><a class="wp-block-button__link has-foreground-background-color has-background wp-element-button"><?php echo esc_html_e('Buy Tickets', 'seancewp'); ?></a></div>
                     <!-- /wp:button -->
                 </div>
                 <!-- /wp:buttons -->
@@ -351,7 +351,7 @@
             <!-- wp:column {"verticalAlignment":"center","width":"33.33%","layout":{"type":"default"}} -->
             <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:33.33%">
                 <!-- wp:image {"className":"size-large"} -->
-                <figure class="wp-block-image size-large"><img src="<?php echo esc_url(get_theme_file_uri("/assets/images/poster-light-left.jpg")); ?>" alt="<?php echo esc_html_e('The Fox Sisters', 'seance'); ?>" /></figure>
+                <figure class="wp-block-image size-large"><img src="<?php echo esc_url(get_theme_file_uri("/assets/images/poster-light-left.jpg")); ?>" alt="<?php echo esc_html_e('The Fox Sisters', 'seancewp'); ?>" /></figure>
                 <!-- /wp:image -->
             </div>
             <!-- /wp:column -->
@@ -362,10 +362,10 @@
                     <!-- wp:column {"width":"","style":{"spacing":{"padding":{"top":"5%","bottom":"5%","left":"5%"}}}} -->
                     <div class="wp-block-column" style="padding-top:5%;padding-bottom:5%;padding-left:5%">
                         <!-- wp:heading {"level":3,"align":"wide","style":{"typography":{"fontSize":"60px"}}} -->
-                        <h3 class="wp-block-heading alignwide" style="font-size:60px"><?php echo wp_kses_post(__('Pioneers of Modern <em>Spiritualism</em>', 'seance')); ?></h3>
+                        <h3 class="wp-block-heading alignwide" style="font-size:60px"><?php echo wp_kses_post(__('Pioneers of Modern <em>Spiritualism</em>', 'seancewp')); ?></h3>
                         <!-- /wp:heading -->
                         <!-- wp:paragraph -->
-                        <p><?php echo wp_kses_post(__('In the quaint village of Hydesville, New York, in the late 1840s, we, Margaret, Catherine and Leah Fox, ignited a movement that would reverberate through the annals of history.<br><br>Our mysterious communications with the spirit realm through a series of rappings captured the imagination of a nation, leading to the birth of Modern Spiritualism.', 'seance')); ?></p>
+                        <p><?php echo wp_kses_post(__('In the quaint village of Hydesville, New York, in the late 1840s, we, Margaret, Catherine and Leah Fox, ignited a movement that would reverberate through the annals of history.<br><br>Our mysterious communications with the spirit realm through a series of rappings captured the imagination of a nation, leading to the birth of Modern Spiritualism.', 'seancewp')); ?></p>
                         <!-- /wp:paragraph -->
                         <!-- wp:spacer {"height":"10px"} -->
                         <div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
@@ -373,10 +373,10 @@
                         <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"left"}} -->
                         <div class="wp-block-buttons">
                             <!-- wp:button {"backgroundColor":"foreground"} -->
-                            <div class="wp-block-button"><a class="wp-block-button__link has-foreground-background-color has-background wp-element-button" href="#"><?php echo esc_html_e('Learn More', 'seance'); ?></a></div>
+                            <div class="wp-block-button"><a class="wp-block-button__link has-foreground-background-color has-background wp-element-button" href="#"><?php echo esc_html_e('Learn More', 'seancewp'); ?></a></div>
                             <!-- /wp:button -->
                             <!-- wp:button {"className":"is-style-outline"} -->
-                            <div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="#"><?php echo esc_html_e('About Us', 'seance'); ?></a></div>
+                            <div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="#"><?php echo esc_html_e('About Us', 'seancewp'); ?></a></div>
                             <!-- /wp:button -->
                         </div>
                         <!-- /wp:buttons -->
@@ -394,7 +394,7 @@
     <div class="wp-block-group alignfull" style="margin-top:0;margin-bottom:0">
         <!-- wp:media-text {"align":"full","mediaLink":"<?php echo esc_url(get_theme_file_uri("/assets/images/about-dark-left.jpg")); ?>","mediaType":"image","style":{"elements":{"link":{"color":{"text":"var:preset|color|background"}}}},"backgroundColor":"foreground","textColor":"background","className":"has-media-on-the-left"} -->
         <div class="wp-block-media-text alignfull is-stacked-on-mobile has-media-on-the-left has-background-color has-foreground-background-color has-text-color has-background has-link-color">
-            <figure class="wp-block-media-text__media"><img src="<?php echo esc_url(get_theme_file_uri("/assets/images/about-dark-left.jpg")); ?>" alt="<?php echo esc_html_e('The Fox Sisters', 'seance'); ?>" /></figure>
+            <figure class="wp-block-media-text__media"><img src="<?php echo esc_url(get_theme_file_uri("/assets/images/about-dark-left.jpg")); ?>" alt="<?php echo esc_html_e('The Fox Sisters', 'seancewp'); ?>" /></figure>
             <div class="wp-block-media-text__content">
                 <!-- wp:spacer {"height":"32px"} -->
                 <div style="height:32px" aria-hidden="true" class="wp-block-spacer"></div>
@@ -402,10 +402,10 @@
                 <!-- wp:group {"style":{"spacing":{"padding":{"right":"min(8rem, 5vw)","top":"min(20rem, 20vw)"}}}} -->
                 <div class="wp-block-group" style="padding-top:min(20rem, 20vw);padding-right:min(8rem, 5vw)">
                     <!-- wp:heading {"style":{"typography":{"fontWeight":"300","lineHeight":"1.115","fontSize":"clamp(3rem, 6vw, 4.5rem)"}}} -->
-                    <h2 class="wp-block-heading" style="font-size:clamp(3rem, 6vw, 4.5rem);font-weight:300;line-height:1.115"><em><?php echo wp_kses_post(__('The Fox<br>Sisters', 'seance')); ?></em></h2>
+                    <h2 class="wp-block-heading" style="font-size:clamp(3rem, 6vw, 4.5rem);font-weight:300;line-height:1.115"><em><?php echo wp_kses_post(__('The Fox<br>Sisters', 'seancewp')); ?></em></h2>
                     <!-- /wp:heading -->
                     <!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.6"}}} -->
-                    <p style="line-height:1.6"><?php echo wp_kses_post(__('We are Margaret, Catherine, and Leah Fox, renowned spiritual mediums from a bygone era, now embracing the digital age. With our unique abilities, we have connected countless souls with the messages of the spirit world.', 'seance')); ?></p>
+                    <p style="line-height:1.6"><?php echo wp_kses_post(__('We are Margaret, Catherine, and Leah Fox, renowned spiritual mediums from a bygone era, now embracing the digital age. With our unique abilities, we have connected countless souls with the messages of the spirit world.', 'seancewp')); ?></p>
                     <!-- /wp:paragraph -->
                     <!-- wp:spacer {"height":"40px"} -->
                     <div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
