@@ -173,11 +173,12 @@ footer.wp-block-template-part {
 	margin-top: 0rem !important;
 }
 
-@media (max-width: 360px) {
+@media (max-width: 768px) {
     /* This media query targets devices with a viewport width of 360 pixels or less */
     .wp-block-group.has-responsive-dark-background {
-        /* This selector targets elements with both the classes 'wp-block-group' and 'has-responsive-dark-background' */
-        background-color: var(--wp--preset--color--primary);
-        /* The background color of the targeted elements is set to the value of the custom CSS variable '--wp--preset--color--primary' */
+        background: #0f0f10 !important;
+    }
+    .wp-block-group.has-responsive-light-background {
+        background: #f9f9f9 !important;
     }
 }
