@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Posts light irregular grid with media, title, excerpt, and date
- * Slug: seance/posts-light-irregular-grid
+ * Slug: seancewp/posts-light-irregular-grid
  * Categories: query, text, blog, posts, grid
  * Description: Irregular posts grid on a light block pattern
  * Keywords: query, text, blog, posts, grid, image
@@ -10,7 +10,7 @@
  * Post Types:
  * Inserter: true
  * 
- * @package seance
+ * @package seancewp
  * @since 1.0.0
  */
 ?>
