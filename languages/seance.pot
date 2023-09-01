@@ -3,7 +3,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Séance 1.0.0-alpha.1\n"
-"Report-Msgid-Bugs-To: https://github.com/alexdeborba/seance/issues\n"
+"Report-Msgid-Bugs-To: https://github.com/alexdeborba/seancewp/issues\n"
 "Last-Translator: Alex de Borba <mail@alexdeborba.com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -12,14 +12,14 @@ msgstr ""
 "POT-Creation-Date: 2023-08-18T04:30:31+00:00\n"
 "PO-Revision-Date: 2023-08-31 02:48:22+00:00\n"
 "X-Generator: WP-CLI 2.6.0\n"
-"X-Domain: seance\n"
+"X-Domain: seancewp\n"
 
 #. Theme Name of the theme
 msgid "Séance"
 msgstr ""
 
 #. Theme URI of the theme
-msgid "https://github.com/alexdeborba/seancewp/"
+msgid "https://github.com/alexdeborba/seancewpwp/"
 msgstr ""
 
 #. Description of the theme
