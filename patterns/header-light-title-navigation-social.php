@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Header with site title, navigation, and social icons on light background
- * Slug: seance/header-light-title-navigation-social
+ * Slug: seancewp/header-light-title-navigation-social
  * Categories: header
  * Description: Header with site title, navigation, and social icons on light background block pattern
  * Keywords: header, navigation, social
@@ -10,7 +10,7 @@
  * Post Types: wp_template
  * Inserter: true
  * 
- * @package seance
+ * @package seancewp
  * @since 1.0.0
  */
 ?>
