@@ -1,16 +1,16 @@
 <?php
 /**
  * Title: Footer dark with site title, tagline, and social icons
- * Slug: seance/footer-dark-title-tagline-social
+ * Slug: seancewp/footer-dark-title-tagline-social
  * Categories: footer
- * Description: Footer with site title, tagline, and icons in a dark block pattern
+ * Description: Footer with site title, tagline, and icons on a dark block pattern
  * Keywords: footer, title, tagline, social
  * Viewport Width: 1500
  * Block Types: core/template-part/footer
  * Post Types: wp_template
  * Inserter: true
  * 
- * @package seance
+ * @package seancewp
  * @since 1.0.0
  */
 ?>
