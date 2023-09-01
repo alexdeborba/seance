@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Footer light with social icons, and copyright
- * Slug: seance/footer-light-social-copyright
+ * Slug: seancewp/footer-light-social-copyright
  * Categories: footer
  * Description: Footer with social icons and copyright on a light block pattern
  * Keywords: footer, social, icons, copyright
@@ -10,7 +10,7 @@
  * Post Types: wp_template
  * Inserter: true
  * 
- * @package seance
+ * @package seancewp
  * @since 1.0.0
  */
 ?>
@@ -33,7 +33,7 @@
         <div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
         <!-- /wp:spacer -->
         <!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"16px"}}} -->
-        <p class="has-text-align-center" style="font-size:16px"><?php echo esc_html__('© Site Title', 'seance'); ?></p>
+        <p class="has-text-align-center" style="font-size:16px"><?php echo esc_html__('© Site Title', 'seancewp'); ?></p>
         <!-- /wp:paragraph -->
     </div>
     <!-- /wp:group -->
