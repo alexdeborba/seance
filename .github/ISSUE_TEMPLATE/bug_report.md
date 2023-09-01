@@ -42,7 +42,7 @@ If applicable, add screenshots to help explain your problem.
 - Active Plugins: [e.g. Classic Editor]
 
 ## WordPress Environment (please complete the following information):
-- PHP version: [e.g. 8.0]
+- PHP Version: [e.g. 8.0]
 - PHP Max Input Variables: [e.g. 10000]
 - PHP Time Limit: [e.g. 300]
 - PHP Memory Limit: [e.g. 256M]
