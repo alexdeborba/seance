@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Header dark with site logo, navigation, and social icons
- * Slug: seance/header-dark-logo-navigation-social
+ * Slug: seancewp/header-dark-logo-navigation-social
  * Categories: header
  * Description: Dark Header with Site Logo, Navigation, and Social Icons
  * Keywords: header, buttons
@@ -10,7 +10,7 @@
  * Post Types: wp_template
  * Inserter: true
  * 
- * @package seance
+ * @package seancewp
  * @since 1.0.0
  */
 ?>
