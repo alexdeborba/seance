@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Footer dark with site title and copyright
- * Slug: seance/footer-dark
+ * Slug: seancewp/footer-dark
  * Categories: footer
  * Description: Footer in a dark block pattern
  * Keywords: footer
@@ -10,7 +10,7 @@
  * Post Types: wp_template
  * Inserter: true
  * 
- * @package seance
+ * @package seancewp
  * @since 1.0.0
  */
 ?>
@@ -24,9 +24,9 @@
         <p class="has-text-align-right">
             <?php
             /* Translators: WordPress link. */
-            $wordpress_link = '<a href="' . esc_url(__('https://wordpress.org', 'seance')) . '" rel="nofollow">WordPress</a>';
+            $wordpress_link = '<a href="' . esc_url(__('https://wordpress.org', 'seancewp')) . '" rel="nofollow">WordPress</a>';
             echo sprintf(
-                esc_html__('Proudly powered by %1$s', 'seance'),
+                esc_html__('Proudly powered by %1$s', 'seancewp'),
                 $wordpress_link
             );
             ?>
