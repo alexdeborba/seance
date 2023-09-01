@@ -35,7 +35,6 @@ If applicable, add screenshots to help explain your problem.
  - Version [e.g. 22]
 
 **Theme (please complete the following information)**
-Please complete the following information.
 
  - OS: [e.g. iOS]
  - Browser: [e.g. chrome, safari]
