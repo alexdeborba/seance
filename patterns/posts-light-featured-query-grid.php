@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Posts light with heading, title, featured image, excerpt, and date
- * Slug: seance/posts-light-featured-query-grid
+ * Slug: seancewp/posts-light-featured-query-grid
  * Categories: featured, query, posts, media
  * Description: Featured posts in a light block pattern
  * Keywords: query, posts, featured
@@ -10,7 +10,7 @@
  * Post Types:
  * Inserter: true
  * 
- * @package seance
+ * @package seancewp
  * @since 1.0.0
  */
 ?>
@@ -18,7 +18,7 @@
 <!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"var(--wp--custom--spacing--large, 8rem)","bottom":"var(--wp--custom--spacing--large, 8rem)"}}},"layout":{"inherit":false}} -->
 <div class="wp-block-group alignwide">
     <!-- wp:paragraph {"style":{"typography":{"textTransform":"uppercase"}}} -->
-    <p style="text-transform:uppercase"><?php echo esc_html_e('Latest Posts', 'seance'); ?></p>
+    <p style="text-transform:uppercase"><?php echo esc_html_e('Latest Posts', 'seancewp'); ?></p>
     <!-- /wp:paragraph -->
     <!-- wp:query {"query":{"perPage":3,"pages":0,"offset":0,"postType":"post","categoryIds":[],"tagIds":[],"order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false},"displayLayout":{"type":"flex","columns":3}} -->
     <div class="wp-block-query">
