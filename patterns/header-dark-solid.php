@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Header dark solid background
- * Slug: seance/header-dark-solid
+ * Slug: seancewp/header-dark-solid
  * Categories: header
  * Description: Header with large dark block pattern
  * Keywords: page, layout, design, template, image, buttons
@@ -10,7 +10,7 @@
  * Post Types: wp_template
  * Inserter: true
  * 
- * @package seance
+ * @package seancewp
  * @since 1.0.0
  */
 ?>
@@ -33,7 +33,7 @@
         </div>
         <!-- /wp:group -->
         <!-- wp:heading {"align":"wide","style":{"typography":{"fontSize":"clamp(3.25rem, 8vw, 6.25rem)","lineHeight":"1.15"}}} -->
-        <h2 class="alignwide" style="font-size:clamp(3.25rem, 8vw, 6.25rem);line-height:1.15"><?php echo wp_kses_post(__('<em>Séance</em>: A Theme Born Out of Love and Death…', 'seance')) ?></h2>
+        <h2 class="alignwide" style="font-size:clamp(3.25rem, 8vw, 6.25rem);line-height:1.15"><?php echo wp_kses_post(__('<em>Séance</em>: A Theme Born Out of Love and Death…', 'seancewp')) ?></h2>
         <!-- /wp:heading -->
         <!-- wp:spacer {"height":76} -->
         <div style="height:76px" aria-hidden="true" class="wp-block-spacer"></div>
