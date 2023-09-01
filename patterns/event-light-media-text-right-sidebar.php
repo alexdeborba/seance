@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Event light session with media on the left, and date, name, location on right sidebar
- * Slug: seance/event-light-media-text-right-sidebar
+ * Slug: seancewp/event-light-media-text-right-sidebar
  * Categories: text, media, sidebar
  * Description: Event session with right sidebar on light block pattern
  * Keywords: text, media, sidebar
@@ -10,7 +10,7 @@
  * Post Types:
  * Inserter: true
  * 
- * @package seance
+ * @package seancewp
  * @since 1.0.0
  */
 ?>
@@ -22,7 +22,7 @@
         <!-- wp:column {"width":"70%"} -->
         <div class="wp-block-column" style="flex-basis:70%">
             <!-- wp:heading {"level":1,"align":"wide","style":{"typography":{"fontSize":"clamp(3rem, 6vw, 4.5rem)"},"spacing":{"margin":{"bottom":"0px"}}}} -->
-            <h1 class="alignwide" style="font-size:clamp(3rem, 6vw, 4.5rem);margin-bottom:0px"><?php echo wp_kses_post(__('<em>Hydesville Hauntings:</em> Fox Sisters\' Paranormal Parley', 'seance')); ?></h1>
+            <h1 class="alignwide" style="font-size:clamp(3rem, 6vw, 4.5rem);margin-bottom:0px"><?php echo wp_kses_post(__('<em>Hydesville Hauntings:</em> Fox Sisters\' Paranormal Parley', 'seancewp')); ?></h1>
             <!-- /wp:heading -->
         </div>
         <!-- /wp:column -->
@@ -36,7 +36,7 @@
         <!-- wp:column {"width":"70%","style":{"spacing":{"padding":{"bottom":"32px"}}}} -->
         <div class="wp-block-column" style="padding-bottom:32px;flex-basis:70%">
             <!-- wp:image {"sizeSlug":"full","linkDestination":"none"} -->
-            <figure class="wp-block-image size-full"><img src="<?php echo esc_url(get_theme_file_uri("/assets/images/poster-session-duotone.jpg")); ?>" alt="<?php echo esc_html_e('The Fox Sisters', 'seance'); ?>" /></figure>
+            <figure class="wp-block-image size-full"><img src="<?php echo esc_url(get_theme_file_uri("/assets/images/poster-session-duotone.jpg")); ?>" alt="<?php echo esc_html_e('The Fox Sisters', 'seancewp'); ?>" /></figure>
             <!-- /wp:image -->
         </div>
         <!-- /wp:column -->
@@ -46,10 +46,10 @@
             <div style="height:16px" aria-hidden="true" class="wp-block-spacer"></div>
             <!-- /wp:spacer -->
             <!-- wp:heading {"level":3,"fontSize":"large"} -->
-            <h3 class="has-large-font-size"><em><?php echo esc_html_e('Event', 'seance'); ?></em></h3>
+            <h3 class="has-large-font-size"><em><?php echo esc_html_e('Event', 'seancewp'); ?></em></h3>
             <!-- /wp:heading -->
             <!-- wp:paragraph -->
-            <p><?php echo esc_html_e('Private Séance Session', 'seance'); ?></p>
+            <p><?php echo esc_html_e('Private Séance Session', 'seancewp'); ?></p>
             <!-- /wp:paragraph -->
             <!-- wp:separator {"color":"foreground","className":"is-style-wide"} -->
             <hr class="wp-block-separator has-text-color has-background has-foreground-background-color has-foreground-color is-style-wide" />
@@ -58,10 +58,10 @@
             <div style="height:16px" aria-hidden="true" class="wp-block-spacer"></div>
             <!-- /wp:spacer -->
             <!-- wp:heading {"level":3,"fontSize":"large"} -->
-            <h3 class="has-large-font-size"><em><?php esc_html_e('Hosts', 'seance'); ?></em></h3>
+            <h3 class="has-large-font-size"><em><?php esc_html_e('Hosts', 'seancewp'); ?></em></h3>
             <!-- /wp:heading -->
             <!-- wp:paragraph -->
-            <p><?php esc_html_e('Margaret, Catherine, and Leah Fox', 'seance'); ?></p>
+            <p><?php esc_html_e('Margaret, Catherine, and Leah Fox', 'seancewp'); ?></p>
             <!-- /wp:paragraph -->
             <!-- wp:separator {"color":"foreground","className":"is-style-wide"} -->
             <hr class="wp-block-separator has-text-color has-background has-foreground-background-color has-foreground-color is-style-wide" />
@@ -70,10 +70,10 @@
             <div style="height:16px" aria-hidden="true" class="wp-block-spacer"></div>
             <!-- /wp:spacer -->
             <!-- wp:heading {"level":3,"fontSize":"large"} -->
-            <h3 class="has-large-font-size"><em><?php echo esc_html_e('Date', 'seance'); ?></em></h3>
+            <h3 class="has-large-font-size"><em><?php echo esc_html_e('Date', 'seancewp'); ?></em></h3>
             <!-- /wp:heading -->
             <!-- wp:paragraph -->
-            <p><?php esc_html_e('March 31, 1848', 'seance'); ?></p>
+            <p><?php esc_html_e('March 31, 1848', 'seancewp'); ?></p>
             <!-- /wp:paragraph -->
             <!-- wp:separator {"color":"foreground","className":"is-style-wide"} -->
             <hr class="wp-block-separator has-text-color has-background has-foreground-background-color has-foreground-color is-style-wide" />
@@ -82,10 +82,10 @@
             <div style="height:16px" aria-hidden="true" class="wp-block-spacer"></div>
             <!-- /wp:spacer -->
             <!-- wp:heading {"level":3,"fontSize":"large"} -->
-            <h3 class="has-large-font-size"><em><?php esc_html_e('Location', 'seance'); ?></em></h3>
+            <h3 class="has-large-font-size"><em><?php esc_html_e('Location', 'seancewp'); ?></em></h3>
             <!-- /wp:heading -->
             <!-- wp:paragraph -->
-            <p><?php echo wp_kses_post(__('Hydesville Memorial Park<br>1510 Hydesville Road<br>Newark NY 14513', 'seance')); ?></p>
+            <p><?php echo wp_kses_post(__('Hydesville Memorial Park<br>1510 Hydesville Road<br>Newark NY 14513', 'seancewp')); ?></p>
             <!-- /wp:paragraph -->
             <!-- wp:spacer {"height":16} -->
             <div style="height:16px" aria-hidden="true" class="wp-block-spacer"></div>
