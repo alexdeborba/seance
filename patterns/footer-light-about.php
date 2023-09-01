@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Footer light with site title, site logo, heading and paragraph
- * Slug: seance/footer-light-about
+ * Slug: seancewp/footer-light-about
  * Categories: footer
  * Description: Footer with about paragraph on a light block pattern
  * Keywords: footer
@@ -10,7 +10,7 @@
  * Post Types: wp_template
  * Inserter: true
  * 
- * @package seance
+ * @package seancewp
  * @since 1.0.0
  */
 ?>
@@ -22,10 +22,10 @@
         <!-- wp:column {"width":"33%"} -->
         <div class="wp-block-column" style="flex-basis:33%">
             <!-- wp:paragraph {"style":{"typography":{"textTransform":"uppercase"}}} -->
-            <p style="text-transform:uppercase"><?php echo esc_html_e('About Us', 'seance'); ?></p>
+            <p style="text-transform:uppercase"><?php echo esc_html_e('About Us', 'seancewp'); ?></p>
             <!-- /wp:paragraph -->
             <!-- wp:paragraph {"style":{"fontSize":"small"} -->
-            <p class="has-small-font-size"><?php echo esc_html_e('We are the Fox sisters, Margaret, Catherine, and Leah. Hailing from Hydesville, New York, our lives took a mystifying turn in 1848 when we discovered our unique connection to the spirit realm.', 'seance'); ?></p>
+            <p class="has-small-font-size"><?php echo esc_html_e('We are the Fox sisters, Margaret, Catherine, and Leah. Hailing from Hydesville, New York, our lives took a mystifying turn in 1848 when we discovered our unique connection to the spirit realm.', 'seancewp'); ?></p>
             <!-- /wp:paragraph -->
             <!-- wp:spacer {"height":180} -->
             <div style="height:180px" aria-hidden="true" class="wp-block-spacer"></div>
