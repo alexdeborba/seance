@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Header with site title on the left, centered logo, navigation on the right
- * Slug: seance/header-dark-logo-centered
+ * Slug: seancewp/header-dark-logo-centered
  * Categories: header
  * Description: Header with centered logo on a dark block pattern
  * Keywords: header, logo, navigation
@@ -10,7 +10,7 @@
  * Post Types: wp_template
  * Inserter: true
  * 
- * @package seance
+ * @package seancewp
  * @since 1.0.0
  */
 ?>
