@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Media duotone on the left with heading, text, buttons on the right
- * Slug: seance/media-duotone-left-text-buttons-right-columns
+ * Slug: seancewp/media-duotone-left-text-buttons-right-columns
  * Categories: posts
  * Description: Grouped text, buttons and media on a duotone block pattern
  * Keywords: buttons, text, media, columns
@@ -10,7 +10,7 @@
  * Post Types:
  * Inserter: true
  * 
- * @package seance
+ * @package seancewp
  * @since 1.0.0
  */
 ?>
@@ -22,7 +22,7 @@
         <!-- wp:column {"verticalAlignment":"center","width":"33.33%","layout":{"type":"default"}} -->
         <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:33.33%">
             <!-- wp:image {"id":1798,"sizeSlug":"large","linkDestination":"none","style":{"border":{"radius":{"topRight":null,"bottomLeft":null,"bottomRight":null}}}} -->
-            <figure class="wp-block-image size-large"><img src="<?php echo esc_url(get_theme_file_uri("/assets/images/gallery-dark-left.jpg")); ?>" alt="<?php echo esc_html_e('The Fox Sisters', 'seance'); ?>" /></figure>
+            <figure class="wp-block-image size-large"><img src="<?php echo esc_url(get_theme_file_uri("/assets/images/gallery-dark-left.jpg")); ?>" alt="<?php echo esc_html_e('The Fox Sisters', 'seancewp'); ?>" /></figure>
             <!-- /wp:image -->
         </div>
         <!-- /wp:column -->
@@ -33,10 +33,10 @@
                 <!-- wp:column {"width":"","style":{"spacing":{"padding":{"top":"5%","bottom":"5%","left":"0"}}}} -->
                 <div class="wp-block-column" style="padding-top:5%;padding-bottom:5%;padding-left:0">
                     <!-- wp:heading {"level":3,"align":"wide","style":{"typography":{"fontSize":"60px"}}} -->
-                    <h3 class="wp-block-heading alignwide" style="font-size:60px"><?php echo wp_kses_post(__('Pioneers of Modern <em>Spiritualism</em>', 'seance')); ?></h3>
+                    <h3 class="wp-block-heading alignwide" style="font-size:60px"><?php echo wp_kses_post(__('Pioneers of Modern <em>Spiritualism</em>', 'seancewp')); ?></h3>
                     <!-- /wp:heading -->
                     <!-- wp:paragraph -->
-                    <p><?php echo wp_kses_post(__('In the quaint village of Hydesville, New York, in the late 1840s, we, Margaret, Catherine and Leah Fox, ignited a movement that would reverberate through the annals of history.<br><br>Our mysterious communications with the spirit realm through a series of rappings captured the imagination of a nation, leading to the birth of Modern Spiritualism.', 'seance')); ?></p>
+                    <p><?php echo wp_kses_post(__('In the quaint village of Hydesville, New York, in the late 1840s, we, Margaret, Catherine and Leah Fox, ignited a movement that would reverberate through the annals of history.<br><br>Our mysterious communications with the spirit realm through a series of rappings captured the imagination of a nation, leading to the birth of Modern Spiritualism.', 'seancewp')); ?></p>
                     <!-- /wp:paragraph -->
                     <!-- wp:spacer {"height":"10px"} -->
                     <div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
@@ -44,10 +44,10 @@
                     <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"left"}} -->
                     <div class="wp-block-buttons">
                         <!-- wp:button {"textColor":"foreground"} -->
-                        <div class="wp-block-button"><a class="wp-block-button__link has-foreground-color has-text-color wp-element-button" href="#" rel=" "><?php echo esc_html_e('Learn More', 'seance'); ?></a></div>
+                        <div class="wp-block-button"><a class="wp-block-button__link has-foreground-color has-text-color wp-element-button" href="#" rel=" "><?php echo esc_html_e('Learn More', 'seancewp'); ?></a></div>
                         <!-- /wp:button -->
                         <!-- wp:button {"className":"is-style-outline"} -->
-                        <div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="#" target="_blank" rel=" "><?php echo esc_html_e('About Us', 'seance'); ?></a></div>
+                        <div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="#" target="_blank" rel=" "><?php echo esc_html_e('About Us', 'seancewp'); ?></a></div>
                         <!-- /wp:button -->
                     </div>
                     <!-- /wp:buttons -->
