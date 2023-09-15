@@ -33,7 +33,7 @@
         <!-- /wp:spacer -->
     </div>
     <!-- /wp:group -->
-    <!-- wp:query {"queryId":11,"query":{"perPage":3,"pages":0,"offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"exclude","inherit":false},"align":"wide","layout":{"type":"default"}} -->
+    <!-- wp:query {"query":{"perPage":3,"pages":0,"offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"exclude","inherit":false},"align":"wide","layout":{"type":"default"}} -->
     <div class="wp-block-query alignwide">
         <!-- wp:post-template {"layout":{"type":"grid","columnCount":3}} -->
         <!-- wp:post-featured-image {"isLink":true,"width":"100%","height":"318px"} /-->
