@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Footer light with about, latest posts, categories, site title and copyright
- * Slug: seancewp/footer-light-blog
+ * Slug: seance/footer-light-blog
  * Categories: footer
  * Description: Blog footer on a light block pattern
  * Keywords: footer
@@ -10,7 +10,7 @@
  * Post Types: wp_template
  * Inserter: true
  * 
- * @package seancewp
+ * @package seance
  * @since 1.0.0
  */
 ?>
@@ -22,17 +22,17 @@
         <!-- wp:column -->
         <div class="wp-block-column">
             <!-- wp:paragraph {"style":{"typography":{"textTransform":"uppercase"}}} -->
-            <p style="text-transform:uppercase"><?php echo esc_html_e('About us', 'seancewp'); ?></p>
+            <p style="text-transform:uppercase"><?php echo esc_html_e('About us', 'seance'); ?></p>
             <!-- /wp:paragraph -->
             <!-- wp:paragraph -->
-            <p><?php echo esc_html_e('We are the Fox sisters, Margaret, Catherine, and Leah. Hailing from Hydesville, New York, our lives took a mystifying turn in 1848 when we discovered our unique connection to the spirit realm.', 'seancewp'); ?></p>
+            <p><?php echo esc_html_e('We are the Fox sisters, Margaret, Catherine, and Leah. Hailing from Hydesville, New York, our lives took a mystifying turn in 1848 when we discovered our unique connection to the spirit realm.', 'seance'); ?></p>
             <!-- /wp:paragraph -->
         </div>
         <!-- /wp:column -->
         <!-- wp:column -->
         <div class="wp-block-column">
             <!-- wp:paragraph {"style":{"typography":{"textTransform":"uppercase"}}} -->
-            <p style="text-transform:uppercase"><?php echo esc_html_e('Latest Posts', 'seancewp'); ?></p>
+            <p style="text-transform:uppercase"><?php echo esc_html_e('Latest Posts', 'seance'); ?></p>
             <!-- /wp:paragraph -->
             <!-- wp:latest-posts /-->
         </div>
@@ -40,7 +40,7 @@
         <!-- wp:column -->
         <div class="wp-block-column">
             <!-- wp:paragraph {"style":{"typography":{"textTransform":"uppercase"}}} -->
-            <p style="text-transform:uppercase"><?php echo esc_html_e('Categories', 'seancewp'); ?></p>
+            <p style="text-transform:uppercase"><?php echo esc_html_e('Categories', 'seance'); ?></p>
             <!-- /wp:paragraph -->
             <!-- wp:categories /-->
         </div>
@@ -57,9 +57,9 @@
         <p class="has-text-align-right">
             <?php
             /* Translators: WordPress link. */
-            $wordpress_link = '<a href="' . esc_url(__('https://wordpress.org', 'seancewp')) . '" rel="nofollow">WordPress</a>';
+            $wordpress_link = '<a href="' . esc_url(__('https://wordpress.org', 'seance')) . '" rel="nofollow">WordPress</a>';
             echo sprintf(
-                esc_html__('Proudly powered by %1$s', 'seancewp'),
+                esc_html__('Proudly powered by %1$s', 'seance'),
                 $wordpress_link
             );
             ?>
