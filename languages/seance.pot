@@ -1,9 +1,9 @@
-# Copyright (C) 2023 Alex de Borba
+# Copyright (C) 2023 Alex de Borba.
 # This file is distributed under the GNU General Public License v2 or later.
 msgid ""
 msgstr ""
-"Project-Id-Version: Séance 1.0.0-alpha.1\n"
-"Report-Msgid-Bugs-To: https://github.com/alexdeborba/seancewp/issues\n"
+"Project-Id-Version: Séance 1.0.0-alpha.2\n"
+"Report-Msgid-Bugs-To: https://github.com/alexdeborba/seance/issues\n"
 "Last-Translator: Alex de Borba <mail@alexdeborba.com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -12,14 +12,14 @@ msgstr ""
 "POT-Creation-Date: 2023-08-18T04:30:31+00:00\n"
 "PO-Revision-Date: 2023-08-31 02:48:22+00:00\n"
 "X-Generator: WP-CLI 2.6.0\n"
-"X-Domain: seancewp\n"
+"X-Domain: seance\n"
 
 #. Theme Name of the theme
 msgid "Séance"
 msgstr ""
 
 #. Theme URI of the theme
-msgid "https://github.com/alexdeborba/seancewpwp/"
+msgid "https://github.com/alexdeborba/seance/"
 msgstr ""
 
 #. Description of the theme
@@ -36,7 +36,7 @@ msgstr ""
 
 #: patterns/front-page.php:405
 #: patterns/about-dark-media-left-text-right-bottom.php:30
-#: patterns/about-dark-media-left-text-right-centered.php:31
+#: patterns/about-dark-media-left-text-right-centered.php:30
 #: patterns/about-dark-media-right-text-left-bottom.php:29
 #: patterns/about-dark-media-right-text-left-centered.php:30
 #: patterns/about-dark-text-social-left-centered.php:25
@@ -50,7 +50,7 @@ msgstr ""
 #: patterns/front-page.php:123
 #: patterns/front-page.php:408
 #: patterns/about-dark-media-left-text-right-bottom.php:33
-#: patterns/about-dark-media-left-text-right-centered.php:34
+#: patterns/about-dark-media-left-text-right-centered.php:33
 #: patterns/about-dark-media-right-text-left-bottom.php:32
 #: patterns/about-dark-media-right-text-left-centered.php:33
 #: patterns/about-dark-text-social-left-centered.php:28
@@ -73,8 +73,8 @@ msgstr ""
 #: patterns/front-page.php:354
 #: patterns/front-page.php:397
 #: patterns/about-dark-media-left-text-right-bottom.php:22
-#: patterns/about-dark-media-left-text-right-centered.php:23
-#: patterns/about-dark-media-right-text-left-bottom.php:54
+#: patterns/about-dark-media-left-text-right-centered.php:22
+#: patterns/about-dark-media-right-text-left-bottom.php:53
 #: patterns/about-dark-media-right-text-left-centered.php:22
 #: patterns/about-light-text-left-media-right-buttons.php:35
 #: patterns/about-dark-media-left-and-text-right-bottom.php:22
@@ -96,7 +96,7 @@ msgstr ""
 msgid "The Fox Sisters"
 msgstr ""
 
-#: patterns/header-large-dark.php:35
+#: patterns/header-large-dark.php:47
 msgid "<em>Séance</em>: A Theme Born Out of Love and Death…"
 msgstr ""
 
