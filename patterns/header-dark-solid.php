@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Header dark solid background
- * Slug: seancewp/header-dark-solid
+ * Slug: seance/header-dark-solid
  * Categories: header
  * Description: Header with large dark block pattern
  * Keywords: page, layout, design, template, image, buttons
@@ -10,7 +10,7 @@
  * Post Types: wp_template
  * Inserter: true
  * 
- * @package seancewp
+ * @package seance
  * @since 1.0.0
  */
 ?>
@@ -27,13 +27,24 @@
                 <!-- wp:site-title {"style":{"typography":{"fontStyle":"italic","fontWeight":"400"}}} /-->
             </div>
             <!-- /wp:group -->
-            <!-- wp:navigation {"layout":{"type":"flex","setCascadingProperties":true,"justifyContent":"right"}} -->
-            <!-- wp:page-list /-->
+            <!-- wp:navigation {"icon":"menu","overlayBackgroundColor":"foreground","overlayTextColor":"primary","layout":{"type":"flex","setCascadingProperties":true,"justifyContent":"right"},"style":{"layout":{"selfStretch":"fit","flexSize":null},"typography":{"fontStyle":"italic","fontWeight":"400"}},"fontSize":"medium","fontFamily":"source-serif-pro"} -->
+            <!-- wp:navigation-link {"label":"Home","url":"#","kind":"custom","isTopLevelLink":true} /-->
+            <!-- wp:navigation-link {"label":"About","url":"#","kind":"custom","isTopLevelLink":true} /-->
+            <!-- wp:navigation-submenu {"label":"Events","url":"#","kind":"custom","isTopLevelItem":true} -->
+            <!-- wp:navigation-link {"label":"This Week","description":"All events taken place this week","url":"#","kind":"custom","isTopLevelLink":false} /-->
+            <!-- wp:navigation-link {"label":"This Month","description":"All events taken place this month","url":"#","kind":"custom","isTopLevelLink":false} /-->
+            <!-- wp:navigation-link {"label":"This Year","description":"All events taken place this year","url":"#","kind":"custom","isTopLevelLink":false} /-->
+            <!-- /wp:navigation-submenu -->
+            <!-- wp:navigation-link {"label":"Blog","url":"#","kind":"custom","isTopLevelLink":true} /-->
+            <!-- wp:navigation-link {"label":"Gallery","url":"#","kind":"custom","isTopLevelLink":true} /-->
+            <!-- wp:navigation-link {"label":"Contact","url":"#","kind":"custom","isTopLevelLink":true} /-->
+            <!-- /wp:navigation -->
+            <!-- wp:page-list {"isNavigationChild":true,"showSubmenuIcon":true,"openSubmenusOnClick":false} /-->
             <!-- /wp:navigation -->
         </div>
         <!-- /wp:group -->
         <!-- wp:heading {"align":"wide","style":{"typography":{"fontSize":"clamp(3.25rem, 8vw, 6.25rem)","lineHeight":"1.15"}}} -->
-        <h2 class="alignwide" style="font-size:clamp(3.25rem, 8vw, 6.25rem);line-height:1.15"><?php echo wp_kses_post(__('<em>Séance</em>: A Theme Born Out of Love and Death…', 'seancewp')) ?></h2>
+        <h2 class="alignwide" style="font-size:clamp(3.25rem, 8vw, 6.25rem);line-height:1.15"><?php echo wp_kses_post(__('<em>Séance</em>: A Theme Born Out of Love and Death…', 'seance')) ?></h2>
         <!-- /wp:heading -->
         <!-- wp:spacer {"height":76} -->
         <div style="height:76px" aria-hidden="true" class="wp-block-spacer"></div>
