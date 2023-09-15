@@ -59,7 +59,7 @@
         <!-- /wp:column -->
         <!-- wp:column {"width":"70%"} -->
         <div class="wp-block-column" style="flex-basis:70%">
-            <!-- wp:query {"queryId":5,"query":{"offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","sticky":"","inherit":false,"perPage":12},"layout":{"contentSize":null,"type":"constrained"}} -->
+            <!-- wp:query {"query":{"offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","sticky":"","inherit":false,"perPage":12},"layout":{"contentSize":null,"type":"constrained"}} -->
             <div class="wp-block-query">
                 <!-- wp:post-template {"layout":{"type":"grid","columnCount":3}} -->
                 <!-- wp:post-featured-image {"isLink":true,"width":"100%","height":"200px"} /-->
