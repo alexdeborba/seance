@@ -17,7 +17,7 @@ wp-content/*
 wp-content/plugins/hello.php
 
 # ignore specific themes
-wp-content/themes/seancewp*/
+wp-content/themes/seance*/
 
 # ignore node dependency directories
 node_modules/
@@ -371,17 +371,5 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
-patterns/.dev_patterns/dark-header-logo-centered.php
-patterns/.dev_patterns/default-blog-posts-archive.php
-patterns/.dev_patterns/footer-default.php
-patterns/.dev_patterns/form-light-subscribe.php
-patterns/.dev_patterns/header-light-image.php
-patterns/.dev_patterns/pricing-light-table.php
-templates/.dev_templates/home.html
-templates/.dev_templates/404.html
-templates/.dev_templates/blank.html
-templates/.dev_templates/single-no-separators.html
-templates/.dev_templates/page-no-separators.html
-templates/.dev_templates/page-large-header.html
-templates/.dev_templates/search.html
-templates/.dev_templates/index.html
+!patterns/.dev_patterns/
+!templates/.dev_templates/
