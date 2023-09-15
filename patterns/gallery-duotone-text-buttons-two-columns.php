@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Gallery dark with heading, paragraph, and buttons
- * Slug: seancewp/gallery-duotone-text-buttons-two-columns
+ * Slug: seance/gallery-duotone-text-buttons-two-columns
  * Categories: gallery
  * Description: Gallery with heading, paragraph, and buttons on a dark block pattern
  * Keywords: gallery, columns, media, buttons
@@ -10,7 +10,7 @@
  * Post Types: 
  * Inserter: true
  * 
- * @package seancewp
+ * @package seance
  * @since 1.0.0
  */
 ?>
@@ -36,20 +36,20 @@
                 <!-- wp:column {"width":"66.66%","style":{"spacing":{"padding":{"top":"5%","bottom":"5%","left":"5%"}}}} -->
                 <div class="wp-block-column" style="padding-top:5%;padding-bottom:5%;padding-left:5%;flex-basis:66.66%">
                     <!-- wp:heading {"level":3,"align":"wide","style":{"typography":{"fontSize":"60px"}}} -->
-                    <h3 class="wp-block-heading alignwide" style="font-size:60px"><?php echo wp_kses_post(__('<em>Séance</em>, a Full Site Editing Theme', 'seancewp')); ?></h3>
+                    <h3 class="wp-block-heading alignwide" style="font-size:60px"><?php echo wp_kses_post(__('<em>Séance</em>, a Full Site Editing Theme', 'seance')); ?></h3>
                     <!-- /wp:heading -->
                     <!-- wp:paragraph -->
-                    <p><?php echo wp_kses_post(__('Introducing our WordPress FSE theme, <em>Séance</em>, a portal that intertwines the elegance of bygone eras with modern design.<br><br>Crafted with ethereal aesthetics and intuitive functionalities, let your website be the medium that bridges the past with the present, and the seen with the unseen.', 'seancewp')); ?></p>
+                    <p><?php echo wp_kses_post(__('Introducing our WordPress FSE theme, <em>Séance</em>, a portal that intertwines the elegance of bygone eras with modern design.<br><br>Crafted with ethereal aesthetics and intuitive functionalities, let your website be the medium that bridges the past with the present, and the seen with the unseen.', 'seance')); ?></p>
                     <!-- /wp:paragraph -->
                     <!-- wp:spacer {"height":"10px"} -->
                     <div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
                     <!-- /wp:spacer -->
                     <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"left"}} -->
                     <div class="wp-block-buttons"><!-- wp:button {"textColor":"foreground"} -->
-                        <div class="wp-block-button"><a class="wp-block-button__link has-foreground-color has-text-color wp-element-button" href="#" target="_blank" rel="noreferrer noopener"><?php esc_html_e('Browse', 'seancewp'); ?></a></div>
+                        <div class="wp-block-button"><a class="wp-block-button__link has-foreground-color has-text-color wp-element-button" href="#" target="_blank" rel="noreferrer noopener"><?php esc_html_e('Browse', 'seance'); ?></a></div>
                         <!-- /wp:button -->
                         <!-- wp:button {"className":"is-style-outline"} -->
-                        <div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="#"><?php esc_html_e('Download', 'seancewp'); ?></a></div>
+                        <div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="#"><?php esc_html_e('Download', 'seance'); ?></a></div>
                         <!-- /wp:button -->
                     </div>
                     <!-- /wp:buttons -->
