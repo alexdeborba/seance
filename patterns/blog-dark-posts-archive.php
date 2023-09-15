@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Blog dark posts archive
- * Slug: seancewp/blog-dark-posts-archive
+ * Slug: seance/blog-dark-posts-archive
  * Categories: query, blog, posts
  * Description: Blog posts archive on a dark block pattern
  * Keywords: query, text, blog, posts
@@ -10,7 +10,7 @@
  * Post Types:
  * Inserter: true
  *
- * @package seancewp
+ * @package seance
  * @since 1.0.0
  */
 ?>
