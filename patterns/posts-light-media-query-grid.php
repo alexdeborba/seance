@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Posts light grid with featured image, title, excerpt, and date
- * Slug: seancewp/posts-light-media-query-grid
+ * Slug: seance/posts-light-media-query-grid
  * Categories: query
  * Description: Posts featured grid on a light block pattern
  * Description: Light grid of posts block pattern
@@ -11,7 +11,7 @@
  * Post Types:
  * Inserter: true
  * 
- * @package seancewp
+ * @package seance
  * @since 1.0.0
  */
 ?>
