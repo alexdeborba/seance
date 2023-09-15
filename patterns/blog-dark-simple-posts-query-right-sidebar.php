@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Blog dark posts simple grid with right sidebar
- * Slug: seancewp/blog-dark-simple-posts-query-right-sidebar
+ * Slug: seance/blog-dark-simple-posts-query-right-sidebar
  * Categories: pages
  * Description: Blog posts grid with right sidebar on a dark block pattern
  * Keywords: page, query, blog, posts, sidebar
@@ -10,7 +10,7 @@
  * Post Types:
  * Inserter: true
  * 
- * @package seancewp
+ * @package seance
  * @since 1.0.0
  */
 ?>
@@ -46,7 +46,7 @@
         <!-- wp:column {"width":"30%"} -->
         <div class="wp-block-column" style="flex-basis:30%">
             <!-- wp:heading {"level":4,"fontSize":"large"} -->
-            <h4 class="wp-block-heading has-large-font-size"><em><?php esc_html_e('Categories', 'seancewp'); ?></em></h4>
+            <h4 class="wp-block-heading has-large-font-size"><em><?php esc_html_e('Categories', 'seance'); ?></em></h4>
             <!-- /wp:heading -->
             <!-- wp:tag-cloud {"taxonomy":"category","showTagCounts":true} /-->
             <!-- wp:spacer {"height":"32px"} -->
@@ -59,7 +59,7 @@
             <div style="height:16px" aria-hidden="true" class="wp-block-spacer"></div>
             <!-- /wp:spacer -->
             <!-- wp:heading {"level":4,"fontSize":"large"} -->
-            <h4 class="wp-block-heading has-large-font-size"><em><?php esc_html_e('Pages', 'seancewp'); ?></em></h4>
+            <h4 class="wp-block-heading has-large-font-size"><em><?php esc_html_e('Pages', 'seance'); ?></em></h4>
             <!-- /wp:heading -->
             <!-- wp:navigation -->
             <!-- wp:page-list /-->
@@ -74,7 +74,7 @@
             <div style="height:16px" aria-hidden="true" class="wp-block-spacer"></div>
             <!-- /wp:spacer -->
             <!-- wp:heading {"level":4,"fontSize":"large"} -->
-            <h4 class="wp-block-heading has-large-font-size"><em><?php esc_html_e('Tags', 'seancewp'); ?></em></h4>
+            <h4 class="wp-block-heading has-large-font-size"><em><?php esc_html_e('Tags', 'seance'); ?></em></h4>
             <!-- /wp:heading -->
             <!-- wp:tag-cloud {"showTagCounts":true} /-->
             <!-- wp:spacer {"height":"16px"} -->
