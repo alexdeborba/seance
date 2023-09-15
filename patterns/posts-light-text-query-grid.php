@@ -17,7 +17,7 @@
 
 <!-- wp:group {"className":"alignfull"} -->
 <div class="wp-block-group alignfull">
-    <!-- wp:query {"queryId":9,"query":{"offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","sticky":"","perPage":12},"align":"wide","layout":{"contentSize":null,"type":"constrained"}} -->
+    <!-- wp:query {"query":{"offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","sticky":"","perPage":12},"align":"wide","layout":{"contentSize":null,"type":"constrained"}} -->
     <div class="wp-block-query alignwide">
         <!-- wp:post-template {"align":"wide","layout":{"type":"grid","columnCount":3}} -->
         <!-- wp:post-title {"isLink":true,"fontSize":"x-large"} /-->
