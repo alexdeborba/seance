@@ -1,22 +1,20 @@
 /*
 Theme Name: Séance
-Theme URI: https://github.com/alexdeborba/seancewp/
+Theme URI: https://github.com/alexdeborba/seance/
 Author: Alex de Borba
 Author URI: https://alexdeborba.com/
 Description: Séance was designed to provide a uniform, single-color foundation enhanced with hints of two-tone and three-tone color schemes. This design choice caters to individuals with color vision deficiency, covering both darker and lighter color palettes, all while maintaining a gothic aesthetic that appeals to passionate and aspiring writers due to its clarity and minimalist design. Impressively lightweight yet bold, Séance incorporates color palettes focused on accessibility and comes fully equipped with numerous meticulously designed Gutenberg Block Patterns. These elements subtly impart a minimalist visual strength to the content, similar to quickly leafing through a book with delicate fingertips, leisurely absorbing the written words. Fully customizable, Séance supports the Full Site Editing features launched with WordPress 5.9 and, in its unique way, offers a fresh writing and visual experience.
 Requires at least: 5.9
 Tested up to: 6.3
 Requires PHP: 5.6
-Version: 1.0.0-alpha.1
+Version: 1.0.0-alpha.2
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Text Domain: seancewp
+Text Domain: seance
 Tags: accessibility-ready, block-editor-styles, block-patterns, blog, custom-background, custom-colors, custom-footer, custom-header, custom-logo, custom-menu, editor-style, featured-images, footer-widgets, full-site-editing, one-column, post-formats, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready, wide-blocks
 
-Séance, (C) 2022-2003 Alex de Borba
+Séance, (C) 2022-2003 Alex de Borba.
 Séance is distributed under the terms of the GNU GPL.
-
-Séance is based on Twenty Twenty-Two https://wordpress.org/themes/twentytwentytwo/, (C) 2021-2023 Automattic, Inc.
 */
 
 /*
