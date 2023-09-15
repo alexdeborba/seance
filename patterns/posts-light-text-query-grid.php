@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Posts light grid with title, excerpt, and date
- * Slug: seancewp/posts-light-text-query-grid
+ * Slug: seance/posts-light-text-query-grid
  * Categories: query, posts, text, grid
  * Description: Posts text grid on a light block pattern
  * Keywords: text, blog, posts, grid
@@ -10,7 +10,7 @@
  * Post Types:
  * Inserter: true
  *
- * @package seancewp
+ * @package seance
  * @since 1.0.0
  */
 ?>
