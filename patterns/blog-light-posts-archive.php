@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Blog light posts archive
- * Slug: seancewp/blog-light-posts-archive
+ * Slug: seance/blog-light-posts-archive
  * Categories: query, blog, posts
  * Description: Blog posts archive on a light block pattern
  * Keywords: query, text, blog, posts
@@ -10,7 +10,7 @@
  * Post Types:
  * Inserter: true
  *
- * @package seancewp
+ * @package seance
  * @since 1.0.0
  */
 ?>
