@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Footer dark with site title, tagline, and social icons
- * Slug: seancewp/footer-dark-title-tagline-social
+ * Slug: seance/footer-dark-title-tagline-social
  * Categories: footer
  * Description: Footer with site title, tagline, and icons on a dark block pattern
  * Keywords: footer, title, tagline, social
@@ -10,7 +10,7 @@
  * Post Types: wp_template
  * Inserter: true
  * 
- * @package seancewp
+ * @package seance
  * @since 1.0.0
  */
 ?>
@@ -27,12 +27,11 @@
         <!-- /wp:group -->
         <!-- wp:social-links {"iconBackgroundColor":"foreground","iconBackgroundColorValue":"var(--wp--preset--color--foreground)","layout":{"type":"flex","justifyContent":"right"}} -->
         <ul class="wp-block-social-links has-icon-background-color">
-            <!-- wp:social-link {"url":"#","service":"facebook"} /-->
-            <!-- wp:social-link {"url":"#","service":"linkedin"} /-->
-            <!-- wp:social-link {"url":"#","service":"twitter"} /-->
-            <!-- wp:social-link {"url":"#","service":"instagram"} /-->
-            <!-- wp:social-link {"url":"#","service":"pinterest"} /-->
-            <!-- wp:social-link {"url":"#","service":"wordpress"} /-->
+            <!-- wp:social-link {"url":"facebook.com","service":"facebook","label":"Facebook"} /-->
+            <!-- wp:social-link {"url":"linkedin.com","service":"linkedin",,"label":"LinkedIn"} /-->
+            <!-- wp:social-link {"url":"instagram.com","service":"instagram","label":"Instagram"} /-->
+            <!-- wp:social-link {"url":"pinterest.com","service":"pinterest","label":"Pinterest"} /-->
+            <!-- wp:social-link {"url":"wordpress.org","service":"wordpress","label":"WordPress"} /-->
         </ul>
         <!-- /wp:social-links -->
     </div>
