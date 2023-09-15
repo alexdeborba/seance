@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Footer light with posts query loop, featured images, title, date, and excerpt
- * Slug: seancewp/footer-light-posts
+ * Slug: seance/footer-light-posts
  * Categories: footer
  * Description: Footer with posts query on a light block pattern
  * Keywords: footer, posts, images, title, date, excerpt
@@ -10,7 +10,7 @@
  * Post Types: wp_template
  * Inserter: true
  * 
- * @package seancewp
+ * @package seance
  * @since 1.0.0
  */
 ?>
@@ -39,9 +39,9 @@
             <p>
                 <?php
                 /* Translators: WordPress link. */
-                $wordpress_link = '<a href="' . esc_url(__('https://wordpress.org', 'seancewp')) . '" rel="nofollow">WordPress</a>';
+                $wordpress_link = '<a href="' . esc_url(__('https://wordpress.org', 'seance')) . '" rel="nofollow">WordPress</a>';
                 echo sprintf(
-                    esc_html__('Proudly powered by %1$s', 'seancewp'),
+                    esc_html__('Proudly powered by %1$s', 'seance'),
                     $wordpress_link
                 );
                 ?>
