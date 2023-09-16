@@ -35,7 +35,7 @@ If applicable, add screenshots to help explain your problem.
 - Version: [e.g. 22]
 
 ## Theme (please complete the following information):
-- Theme Version: [e.g. 1.0.0-alpha.1]
+- Theme Version: [e.g. 1.0.0-alpha.2]
 - Site Language: [e.g. en_US]
 - Is this site using HTTPS? [e.g. Yes/No]
 - Is this a Multisite? [e.g. Yes/No]
