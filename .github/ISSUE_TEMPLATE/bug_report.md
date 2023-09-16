@@ -4,44 +4,43 @@ about: Create a report to help us improve the Séance theme
 title: ''
 labels: bug
 assignees: alexdeborba
-
 ---
 
-## Describe the bug
-A clear and concise description of what the bug is.
+## Describe the bug:
+Provide a lucid and succinct description of the bug. This will help pinpoint the exact issue.
 
-## To Reproduce
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+## Steps to Reproduce:
+To help recreating the bug on my end, list down the exact steps you took:
+1. Navigate to '...'
+2. Interact by clicking on '....'
+3. Scroll directionally to '....'
+4. Observe the error
 
-## Expected behavior
-A clear and concise description of what you expected to happen.
+## Expected behavior:
+Detail your expectations—what you believe should have occurred.
 
-## Screenshots
-If applicable, add screenshots to help explain your problem.
+## Visual Evidence:
+If it is feasible, attach screenshots or screen recordings to visually depict the issue. They are invaluable in understanding the nature and scope of the problem.
 
-## Desktop (please complete the following information):
+## Desktop Information:
 - OS: [e.g. iOS]
 - Browser: [e.g. chrome, safari]
 - Version: [e.g. 22]
 
-## Smartphone (please complete the following information):
+## Smartphone Details:
 - Device: [e.g. iPhone6]
 - OS: [e.g. iOS8.1]
 - Browser: [e.g. stock browser, safari]
 - Version: [e.g. 22]
 
-## Theme (please complete the following information):
+## Theme Specifics:
 - Theme Version: [e.g. 1.0.0-alpha.2]
 - Site Language: [e.g. en_US]
 - Is this site using HTTPS? [e.g. Yes/No]
 - Is this a Multisite? [e.g. Yes/No]
-- Active Plugins: [e.g. Classic Editor]
+- Active Plugins: [e.g. List all active plugins, especially if you suspect any could be interfering.]
 
-## WordPress Environment (please complete the following information):
+## WordPress Environment:
 - PHP Version: [e.g. 8.0]
 - PHP Max Input Variables: [e.g. 10000]
 - PHP Time Limit: [e.g. 300]
@@ -50,26 +49,30 @@ If applicable, add screenshots to help explain your problem.
 - Upload Max Filesize: [e.g. 128M]
 - PHP Post Max Size: [e.g. 128M]
 
-## Additional context
-Add any other context about the problem here.
+## Contextual Information:
+Share any additional background or contextual details that might shed light on the bug's origin or behavior.
 
-## Console Errors
-If applicable, provide any console errors you see in the browser.
+## Console Errors:
+Capture any console errors that pop up in your browser. They can offer clues to the issue’s root.
 
-## Workarounds
-Have you found any workarounds for this issue? If so, describe them here.
+## Workarounds & Solutions:
+If you have devised a temporary fix or have found any workarounds, kindly detail them here.
 
-## User Role
-What role does the affected user have? (Admin, Editor, Subscriber, etc.)
+## User Access Level:
+Specify the role of the affected user, as permissions can influence bug behaviors.
 
-## Reproducibility
-Is this issue consistently reproducible or does it happen randomly?
+## Reproducibility:
+Describe the bug's consistency. Does it occur every time a specific action is taken, or is it sporadic?
 
-## Prior Attempts to Resolve
-Have you attempted to resolve this issue yourself? If so, how?
+## Previous Troubleshooting Steps:
+Mention any prior steps or methods you have tried in hopes of rectifying the issue.
 
-## System Status Report
-If applicable, generate and paste your system status report here.
+## System Status Snapshot:
+If you can, generate a system status report and insert it here. It aids in diagnostic procedures.
 
-## Affected Features
-List any other features that are also affected by this bug.
+## Affected Areas:
+List out other features or sections of the theme that this bug might be negatively impacting.
+
+*By furnishing me with comprehensive details, you play a pivotal role in ensuring the Séance theme's continuous improvement.*
+
+*Thank you for your patience and invaluable contribution.*
