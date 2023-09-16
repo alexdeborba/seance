@@ -6,8 +6,8 @@ Only the latest version of the Séance theme is eligible for security updates an
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 1.0.x   | :white_check_mark: |
-| < 1.0   | :x:                |
+| 1.0.0-alpha.2   | :white_check_mark: |
+| 1.0.0-alpha.1   | :x:                |
 
 ## Reporting a Vulnerability
 
