@@ -2,20 +2,25 @@
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+Only the latest version of the Séance theme is eligible for security updates and patches. Older versions are not supported.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| 1.0.x   | :white_check_mark: |
+| < 1.0   | :x:                |
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
+If you discover a security vulnerability within the Séance theme, please send an email to the project's maintainers instead of using the issue tracker. Your report will be acknowledged within 48 hours, and you will receive a more detailed response within 96 hours indicating the next steps in handling your report.
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+After the initial reply to your report, the security team will endeavor to keep you informed of the progress being made toward a fix and full announcement.
+
+Thank you for improving the security of the Séance theme. Your efforts and responsible disclosure are genuinely appreciated.
+
+## Disclosure Policy
+
+When the security team receives a security bug report, they will assign it to a primary handler. This person will coordinate the fix and release process.
+
+## Comments on this Policy
+
+If you have suggestions on how this process could be improved, please submit a pull request.
