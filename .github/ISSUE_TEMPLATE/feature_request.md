@@ -4,53 +4,52 @@ about: Suggest an idea to improve the Séance theme
 title: ''
 labels: enhancement
 assignees: alexdeborba
-
 ---
 
-## Summary
-Provide a brief summary of the feature request.
+## Feature Synopsis:
+Craft a concise and illustrative summary of the feature you are proposing.
 
-## Is your feature request related to a problem? Please describe.
-A clear and concise description of what the problem is. Example: Iam always frustrated when [...]
+## Problem Correlation:
+Elaborate on any existing challenges or limitations you've faced. Phrase it as, "I often encounter difficulties when..."
 
-## Describe the solution you would like.
-A clear and concise description of what you want to happen.
+## Envisioned Solution:
+Detail the specific changes or additions you believe would mitigate the problem or enhance the theme.
 
-## Describe alternatives you have considered.
-A clear and concise description of any alternative solutions or features you have considered.
+## Alternatives Contemplated:
+Share other solutions or features you have pondered over. This can help gauge the breadth and depth of the issue.
 
-## Priority
-How important is this feature to you and/or to others? 
+## Priority Assessment:
+Gauge the urgency of this feature for you and potentially for other users:
 - Low
 - Medium
 - High
 
-## Use Case
-Describe the use case for this feature. Who will use it? When/where will it be used?
+## Use Case Illustration:
+Outline a scenario showcasing the feature in action. Who would benefit from it? Under what circumstances would it be employed?
 
-## Impact
-What kind of impact will this feature have? Will it help more users? Will it simplify workflows?
+## Potential Impact:
+Project the larger implications of this feature. Would it elevate user satisfaction? Could it streamline certain operations?
 
-## Additional context
-Add any other context, mockups, or screenshots about the feature request here.
+## Contextual Nuances:
+Attach any supplementary information, mock designs, or visual representations about the feature request.
 
-## Is this feature request aligned with the project’s goals?
-Explain how this feature aligns with the project's goals, especially if the project has a particular focus, such as accessibility, performance, etc.
+## Alignment with Project Objectives:
+Highlight the synergy between your suggestion and the overarching goals of the Séance theme – be it enhancing accessibility, optimizing performance, or any other focused objective.
 
-## Have you or someone else worked on implementing this feature already?
-Note any work that is already been done, if applicable. Provide links to pull requests or branches, or even mockups and prototypes.
+## Previous Implementation Endeavors:
+Mention any past attempts or initial steps taken towards realizing this feature. Include links to sketches, branches, or pull requests.
 
-## Technical Feasibility
-Do you have insights into how technically feasible this feature is? Any idea about the codebase areas that might be affected?
+## Feasibility Insights:
+If you possess technical knowledge of the theme, speculate on the practicality of the feature and potential sections of the codebase that may be implicated.
 
-## Related Issues
-Are there any related GitHub issues? Please link them here.
+## Correlating Discussions:
+Reference any GitHub issues or threads that broach a similar topic or could be connected to your proposal.
 
-## Documentation
-If the feature is implemented, what kinds of documentation (e.g., README, Wiki, inline comments) should be updated?
+## Documentation Updates:
+Envision the aftermath of feature integration. Which segments of the documentation would necessitate revisions or additions?
 
-## User Permissions
-Will this feature require changes to user permissions? How will different user roles be affected?
+## Permission Alterations:
+Foresee if the feature could instigate changes in user roles or permissions. How would various roles interact with this new feature?
 
-## Metrics
-How can the success of this feature be measured?
+## Performance Metrics:
+Recommend methodologies or metrics to evaluate the feature's success post-deployment. This could be in terms of user engagement, efficiency improvements, or any other quantifiable metric.
