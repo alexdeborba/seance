@@ -1,13 +1,13 @@
 <?php
 /**
- * Title: About light with heading, paragraphs on two columns
+ * Title: About - Light (Two Columns Text)
  * Slug: seance/about-light-text-two-columns
- * Categories: pages
- * Description: About with text on two columns on a light block pattern
+ * Categories: about, pages
+ * Description: A two-column light block pattern with a title, subheading, and detailed text content.
  * Keywords: heading, paragraph, columns
  * Viewport Width: 1500
- * Block Types: core/pages
- * Post Types:
+ * Block Types: core/group, core/heading, core/paragraph, core/columns, core/column, core/separator
+ * Post Types: post, page
  * Inserter: true
  * 
  * @package seance
@@ -18,7 +18,7 @@
 <!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var(--wp--custom--spacing--large, 8rem)","bottom":"var(--wp--custom--spacing--large, 8rem)"}}},"layout":{"inherit":true}} -->
 <div class="wp-block-group alignfull" style="padding-top:var(--wp--custom--spacing--large, 8rem);padding-bottom:var(--wp--custom--spacing--large, 8rem);">
     <!-- wp:heading {"level":1,"align":"wide","style":{"typography":{"fontSize":"clamp(4rem, 15vw, 12.5rem)","lineHeight":"1","fontWeight":"200"}}} -->
-    <h1 class="alignwide" style="font-size:clamp(4rem, 15vw, 12.5rem);font-weight:200;line-height:1"><?php echo wp_kses_post(__('<em>Life </em><br><em>&amp; Death</em>', 'seance')); ?></h1>
+    <h1 class="alignwide" style="font-size:clamp(4rem, 15vw, 12.5rem);font-weight:200;line-height:1"><?php echo wp_kses_post(__('<em>Life</em><br><em>&amp; Death</em>', 'seance')); ?></h1>
     <!-- /wp:heading -->
     <!-- wp:spacer {"height":50} -->
     <div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
