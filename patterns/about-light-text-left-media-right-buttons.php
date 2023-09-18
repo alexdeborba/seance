@@ -1,13 +1,13 @@
 <?php
 /**
- * Title: About light with text, media, and buttons
+ * Title: About - Light (Text on Left, Media on Right with Buttons)
  * Slug: seance/about-light-text-left-media-right-buttons
- * Categories: posts
- * Description: About with text, media and buttons on a light block pattern
+ * Categories: about, posts
+ * Description: A light block pattern featuring a title on the left, an image on the right, followed by a descriptive paragraph and two buttons.
  * Keywords: text, media, buttons
  * Viewport Width: 1500
- * Block Types: 
- * Post Types: 
+ * Block Types: core/group, core/columns, core/heading, core/image, core/paragraph, core/buttons, core/button
+ * Post Types: post, page
  * Inserter: true
  * 
  * @package seance
@@ -31,8 +31,8 @@
         <!-- /wp:column -->
         <!-- wp:column {"verticalAlignment":"bottom","width":"66.66%"} -->
         <div class="wp-block-column is-vertically-aligned-bottom" style="flex-basis:66.66%">
-            <!-- wp:image {"id":1747,"sizeSlug":"large","linkDestination":"none"} -->
-            <figure class="wp-block-image size-large"><img src="<?php echo esc_url(get_theme_file_uri("/assets/images/about-light-top.jpg")); ?>" alt="<?php esc_html_e('The Fox Sisters', 'seance'); ?>" /></figure>
+            <!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+            <figure class="wp-block-image size-large"><img src="<?php echo esc_url(get_theme_file_uri("/assets/images/about-light-top.jpg")); ?>" alt="<?php esc_html_e('Image Representation of The Fox Sisters', 'seance'); ?>" /></figure>
             <!-- /wp:image -->
             <!-- wp:paragraph -->
             <p><?php echo esc_html_e('We are Margaret, Catherine, and Leah Fox, renowned spiritual mediums from a bygone era, now embracing the digital age. With our unique abilities, we have connected countless souls with the messages of the spirit world', 'seance'); ?></p>
