@@ -2,11 +2,11 @@
 /**
  * Title: About - Dark (Media on Left, Heading, Paragraph, and Social Icons Centered Right)
  * Slug: seance/about-dark-media-left-text-right-centered
- * Categories: about
+ * Categories: about, dark, heading, image, paragraph, social
  * Description: A dark block pattern for an about section featuring media on the left with text centered on the right.
  * Keywords: about, dark, heading, image, paragraph, social
  * Viewport Width: 1500
- * Block Types: core/group
+ * Block Types: core/group, core/media-text, core/spacer, core/heading, core/paragraph, core/social-links
  * Inserter: true
  * 
  * @package seance
